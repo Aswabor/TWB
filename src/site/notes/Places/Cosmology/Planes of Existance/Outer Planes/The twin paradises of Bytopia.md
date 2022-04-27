@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"upper","alignment":"LG/NG","aliases":"Bytopia","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-twin-paradises-of-bytopia/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"upper","alignment":"LG/NG","aliases":"Bytopia","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-twin-paradises-of-bytopia/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Bytopia?
