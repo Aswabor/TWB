@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-vampire/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-vampire/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 A lone figure clad in burnished steel greets the roaring infantry as they charge through the breach in the castle’s walls. In a flash of black mist, the figure appears in front of the soldiers, striking them down with inhuman speed.
