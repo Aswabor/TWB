@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"neutral","alignment":"NN","aliases":"Scherbenwelt","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/outlands/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"neutral","alignment":"NN","aliases":"Scherbenwelt","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/outlands/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Outlands
