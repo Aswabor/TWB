@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"lower","alignment":"NE","aliases":"Hades","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-gray-wastes-of-hades/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"lower","alignment":"NE","aliases":"Hades","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-gray-wastes-of-hades/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Hades?
