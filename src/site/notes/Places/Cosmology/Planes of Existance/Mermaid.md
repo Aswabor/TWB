@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/cosmology/planes-of-existance/mermaid/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/cosmology/planes-of-existance/mermaid/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```mermaid
