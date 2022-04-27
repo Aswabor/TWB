@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/weapons/ammunition/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/weapons/ammunition/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
