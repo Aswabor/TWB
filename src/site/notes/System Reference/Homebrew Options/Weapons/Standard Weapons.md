@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/weapons/standard-weapons/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/weapons/standard-weapons/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
