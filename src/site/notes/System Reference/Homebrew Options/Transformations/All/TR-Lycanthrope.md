@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-lycanthrope/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-lycanthrope/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 A howling call is heard across thatched rooftops, summoning the pack to assemble. Below, a man tears at his clothes as moonlight shines down on him. The hunched figure screams in pain, begging his family to run. With muscles bursting and razor-sharp claws forming, his transformation is underway.
