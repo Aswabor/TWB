@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-u5/characters/nitt/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-u5/characters/nitt/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # **Nitt**
