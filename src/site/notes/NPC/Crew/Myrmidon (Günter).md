@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"NPC/Party","Plane":"Party","Residence":"Aurelia","permalink":"/npc/crew/myrmidon-guenter/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"NPC/Party","Plane":"Party","Residence":"Aurelia","permalink":"/npc/crew/myrmidon-guenter/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Aquira (Günter)
