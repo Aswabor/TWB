@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/the-curse-of-the-kenku/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/the-curse-of-the-kenku/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 This curse did three things;
