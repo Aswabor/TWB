@@ -46,7 +46,7 @@
 - [x] A [[NPC/Council of Concordance/Council of Concordance|Council of Concordance]] are the ones truly voting on the big decisions
 - [x] Portal aus ratten. Bild?
 - [x] wärend ritual starkes ziehen unter der haut wie bei Ankunft von dropplet
-- [x] fals sie durch das Portal fallen/Springen Map von [[1 - iBwVpSS.jpg|space portal spagetification]]
+- [x] fals sie durch das Portal fallen/Springen Map von [[1 - iBwVpSS.webp|space portal spagetification]]
 - [x] wo ist das ritual und wiso?
 	- [x] im spire
 	- [-] in unterwasser ruine
