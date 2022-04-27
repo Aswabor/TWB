@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/additional-tables/gifts-of-damnation/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/additional-tables/gifts-of-damnation/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
  
