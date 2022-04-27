@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":null,"aliases":"Plane of fire,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-fire/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":null,"aliases":"Plane of fire,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-fire/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Plane of Fire?
