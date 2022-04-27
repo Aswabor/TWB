@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/npc/npc/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/npc/npc/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 [[HOME|HOME]]
