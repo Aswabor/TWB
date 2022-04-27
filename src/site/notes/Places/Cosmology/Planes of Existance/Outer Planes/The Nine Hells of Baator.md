@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"lower","alignment":"LE","aliases":"Nine Hells, Baator","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-nine-hells-of-baator/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"lower","alignment":"LE","aliases":"Nine Hells, Baator","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-nine-hells-of-baator/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Baator (Nine Hells)?
