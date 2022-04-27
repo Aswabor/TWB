@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["usserhalb","usse"],"permalink":"/places/cosmology/far-realm/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":["usserhalb","usse"],"permalink":"/places/cosmology/far-realm/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Far Realm?
