@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-story/story-so-far/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-story/story-so-far/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ## [[Places/Ravnica/10th District|10th District]]
