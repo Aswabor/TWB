@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":null,"alignment":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/astral-plane/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":null,"alignment":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/astral-plane/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Astral Plane
