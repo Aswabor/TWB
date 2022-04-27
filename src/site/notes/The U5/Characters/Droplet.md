@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-u5/characters/droplet/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-u5/characters/droplet/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # **Droplet**
