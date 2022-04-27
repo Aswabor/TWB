@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Earth Fire","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-magma/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Earth Fire","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-magma/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Magma
