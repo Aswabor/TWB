@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/gifts-of-the-motes/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/gifts-of-the-motes/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 - **Mote of Flight.** You have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy [[System Reference/Homebrew Options/Armor/Armor|armor]].
