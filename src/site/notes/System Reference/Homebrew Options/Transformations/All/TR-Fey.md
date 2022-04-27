@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-fey/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-fey/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 The soft strumming of a harp draws the children ever deeper into the dark wood. As they reach a moonlit clearing, they see a beautiful maid dressed in a gown of starlight. She turns her soft gaze upon them at the sounds of their gasps and calls to them, “Welcome, little ones, be not afraid. Step into the ring so we may dance and play.”
