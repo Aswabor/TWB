@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Air","EnergyRelation":null,"aliases":"Plane of air,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-air/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Air","EnergyRelation":null,"aliases":"Plane of air,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-air/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Plane of Air?
