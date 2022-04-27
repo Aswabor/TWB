@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"NPC/Ravnica Write","Plane":"Ravnica","Residence":"10thDistrict","permalink":"/npc/nausius-ven/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"NPC/Ravnica Write","Plane":"Ravnica","Residence":"10thDistrict","permalink":"/npc/nausius-ven/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Die Experimente des Nausius:
