@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":null,"EnergyRelation":"Positive","aliases":"Positive","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/energy-planes/positive-energy-plane/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":null,"EnergyRelation":"Positive","aliases":"Positive","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/energy-planes/positive-energy-plane/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Positive  Energy Plane
