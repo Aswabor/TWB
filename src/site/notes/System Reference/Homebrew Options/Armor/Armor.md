@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/armor/armor/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/armor/armor/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
