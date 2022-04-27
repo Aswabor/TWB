@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/templates/dg-yaml/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/templates/dg-yaml/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
