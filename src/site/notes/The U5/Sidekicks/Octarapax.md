@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-u5/sidekicks/octarapax/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-u5/sidekicks/octarapax/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 > ## Krasis  
