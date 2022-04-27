@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"upper","alignment":"LN/LG","aliases":"Arcadia","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-peaceable-kingdoms-of-arcadia/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"upper","alignment":"LN/LG","aliases":"Arcadia","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-peaceable-kingdoms-of-arcadia/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Arcadia?
