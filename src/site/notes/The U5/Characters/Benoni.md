@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-u5/characters/benoni/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-u5/characters/benoni/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # **Benoni**
