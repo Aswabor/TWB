@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/cosmology/planes-of-existance/reflection-planes/shadowfell/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/cosmology/planes-of-existance/reflection-planes/shadowfell/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Shadowfell?
