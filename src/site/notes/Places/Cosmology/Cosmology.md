@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/cosmology/cosmology/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/cosmology/cosmology/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Cosmology
