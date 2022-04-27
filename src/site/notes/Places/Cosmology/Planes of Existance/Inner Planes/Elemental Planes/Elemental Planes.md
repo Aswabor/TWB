@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":null,"EnergyRelation":null,"aliases":"Elemental Chaos,","tags":"noList","permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/elemental-planes/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":null,"EnergyRelation":null,"aliases":"Elemental Chaos,","tags":"noList","permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/elemental-planes/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Elemental Chaos
