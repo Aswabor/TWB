@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/lieutenant/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/lieutenant/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # First Mate (AKA the First Officer)
