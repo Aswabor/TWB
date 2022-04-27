@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-u5/characters/xanthus/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-u5/characters/xanthus/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # **Xanthus**
