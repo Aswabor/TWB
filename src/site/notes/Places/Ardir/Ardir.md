@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/ardir/ardir/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/ardir/ardir/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Ardir
