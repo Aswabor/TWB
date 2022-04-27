@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-primordial/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-primordial/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 The city dwellers raise their eyes to a floating figure barely glimpsed through the smog-filled sky. Their cries ring out as the figure, wreathed in flame, clenches a fist, causing the earth to tremble violently. The crushing weight of water is the last sensation the people know, as their filthy streets are washed clean.
