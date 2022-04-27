@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Fire Air","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-smoke/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Fire Air","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-smoke/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Smoke
