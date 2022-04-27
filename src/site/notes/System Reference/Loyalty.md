@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/loyalty/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/loyalty/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # LOYALTY
