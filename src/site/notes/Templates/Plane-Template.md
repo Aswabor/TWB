@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/plane-template/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/templates/plane-template/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # {{title}}
