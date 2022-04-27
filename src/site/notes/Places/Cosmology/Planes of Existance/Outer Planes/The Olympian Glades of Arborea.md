@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"upper","alignment":"CG","aliases":"Arborea","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-olympian-glades-of-arborea/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"upper","alignment":"CG","aliases":"Arborea","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-olympian-glades-of-arborea/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Arborea?
