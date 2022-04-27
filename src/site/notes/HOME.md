@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # The Worlds Beyond
