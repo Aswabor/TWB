@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-lich/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-lich/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 The screams of souls torn from their bodies echo over the electric crackling of forbidden magic. A skeletal form rapidly stitches flesh and muscle to its frame, creating a seemingly living man – a man from an age and kingdom long gone. A man who has conquered death and risen again to enact his insidious will from millennia ago. The screams stop and are replaced with murmurs, as the corpses of the fallen arise as undead.
