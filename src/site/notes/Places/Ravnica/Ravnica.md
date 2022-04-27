@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/ravnica/ravnica/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/ravnica/ravnica/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Ravnica
