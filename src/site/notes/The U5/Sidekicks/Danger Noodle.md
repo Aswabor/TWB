@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-u5/sidekicks/danger-noodle/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-u5/sidekicks/danger-noodle/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 > ## Danger Noodle  
