@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"lower","alignment":"CN/CE","aliases":"Pandemonium, Howling Land,","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-windswept-depths-of-pandemonium/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"lower","alignment":"CN/CE","aliases":"Pandemonium, Howling Land,","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-windswept-depths-of-pandemonium/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Pandemonium?
