@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/the-story/the-story/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/the-story/the-story/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 [[HOME|HOME]]
