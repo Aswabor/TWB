@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/seafaring/crew/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/seafaring/crew/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Crew
