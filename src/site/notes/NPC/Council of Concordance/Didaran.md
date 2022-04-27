@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"NPC/Sigil","Plane":"Outlands","Residence":"Sigil","permalink":"/npc/council-of-concordance/didaran/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"NPC/Sigil","Plane":"Outlands","Residence":"Sigil","permalink":"/npc/council-of-concordance/didaran/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
