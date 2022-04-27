@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/learning-new-proficiencies/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/learning-new-proficiencies/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
