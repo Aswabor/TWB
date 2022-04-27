@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/npc/council-of-concordance/council-of-concordance/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/npc/council-of-concordance/council-of-concordance/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Emissaries of Concordance
