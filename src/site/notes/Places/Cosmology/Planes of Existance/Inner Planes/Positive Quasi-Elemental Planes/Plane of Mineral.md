@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Earth","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-mineral/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Earth","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-mineral/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Mineral
