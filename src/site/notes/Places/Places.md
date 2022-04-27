@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/places/places/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/places/places/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 [[HOME|HOME]]
