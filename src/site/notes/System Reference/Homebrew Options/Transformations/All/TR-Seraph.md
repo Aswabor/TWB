@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-seraph/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-seraph/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 Incense burns dimly, as muffled coughs echo through the musty room. Loved ones hold each other as a bedridden woman exhales for the last time, her scarred face bearing the mortifying lesions of the Weeping Pox. Her family sobs, too lost in their sorrow to notice how the smouldering embers radiate and shine. A woman with flowing robes and platinum hair approaches, Radiant energy emitting from her folded, angelic wings. “Hold on for but a moment my child,” she whispers. “Mercy has been granted.”
