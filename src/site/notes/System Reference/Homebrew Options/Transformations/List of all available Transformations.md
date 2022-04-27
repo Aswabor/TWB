@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/list-of-all-available-transformations/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/list-of-all-available-transformations/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
