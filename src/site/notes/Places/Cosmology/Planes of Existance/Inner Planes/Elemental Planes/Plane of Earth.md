@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Earth","EnergyRelation":null,"aliases":"Plane of earth,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-earth/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Earth","EnergyRelation":null,"aliases":"Plane of earth,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-earth/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Plane of Earth?
