@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Air","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-lightning/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Air","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-lightning/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Lightning
