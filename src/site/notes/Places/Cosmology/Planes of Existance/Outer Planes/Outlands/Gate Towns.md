@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":null,"alignment":null,"aliases":null,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/gate-towns/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":null,"alignment":null,"aliases":null,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/gate-towns/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What are the Gate-Towns?
