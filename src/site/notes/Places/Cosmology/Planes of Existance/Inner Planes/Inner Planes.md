@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/inner-planes/inner-planes/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/inner-planes/inner-planes/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Inner Planes
