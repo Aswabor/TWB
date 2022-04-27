@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/kapitaen/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/kapitaen/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Captain (AKA Commander)
