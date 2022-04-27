@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/armor/shields/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/armor/shields/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
