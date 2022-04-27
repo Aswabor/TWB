@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/conditions/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/conditions/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
