@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"BaseRelation":"Air","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-vacuum/","dgHomeLink":false,"dgPassFrontmatter":true}
+---
+
+# Vacuum
+[[Places/Cosmology/Planes of Existance/Inner Planes/Negative Quasi-Elemental Planes/Negative Quasi-Elemental Planes|Negative Quasi-Elemental Planes]]
+### Vacuum: An Outsider’s Perspective
+This empty expanse between the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Air|Plane of Air]] and the nothing of the Negative Every Plane is known as the Vacuum. As one moves further from the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Air|Plane of Air]], the atmosphere thins until it is completely gone as you get to the [[Places/Cosmology/Planes of Existance/Inner Planes/Energy Planes/Negative Energy Plane|Negative Energy Plane]]. While there is no atmosphere or anything, in this vacuum the pressure and temperature remain consistent, unchanging. Freezing or burning is not the threat of this plane, but rather the lack of anything. Spells that would transform elements into a breathable atmosphere do not function, like _[[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Water|Plane of Water]] breathing_, and even wings on a bird have no use for this is nothing to flap against.
+
+### Vacuum: A Native’s Perspective
+Thought of as the prelude to death, this plane is of nothing. No light. No sound. No breath. All around is a vacuum, no materials exist at the closest borders to the [[Places/Cosmology/Planes of Existance/Inner Planes/Energy Planes/Negative Energy Plane|Negative Energy Plane]]. Even the quasielementals of vacuum are beings of no body. Invisible force, that can never be seen, moves through the plane, striking any living creature it finds. These elementals are a vacuum in and of themselves, and if they happen to find themselves on another plane, they flee as quickly as they can as they fear the thick atmosphere. Those who are unable to escape fall into a hibernetic shock state, forming themselves into spheres of invisible force until they can return to their plane. 
+
+Beyond the elemental animals of this plane, the plane is also home to a large number of undead creatures like ghosts and other spectral creatures. While there are a few ghouls, most undead of this plane are simply the spirits of those who died long ago and hunt through this plane. The quasi-elementals hate these creatures, for they are still something unlike the pure vacuum that the elementals represent.
+
+## Traits
+### Vacuum: Atmosphere
+This grey-black void of nothing has no breathable [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Air|Plane of Air]], but still has constant pressure and temperature, and travelers can see almost a thousand feet out, not that there is anything to see. Unprotected travelers will quickly die from asphyxiation, even those who can cast spells to change the elements, like [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Water|Plane of Water]], into a breathable atmosphere as there is no atmosphere to change. Spells that protect from the elements can do nothing on this plane as there are no elements to protect from. Most visitors only stay as long as they can hold their breath, though some adventurers have devised special spells so that they no longer need to breathe, or don’t require breathing in the first place like undead.
+
+For those that find a way to somehow survive on this plane, they must take care as Vacuum has a terrible effect on inanimate objects as well. Articulated mechanisms, like that found on armor joints, can suddenly freeze and become welded shut, as Vacuum is also devoid of energy. Any object that moves will freeze up in an act known as vacuum welding, and the more complicated the movement and mechanism, like on a clockwork automaton, the faster it happens.
+
+### Vacuum: Traversing the Plane
+Just like the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Air|Plane of Air]], a traveler must simply decide on what their ‘down’ is and they begin falling in that direction. Magic items and spells that give the ability to fly can help travelers move faster across the plane, though any creature with wings can not use them as there is no atmosphere to push against.
+
+## Vacuum: Locations
+Vacuum shares borders with the [[Places/Cosmology/Planes of Existance/Inner Planes/Energy Planes/Negative Energy Plane|Negative Energy Plane]], [[Places/Cosmology/Planes of Existance/Inner Planes/Negative Quasi-Elemental Planes/Plane of Ash|Plane of Ash]], [[Places/Cosmology/Planes of Existance/Inner Planes/Para Elemental Planes/Plane of Smoke|Plane of Smoke]], the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Air|Plane of Air]], [[Places/Cosmology/Planes of Existance/Inner Planes/Para Elemental Planes/Plane of Ice|Plane of Ice]], and [[Places/Cosmology/Planes of Existance/Inner Planes/Negative Quasi-Elemental Planes/Plane of  Salt|Plane of  Salt]], none of them creating unique interactions with this endless void. The inhabitants all agree it would defeat the purpose of this plane if other elements were allowed in, corrupting their perfect plane of nothing. 
+
+Often called the Empty Reach, or more accurately, The End, this plane is a void. Elements from other Inner Planes that show up here are quickly dispersed into the nothingness, unable to maintain their shape or structure in a realm of emptiness. 
+
+Permanent sites in Vacuum are few and far between, with only a handful even approaching something like permanency. While two mysterious powers, Sun Sing and Zal the Destroyer, are said to have their citadels they reside, no one has been able to explore them or even get close enough and survive.
+
+### Citadel Exhalus
+
+Also known as the Portal of the Last Breath, it is built around a special gate that allows the occupants to gaze upon the ultimate Destroyer - the [[Places/Cosmology/Planes of Existance/Inner Planes/Energy Planes/Negative Energy Plane|Negative Energy Plane]]. Those who reside here believe that the multiverse is proceeding on schedule to its ultimate destruction, that any attempt to rush it along is foolhardy and a waste of energy. Those who reside in the Citadel are the most ardent supporters of the Doomguard and were the survivors of the Faction War. Rumors persist that they have a large collection of _spheres of annihilation_ and that they are biding their time until they begin using their _sphere_ once again.
