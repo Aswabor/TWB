@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"NPC/Ardir Write","Plane":"Ardir","Residence":"Nalt-Shatap","permalink":"/npc/agren/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"NPC/Ardir Write","Plane":"Ardir","Residence":"Nalt-Shatap","permalink":"/npc/agren/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Agren
