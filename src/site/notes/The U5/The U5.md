@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":"The Unfortunate 5, Party,","permalink":"/the-u5/the-u5/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":"The Unfortunate 5, Party,","permalink":"/the-u5/the-u5/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 [[HOME|HOME]]
