@@ -1,0 +1,1567 @@
+---
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/list-of-all-available-transformations/","dgHomeLink":false,"dgPassFrontmatter":true}
+---
+
+```toc
+```
+# Transformations
+## A Blessing or A curse?
+Within the dark fantasy world of Etharis Transformations are representative of the  
+gothic and body horror elements of the world.  
+As a result, they should increase a character in power but ultimately be rooted in tragedy, as  
+the setting demands. However, if you are not playing in a dark fantasy setting or you want your Transformation to feel more like a blessing than a curse, discuss with your GM the possibility of removing some or all the flaws associated with your Transformation. Alternatively, feel free to tinker with the boons and flaws with your GM. Transformations should suit the needs of your campaign, not the other way around.
+
+## Leveling Up
+Characters that have successfully completed  
+a transformation can continue the process  
+by increasing their transformation level. The character must achieve a milestone before gaining a transformation level. Each type of transformation has an example list of possible milestones that are thematically unique. Talk with your GM to come up with applicable milestones for your campaign and how you can achieve them.
+
+When you increase your transformation level, you choose one boon from that level, or a lower level, provided you meet that boon’s prerequisites. You gain the new level’s flaw as well.
+
+## Universal Milestones
+The following milestones are examples that can apply to all (or most) transformations:
+-   Undertaking an exceptionally evil (or good) act.
+-   Completing an ancient ritual.
+-   Obtaining a powerful artifact.
+-   Being cursed by a dark agent.
+-   Being exalted by a patron or god.
+
+## Suggested Class Level to Transformation Level
+
+| Transformation Level | Recommended Class Level Range |
+| -------------------- | ----------------------------- |
+| 1                    | 1-4                           |
+| 2                    | 5-10                          |
+| 3                    | 11-16                         |
+| 4                    | 17-20                         | 
+
+## Removing a Transformation
+Reversing a transformation is an incredibly difficult process. The changes that have occurred in a character have fundamentally altered their biology, and perhaps their mind. However, anything is possible in a magical world. To cure a transformation, treat it as a curse from the curses section. The curse level of a transformation is equal to the character’s transformation level.
+Rather than casting remove curse with the cure components, the regenerate spell must be cast with the cure components instead. A character that has reached the 4th level of a transformation, or that has been transformed for longer than
+one year, can only be cured by a wish spell. If a character is killed and resurrected, the GM decides if they are resurrected with transformation levels.
+
+## List
+| Name            | Prerequisites | 
+| --------------- | ------------- |
+| Aberrant Horror | CON 13        |
+| Fey             | CHA 13        |
+| Fiend           | CHA 13        |
+| Lich            | INT 16        |
+| Lycanthrope     | STR 13        |
+| Primordial      | CON 13        |
+| Seraph          | WIS 13        |
+| Specter         | DEX 13        |
+| Vampire         | DEX 13        |
+
+### Aberrant Horror
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+# Aberrant Horror
+A cloaked figure flees through the dimly lit city streets. The guards appear to have the upper hand, until she turns to greet them—a hulking mess of spines, claws, and gnashing maws.
+
+Lightning cracks. A mad doctor bellows in triumph as a once-deceased woman rises. With three fleshy tentacles sprouting from her back, his newest creation is complete. Thunder booms as the woman approaches the doctor menacingly, tendrils extended. Not all successful experiments end well.
+
+Aberrant Horrors are the result of a humanoid becoming an aberration. Able to break free from the physical restrictions imposed upon them by the Material Plane, they shift the components of their form at a whim. This makes Aberrant Horrors terrifying to behold, especially in battle. Many adversaries have been caught off-guard when a seemingly defenceless opponent grew rows of gruesome spines before their eyes.
+
+## Becoming an Aberrant Horror
+Each Aberrant Horror is defined by one key question: what happened to them? Some individuals make pacts with ancient entities
+for powers that have unforeseen effects. Others awaken after being defeated by an unnatural monster, surprised that they have been spared, only to feel something writhing in their stomach. Many tropes of body horror can be used as inspiration for an Aberrant Horror.
+Once your origin has been determined, you can consider what your character’s motivations are regarding their transformation. As their power grows and manifests, they may feel they have lost what makes them fundamentally themselves. Perhaps they decide to take revenge on the entity responsible for their transformation, or perhaps they perceive their transformation as a gift.
+
+## Transformation Features
+An Aberrant Horror has the following transformation features:
+
+### Prerequisites
+**Ability Scores:** Constitution 13
+**Roleplay:** You must have had an encounter with an Aberration, magical anomaly, or some other plausible reason to have become an Aberrant Horror. Discuss with your GM how you can achieve this in your backstory or in-game.
+
+Some of your abilities will require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:
+>Transformation Save DC = 8 + your proficiency bonus + your Constitution modifier
+
+### Level Milestones
+The following are examples of possible level milestones for the Aberrant Horror:
+- Defeating a powerful Aberration and absorbing its power.
+- Undergoing a dangerous and costly experiment.
+- Surviving a magical mishap.
+- Acquiring the strength to give birth to a more powerful version of yourself, which then consumes your old self.
+- Fulfilling an eldritch prophecy written in the stars.
+
+### Transformation Level 1
+Starting at 1st level, you gain the following Transformation Boons and this level’s Transformation Flaw.
+#### Transformation Boon: Aberrant Adaptations
+Your body can twist and reshape itself as you will it, changing body parts into dangerous weapons or useful tools, and regenerating after damage. This ability is represented through Adaptations.
+>##### Basic Adaptations
+At 1st level, you gain the following adaptations:
+>
+>###### Chitinous Shell
+>As a bonus action, you can develop a hard, crustacean-like shell. When you use this adaptation and are not wearing heavy armour, you gain a +2 to AC. However, this reduces your speed by 10 feet. This adaptation lasts for 1 minute or until you are knocked unconscious. On your turn, you may use a bonus action to end this Adaptation.
+>
+>###### Eldritch Limbs
+>You can transform one or both of your arms into a weapon of thick muscle, sharp claws, or hardened bone. When you make an attack, you can use this Adaptation. If you do, you gain the following features:
+>• You can choose what type of damage your unarmed attacks will cause, from Piercing, Bludgeoning, or Slashing. Your arm becomes a claw, tusk, or bone club, depending on the damage type chosen.
+>• You may roll a d6 in place of normal damage for unarmed strikes.
+>• You cannot hold any object in the affected arm. This includes, but is not limited to, weapons, [[shields]], and spellcasting focuses. Any object you are holding merges into your adaptation or immediately drops to the ground. The GM may decide if they feel the object is too large to merge.
+
+This adaptation lasts until you become knocked unconscious. On your turn, you may use a bonus action to end this adaptation.
+
+#### Transformation Boon: Aberrant Form
+Your Constitution score increases by 2 and your Strength score increases by 1. An ability score cannot be increased beyond 16 this way.
+You become an Aberration in addition to any other creature types you are. Spells and abilities that affect Aberrations of a specific CR have no effect on you.
+
+#### Transformation Flaw: Unstable Mutations
+Your body becomes malleable and struggles to maintain any one physical shape. Upon completing a long rest, you must roll 1d100 on the [[Unstable Form table]] and apply the effects of the result, determined by your transformation level. These effects last until you complete another long rest. If you roll the same result on the table more than once in a row, roll again until a new result
+is rolled
+
+
+### Transformation Level 2
+At 2nd level, you can pick one of the following Transformation Boons. In addition, you also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Efficient Killer
+When you make an unarmed attack while you are benefiting from the Eldritch Limbs adaptation, you can gain one of the following effects depending on the type of damage you chose:
+
+>##### Piercing
+You can launch a razor-sharp barb from your arm. Make a ranged attack at a target within 30 feet. Upon a hit, the target takes piercing damage equal to 2d6 + your Strength modifier.
+
+>##### Bludgeoning
+You can manifest a long tentacle, tipped with a hardened bone club. Your unarmed attack deals an additional 1d6 bludgeoning damage. When you hit a creature with an unarmed attack, you can then attempt to damage another creature within 5 feet of the original target. If the original attack roll would hit the second creature, it takes bludgeoning damage equal to 1d6 + your Strength modifier.
+
+>##### Slashing
+Your arm forms a row of viciously hooked claws and talons. Your unarmed attack deals an additional 1d6 slashing damage, and the target must succeed at a Constitution saving throw. Upon a failed save, the target gains the bleeding condition for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself upon a success.
+
+#### Transformation Boon: Other-Worldly Tendrils
+Starting at 2nd level, you can use a bonus action to grow a long, tendril-like appendage out of your body that you are proficient with. On subsequent turns, immediately after taking the attack action, you may use a bonus action to have the tendril attack an enemy within 10 feet of you. If you do, make an unarmed melee attack using your Strength modifier. On a hit, the target takes bludgeoning damage equal to 1d4 + your Strength modifier. The tendril lasts until you become unconscious. On your turn, you may use a bonus action to retract it. In addition, you gain the following Adaptations:
+
+>##### Toxic Spray
+A lamprey-like mouth opens at the end of a tendril and sprays a noxious toxin. When you attack a creature with one of your tendrils, you can choose to use this Adaptation and forgo dealing damage. If you do, instead of rolling to hit, the target must make a Constitution saving throw against your Transformation Save DC. On a failed save, they become poisoned. A creature that has failed this saving throw makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer affected by this Adaptation.
+
+>##### Constrict
+A tendril wraps tightly around the target. When you hit with a tendril attack, and the target is large or smaller, you can choose to use this Adaptation. If you do, the attack deals no damage and the target is grappled. Until the grapple is ended, the tentacle cannot be used against other targets.
+
+>##### Hypnotic Trance
+A tendril flashes a myriad of coloured bioluminescent lights, attempting to disorient the target. When you attack a creature with one of your tendrils, you can choose to use this Adaptation and forgo dealing damage. If you do, instead of rolling to hit, the target must make a Wisdom saving throw against your Transformation Save DC. On a failed save, all attack rolls against the target have advantage, until the start of the affected creatures next turn. A creature that has failed this saving throw makes another Wisdom saving throw at the end of each of its turns. On a successful save, it is no longer affected by this Adaptation.
+
+#### Transformation Boon: Situational Evolution
+You can use an action to grow gills and flippers, thin hairs on your extremities to climb walls, or a layer of rapidly-regenerating flesh. You gain the following Adaptations:
+
+>##### Scopulae
+Your climbing speed becomes the same as your walking speed. You can climb vertical objects, while leaving one hand free.
+
+>##### Gills and Flippers
+Your swim speed becomes the same as your walking speed, and you can breathe underwater.
+
+>##### Regenerative Tissue
+At the beginning of your turn, you regain hit points equal to your Constitution modifier if you have no more than half your hit points left. If you take fire or acid damage, then this Adaptation has no effect at the beginning of your next turn.
+
+These adaptations last until you become unconscious, use a different one of these Adaptations, or use a bonus action on your turn to end the Adaptation.
+
+#### Transformation Flaw: Hideous Appearance
+Your appearance has grotesquely transformed. You may be a hulking mass of flesh, adorned with countless eyes, or a bone-and-tusk-covered natural weapon. Regardless of your true form, you’re horrific to behold. You can suspend
+this form and manifest the appearance of the humanoid you once were, but this is taxing and requires concentration. This form is not permanent, and moments of stress are likely to reveal your true nature. Your true form is revealed
+in the following situations: 
+- Concentrating on a spell.
+- Gaining the unconscious condition.
+- Entering hallowed ground.
+- Choosing to reveal yourself.
+
+In events of extreme emotional or physical stress, a GM may call for a Constitution saving throw with a DC of their choosing to see if you maintain your humanoid form. Non-evil creatures that witness your true form become instantly hostile to you, unless the GM decides otherwise.
+#### Transformation Boon: Unearthly senses
+Starting at 2nd level, you may use a bonus action to enhance your body’s sensory organs, or grow entirely new ones. While this effect is active, you may choose one of the following Adaptations:
+
+>##### Keen Senses
+Your eyes bulge, your skin tingles, and your nostrils flare. You gain advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
+>
+>##### Darkvision
+Your eyes take on the appearance of a cat’s, growing to fill the upper half of your face. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. If you already possess darkvision from another source, the distance extends to 120 feet instead.
+>
+>##### Third Eye
+Another eye emerges from your forehead, granting you the ability to see invisible creatures and objects as if they were visible.
+
+These Adaptations last until you become unconscious, use a different one of these Adaptations, or use a bonus action on your turn to end the Adaptation. Once you reach Transformation Level 4, you may choose two of the listed Adaptations instead of one.
+### Transformation Level 3
+At 3rd level, you can pick one of the following Transformation Boons, or pick a boon from
+a lower level that you meet the prerequisites for. In addition, you also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Wings
+Beginning at 3rd level, you can grow large, twisted wings of mutated flesh. You gain the following Adaptation:
+>##### Wings
+As a bonus action, you can manifest a pair of distorted, fleshy wings. You gain a fly speed equal to your current speed. These wings recede after 10 minutes. You can reabsorb them as a bonus action on your turn, and they reabsorb automatically if you are knocked unconscious. You can manifest your wings while wearing medium or light armour if it is made to accommodate them. You cannot manifest your wings while wearing heavy armour.
+
+Once you use this Adaptation, you cannot use it again until you complete a short rest.
+
+#### Transformation Boon: Additional Tendrils
+**Prerequisite: Otherworldly Tendrils**
+You are able to grow an additional tendril. On subsequent turns, you may use a bonB****us action to attack with each tendril you have grown. The tendrils can all attack the same target or different ones. Make a separate attack roll for each tendril.
+When you reach the 4th level of this transformation, the number of tendrils you can manifest is increased to three.
+
+#### Transformation Boon: Enhanced Hypertrophy
+You may roll a d8 in place of normal damage for unarmed strikes. The base damage dice for your adaptations, like Efficient Killer and Otherworldly Tendrils becomes one base die higher. For example, an adaptation that deals 2d6 damage would become 2d8 damage instead.
+
+#### Transformation Flaw: Unstable Existence
+The nature of magic is beginning to unravel your material form. Whenever you roll a natural 1,2 or 3 on a saving throw against a spell or magical ability, you reveal your Hideous Appearance.
+
+#### Transformation Boon: Shifting Form
+Your body has begun to lose its cohesion, softening and shifting like thick jelly. You take no extra damage from critical hits due to the shuffling of your internal organs. Whenever you make a melee or ranged attack using your Eldritch Limbs, you deal an additional 1d6 acid damage. You gain resistance to acid damage.
+
+### Transformation Level 4
+You can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+#### Transformation Boon: Savage Predator
+Beginning at 4th level, whenever you roll to hit a target and score a natural 20, you may deal an additional 6d6 damage. This damage is the same type as your weapon. In addition, each creature of your choice that is within 30 feet of you must succeed a Wisdom saving throw or become Frightened of you for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+#### Transformation Boon: Master of the Deep
+**Prerequisite: Additional Tendrils**
+On your turn as an action, you can rapidly grow and launch hundreds of tiny tendrils from your body. Each creature of your choice within 15 feet of you must succeed on a Dexterity saving throw. On a failed save, they suffer one of the following effects of your choice for 1 minute. You can choose different effect options for different creatures:
+- Become poisoned.
+- Speed becomes 0.
+- Attacks against them have advantage.
+Once you use this feature, you cannot use it again until you complete a short or long rest.
+
+#### Transformation Boon: Extremophilic Conditioning
+Starting at 4th level, your body has learned to adapt to extreme [[conditions]], allowing you to survive where most would perish. On your turn, as an action, you can use the following Adaptation.
+Metamorphosis. You rapidly change your body’s biophysical and chemical composition in reaction to your environment. Choose one of the following options:
+- You are resistant to Bludgeoning, Piercing, and Slashing damage. When determining falling damage, you take 1 bludgeoning damage for each 10 feet fallen in place of normal damage (maximum of 20 bludgeoning damage).
+- You are resistant to Fire, Lightning, and Acid damage. You are immune to the effects of extreme hot climates.
+- You are resistant to Cold, Thunder, and Poison damage. You are immune to the effects of extreme cold climates.
+This adaptation lasts until you use this Adaptation again.
+
+#### Transformation Flaw: Entropic Abomination
+The very essence of magic aggravates the unstable nature of your aberrant body. 
+Whenever you fail a saving throw to a spell or magical ability, roll on the Unstable Mutation table. If the result is less than your current unstable mutation effect, then replace it with the new result.
+
+#### Transformation Boon: Amorphous Flesh
+**Prerequisite: Shifting Form**
+Your body has continued to dissolve into a corrosive slurry of flesh and bone similar to an ooze. You are able to move through gaps as narrow as 1 inch wide, and you are immune to the grappled, prone, and restrained [[conditions]].
+In addition, whenever you take 10 or more points of bludgeoning, piercing, or slashing damage, you may choose to continue splitting along the wound, separating into two distinct parts that reform into versions of yourself that are one size smaller than the original, each with one half of your current hit points. If you have an odd number of hit points, you choose which segment gets the additional 1 hp. As you split you may choose how your [[armor]] and other equipment is split between the two.
+On your turn you may move with each form and you may also take one action with each form. You may only take one bonus action and one reaction per turn, although you may choose which segment you want to act when you do so.
+You may reform into a single body as an action, which may be taken by either segment when they are both within 5 feet of one another. If you do so, you regain hit points equal to the number of hit points your other form has, and you become your normal size. Your second body lasts for one hour before dissolving into nothingness.
+
+</div></div>
+
+
+### Fey
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+The soft strumming of a harp draws the children ever deeper into the dark wood. As they reach a moonlit clearing, they see a beautiful maid dressed in a gown of starlight. She turns her soft gaze upon them at the sounds of their gasps and calls to them, “Welcome, little ones, be not afraid. Step into the ring so we may dance and play.”
+
+An elfin man with pale blue skin leans his forehead against the dying tree. As he softly hums, the shriveled leaves turn green once again, and the ancient bow begins to straighten. The man lets out a sigh of relief, which momentarily chills the air.
+
+The fey are changeable beings of great power and even greater danger. No two fey are quite alike, but their tie to the natural world is universal. Mortals cannot
+
+comprehend the level of true freedom the faerie people feel. To know such freedom is to change entirely.
+
+## Becoming a Fey
+Becoming a fey requires a direct connection to the faerie realms. Most creatures who become fey are forced to  
+do so when they are stolen from the material realm as  
+a child. These children, known as changelings, rapidly transform after only a few days trapped in the realm
+
+of faerie. A changeling’s transition is often painful or strange, for a child altered in this way does not have a say in what type of fey they ultimately become.
+
+A creature who voluntarily seeks to become a fey can strike a deal with an arch fey or beseech the court of one of the faerie queens. These pathways to transformation are as dangerous as the realms of faeries themselves, and it requires a quick wit and sharp awareness to get the best of the fey kind.
+
+## Transformation Features
+A fey has the following transformation features:
+
+### Prerequisites
+**Ability Scores:** Charisma 13 or higher  
+**Roleplay:** You must have sworn fealty to one of the fey courts, been raised in the realms as a changeling, or have some other plausible reason to have become a fey. Discuss with your GM how you can achieve this in the game.
+
+Some of your abilities require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:  
+>Transformation Save DC = 8 + your proficiency bonus + your Charisma modifier
+
+### Level Milestones
+The following are examples of possible level milestones for the Fey:
+-   Striking a bargain with a greater fey
+-   Performing a great deed in the name of one of the faerie queens
+-   Establishing a new faerie ring or bridge to the fey realms
+-   Defeating a powerful agent from your rival court
+-   Earning a domain or title in the realm of faerie 
+
+### Transformation level 1
+Starting at 1st level, you gain the following Transforma- tion Boons and this level’s Transformation Flaw.
+
+#### Transformation Boon: Fey Form
+Your Charisma score increases by 2 and your Dexterity score increases by 1. An ability score cannot be increased beyond 16 this way. You also become a fey in addition to any other creature types you are. Spells that affect human- oids still affect you. However, you’re immune to effects that only affect a creature of your new type of a specific CR.
+When you gain this ability, you must also choose which Fey court fuels your transformation. Choose one of the following:
+
+>##### The Summer Court
+The summer court embodies the bounty and warmth of the growing season. The fey of summer tend towards joviality, fickleness, and vanity. Creatures of summer often hide their cruel intentions behind beautiful facades.
+
+>##### The Winter Court
+The winter court embodies the stillness and darkness of the coldest season. The fey of winter tend to be serious, cruel, and reflective. Creatures of winter are often terrifying to behold but very direct about their intentions.
+
+#### Transformation Boon: Twilight Step
+As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Your twilight step also gains an additional feature depending on which court you chose for your Fey Form ability.
+
+>##### Summer
+Immediately after using your Twilight Step, one creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+
+>##### Winter
+Immediately after using your Twilight Step, one creature of your choice that you can see within 5 feet of you takes cold damage equal to your Charisma modifier (minimum of 1 damage).
+
+You can use the Twilight Step feature a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest.
+
+#### Transformation Flaw: Planar Binding
+Your body and soul are bound to one of the faerie realms. You have disadvantage on death saving throws as the realm attempts to pull you back to it. If you would be killed, your soul is taken back to a plane of existence of the GM’s choice. This plane is your new home, and you become an NPC under the GM’s control.
+
+If you are in the faerie realm responsible for your transformation, this flaw has no effect.
+
+### Transformation Level 2
+
+At 2nd level, you can pick one of the following Transformation Boons. In addition, you also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Two-Faced
+You can choose to transform your face into a vision of enchanting loveliness or horrifying ugliness. Any non- fey creature within 30 feet of you when you transform your face must make a Wisdom saving throw or be affected for 1 minute.
+
+>##### Summer
+Any creature that fails the saving throw becomes charmed. This effect ends early on a creature if you or an ally deal damage to it or take other harmful actions.
+
+>##### Winter
+Any creature that fails the saving throw becomes frightened of you. This effect ends early if a creature affected by this ability ends its turn out of your line of sight.
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of once). you regain all expended uses when you finish a long rest.
+
+#### Transformation Boon: Sprite Servant
+A fey sprite binds itself to your service. The sprite is a floating ball of light, considered to be a Tiny creature which cannot be harmed or affected in any way. The sprite has the following characteristics:
+
+- The sprite has a fly speed of 40 feet.
+- The sprite cannot speak verbally, but it can telepathically communicate with you as long as it is within a mile of you. The sprite understands all languages you do. 
+- The sprite can become invisible at will. Otherwise, it sheds dim light in a 10-foot radius. As a bonus action, you can command the sprite to shine more brightly. When following this command, the sprite can shed bright light in a 20-foot radius and dim light for an additional 20 feet.
+
+#### Transformation Boon: MagiC triCks
+Your transformation grants you innate power, which manifests as the ability to cast a small number of spells. You learn one illusion or enchantment cantrip.
+In addition, choose one 1st-level and one 2nd-level illusion or enchantment spell. You can cast each of these spells once without expending a spell slot. You regain the ability to cast them in this way when you finish a short or long rest. Charisma is your spellcasting ability for these spells. When you finish a long rest you can replace your 1st or 2nd level spell with a spell of the same level which must also be an enchantment or illusion spell.
+    
+#### Transformation Flaw: Queen’s Command
+The fey court lends you its power, and in exchange you must pay regular tribute to maintain your freedom. Twice a year, at the winter and summer solstice, you must deliver a treasure or other significant tribute to the winter or summer queen (whichever you pay allegiance to). If you do not provide a tribute by the appointed day, your queen pulls you immediately to her faerie realm.
+Once pulled in this way, you must remain in the faerie realm for 100 years, or until you strike a bargain with the queen to let you return to the mortal plane. Your GM will tell you what constitutes an appropriate tribute to the court. Some fey queens prefer magic items while others wish for long kept secrets, the capture of fey criminals, or humanoid servants.
+### Transformation level 3
+At 3rd level, you can pick one of the following Transfor- mation Boons or pick a boon from a lower level that you meet the prerequisites for. In addition, you also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Faerie Mantle
+
+You can use an action to wrap yourself in the majesty of the faerie for 1 minute. During this time, you project an aura of blinding beauty out to a distance of 30 feet. When creatures of your choice start their turn or move into this aura, they must succeed on a Charisma saving throw or be blinded for 1 minute. A creature blinded in this way can repeat the saving throw at the end of each of its turns, end- ing the blinded condition on a success. Once you use this action you cannot do so again until you finish a long rest.
+
+#### Transformation Boon: Made of Magic
+
+Your transformation into a fey has changed the fun- damental nature of your body. You gain resistance to damage from Spells.
+
+In addition, when you make a saving throw against a spell you can use a reaction to gain advantage on the roll. Once you use this reaction, you can’t do so again until you finish a short or long rest.
+
+#### Transformation Boon: Courtly Graces
+
+You gain proficiency in two skills determined by your court. If you are already proficient in one or both of these skills, then your proficiency bonus is doubled for ability checks using that skill. If you have or ever gain double your proficiency bonus in one or both of these skills, you gain an additional +2 for that skill.
+
+Additionally, your fealty to a fey court offers you protection from certain emotions associated with the court. You gain a benefit based on your court.
+
+>##### Summer
+You gain proficiency in Performance and Persuasion, and you are immune to being charmed.
+
+>##### Winter
+You gain proficiency in Deception and Intimidation, and you are immune to being frightened.
+
+#### Transformation Flaw: Bound by Words
+The fey choose their words carefully for they are bound by them, and so too are you. When you give your word to a humanoid creature (such as by making a promise or pledge, entering into a contract, or coming to a verbal agreement) the commitment becomes magically enforced. If you fail to fulfill your part of the agreement, you lose the benefit of all of your fey transformation boons until you surrender an additional tithe to the summer or winter queen, as described in your Queen’s Command flaw. This tithe is in addition to those required by that flaw.
+Importantly, you are bound by the letter of any agreement you make, not by the spirit. If you promise you will not lay a hand on the prince, for example, there would be no consequences if you kicked him (provided your hand didn’t touch him in the process).
+
+### Transformation Level 4
+You can pick one of the following Transformation Boons or pick a boon from a lower level that you meet the prerequisites for. In addition, you also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Greater Magic Tricks
+**Prerequisite: Magic Tricks**
+Choose an enchantment or illusion spell of 3rd, 4th, and 5th level. You can cast each of these spells once without expending a spell slot and regain the ability to cast them in this way when you finish a long rest. Charisma is your spellcasting ability for these spells. When you finish a long rest you can replace your 3rd-, 4th-, or 5th-level spell with a spell of the same level, which must also be an enchantment or illusion spell.
+
+Additionally, you can cast the 1st and 2nd level spells from the Magic Tricks Boon twice per short or long rest.
+
+#### Transformation Boon: Misdirection
+Light and magic bend strangely around you, making you difficult to hit. All attack rolls against you have disadvantage. If you are hit by an attack, this trait is disrupted until the end of your next turn. This trait only works while you are conscious.
+
+#### Transformation Boon: Twilight Glamour
+As an action, you can become invisible. Anything you are wearing or carrying on your person is invisible as well. The invisibility ends if you choose to end it, if  
+you attack, or if you cast a spell. Once your invisibility ends in this way, you cannot use this feature again for 1 minute. This trait only works while you are conscious.
+
+#### Transformation Flaw: Seasonally Affected
+Your connection to the fey courts has granted you tremendous power but also an esoteric fragility: you gain a weakness towards cold damage if you are in the summer court, or fire damage if you are in the winter court.
+If you were normally resistant to this damage type, it instead affects you normally. If you are normally immune to damage of that type, you are resistant instead. In addition, whenever you take damage of that type, your maximum hit points are reduced by an equal amount. When your maximum hit points are reduced by this effect, they return to normal after you finish a long rest.
+
+</div></div>
+
+
+### Fiend
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+A smirking, well-dressed man of unknown origin appears in a time of great need. He extends his hand and a contract manifests in a golden flash. With a quill floating by his side, he remarks, “Of course I can fix your dilemma. After all, who do you think caused it in the first place?” For a solution to a world of problems, the man asks for only two things in return: a signature and an eternity of servitude.
+
+Hellfire swirls up a Fiend’s arms as she laughs maniacally. In a single motion, she launches waves of fiery death at the legions of lesser Daemons sent to rein her in. 
+
+Those who perish twist and harden into charred, blackened figures with bright molten cores. The Fiend laughs again as she snaps her fingers and each figure explodes into another wave of fiery destruction.
+
+Many tales are told in Etharis of the power of Fiends and the dangers of their contracts. Regardless, every year a champion rises, a prodigy is born, or some individual makes a deal for their soul in exchange for Lady Luck to be on their side.
+
+To a Fiend, a soul is a delicious meal with an invigorating aftertaste. Most importantly, a soul contains the power to sustain their transformation.
+
+## Becoming a Fiend
+A mortal can become a Fiend in a variety of ways. Some forfeit their souls and become one upon death. Others undertake excruciating rituals to transform into one. However, your character becomes a Fiend constitutes their contract. Communicating with your GM about creating deals with mortals in their story is a great way
+
+to roleplay your influence within the game world. As a Fiend, you should consider what your character’s motivations are and which NPCs they can use to achieve their goals.
+
+## Transformation Features
+A Fiend has the following transformation features:
+
+### Prerequisites
+**Ability Scores:** Charisma 13  
+**Roleplay:** You must have made a pact with a Fiend, undergone an infernal ritual, or have some other plausible reason to have become a Fiend. Discuss with your GM how you can achieve this in-game.
+
+Some of your abilities require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:
+>Transformation Save DC = 8 + your proficiency bonus + your Charisma modifier
+
+### Level Milestones
+The following are examples of possible level milestones for the Fiend:
+- Defeating a greater rival Fiend and taking their place in the hierarchy.
+- Ensnaring a particularly powerful or influential soul with a contract.
+- Establishing a cult of worshipers who offer their strength to you.
+- Establishing a portal between the material plane and the Netherworld.
+- Killing or corrupting a [[TR-Seraph]].
+
+### Transformation Level 1
+Starting at 1st level, you gain the following Transformation Boons and this level’s Transformation Flaw.
+    
+#### Transformation Boon: Gifts of Damnation
+You have acquired the ability to bind your first mortal to your will. You can create a contract to bind their soul to you, feeding on its power. However, you will not gain the benefits of this gift until you have bound a mortal with a contract.
+To bind a mortal’s soul to you and grant them a [[Gifts of Damnation|Gift of Damnation]], you must first create a contract for that gift. A contract requires magical ink and paper worth 50gp for each Transformation level you have acquired, and you must meet the prerequisites listed. In addition, you and the mortal must both sign the contract willingly, fully aware of the costs involved. Once signed, Netherworld entities give the benefits of the gift to you, and the mortal receives the named benefit within 7 days. You do not have to provide this benefit yourself. For example, upon signing a contract for a Gift of Unfettered Glory, you will receive the benefits listed under the gift. The mortal who signs will receive glory and no in-game mechanical bonuses, provided by the dubious powers of the Netherworld.
+    
+While you may have any number of contracts in your possession, you can only benefit from one at a time. Upon the completion of a long rest, you may swap the contract you are currently benefiting from for an alternate contract that you have bound a mortal to and signed.
+
+On your turn, as an action, you can call upon  
+the Netherworld to reveal to you the exact location of a creature that has signed one of your contracts, providing they are on the same plane of existence as you.
+
+A contract you hold lasts for 7 years or until the mortal that signed it dies. At which point it bursts into flames and you cannot receive any benefits from it.
+
+#### Transformation Boon: Fiendish Form
+Your Charisma score increases by 2 and your Intelligence score increases by 1. An ability score cannot be increased beyond 16 this way. You become a Fiend in addition to any other creature types you are. Spells and abilities that affect Fiends of a specific CR have no effect on you.
+
+#### Transformation Flaw: Planar Binding
+Your body and soul are bound to a fiendish plane of existence. You have disadvantage on death saving throws as the plane attempts to pull you back to it. If you would be killed, your soul has been dragged back to a plane of existence of the GM’s choice. This plane is your new home, and you become an NPC under the GM’s control.
+
+If you are on the fiendish plane responsible for your transformation, this flaw has no effect.
+
+### Transformation Level 2
+Starting at 2nd level, you can pick one of the following Transformation Boons. You also gain this level’s Transformational Flaw.
+
+#### Transformation Boon: Brand of the chainer’s gaze
+As a bonus action on your turn, you can brand a creature within 60 feet of you with a fiery mark that diminishes their resolve. The target must make a Wisdom saving throw, and on a failed save they are branded. Whenever a creature branded in this way makes a saving throw, they must roll 1d6 and subtract the result from their saving throw. A creature remains branded this way for 1 minute. The brand disappears if the creature is knocked unconscious, enters hallowed ground, or is targeted by the remove curse spell. You may use this feature a number of times equal to your Charisma modifier (minimum of 1). You regain all uses of this feature when you finish a long rest.
+
+#### Transformation Boon: Brand of the tyrant’s Hellfire
+As a bonus action on your turn, you can brand a creature within 60 feet of you with a fiery mark that exudes hellfire. The target must make a Charisma saving throw, and on a failed save they are branded. Whenever you hit a creature branded in this way with an attack, you deal an additional 1d6 fire damage.
+
+A creature remains branded for 1 minute. The brand disappears if the creature is knocked unconscious, enters hallowed ground, or is targeted by the remove curse spell. You may use this feature a number of times equal to your Charisma modifier (minimum of 1). You regain all uses of this feature when you finish a long rest.
+
+#### Transformation Boon: Brand of the deceiver’s guile
+As a bonus action on your turn, you can brand a creature within 60 feet of you with a fiery mark that twists their senses and perspective. The target must make an Intelligence saving throw, and on a failed save they are branded. Whenever a creature branded in this way attempts to attack you, they must roll 1d6 and subtract the result from their attack roll.
+A creature remains branded this way for 1 minute. The brand disappears if the creature is knocked unconscious, enters hallowed ground,  
+or is targeted by the remove curse spell. You may use this feature a number of times equal to your Charisma modifier (minimum of 1). You regain all uses of this feature when you finish a long rest.
+
+#### Transformation Boon: Brand of the slaver’s leash
+As an action, a flaming whip appears in your hand and lashes out at a creature you can see within 10 feet of you. That creature must make a Dexterity saving throw against your Transformation Save DC. On a failed save, the creature takes 2d4 fire damage and is inflicted with a searing brand.
+
+While branded in this way, the creature is tied to  
+you with a wreathing leash of flame and cannot use its movement to move more than 10 feet away from you. On your turn, you may use a bonus action to drag the creature up to 10 feet in any direction. You may also use your reaction to prevent any event that would take the creature out of range. For example, if the branded creature uses the misty step spell to move out of the 10 feet radius, or an ally of the target attempting to physically drag their ally out of the leash’s range, the attempt fails.
+
+Spells that have the ability to teleport multiple people, like dimension door, work as intended for all involved except for the branded creature.
+
+A creature remains branded this way for 1 minute. The brand disappears if the creature is knocked unconscious, enters hallowed ground, is targeted by the remove curse spell, or if the creature is more than 10 feet away from you at the end of any turn.
+#### Transformation Flaw: Hideous Appearance
+Your appearance has grotesquely transformed. Your skin becomes red and leathery, and vicious horns, teeth and nails erupt through the surface of your skin. You can suppress this form and present the appearance of the humanoid you once were, but this is taxing and requires concentration. Moments of stress are likely to reveal your true nature. In the following situations your true form is revealed:
+• Concentrating on a spell.  
+• Gaining the unconscious condition. 
+• Entering hallowed ground.  
+• Choosing to reveal yourself.
+In events of extreme emotional or physical stress, a GM may call for a Constitution saving throw with a DC of their choosing to see if you maintain your humanoid form.
+Non-evil creatures that witness your true form become instantly hostile to you, unless the GM decides otherwise.
+
+### Transformation Level 3
+Starting at 3rd level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Alluring Deceit
+You gain mastery of deception and hollow promises. You gain proficiency in Deception and Persuasion. If you are already proficient in either of these skills, then your proficiency bonus is doubled for ability checks using that skill.
+>This ability has no effect on a skill if the proficiency bonus is already doubled.
+
+Magic that would determine if you are telling the truth always indicates you are being truthful, and you cannot be magically compelled to tell the truth.
+
+#### Transformation Boon: Infernal Resistance
+You gain an imposing fortitude, drawing on Netherworld energy. If you would take magical damage from a spell, ability, or weapon, you can use your reaction and take half the amount of damage instead. You cannot use this feature against damage from silvered weapons.
+
+#### Transformation Boon: Nether Blade
+You can use a bonus action to summon a dreaded Nether Blade. The blade takes the form of a simple or martial weapon that deals slashing damage of your choice. Attacks made with the blade deal fire damage and gain the following features:
+- Attacks you make with the blade deal an additional 2d6 fire damage.
+- The blade emits flames that create bright light in a 5 foot radius and dim light for an additional 5 feet.
+- You cannot be disarmed of the blade.
+
+You can unsummon the blade at any time by using an action. If you unwield the blade, it immediately unsummons.
+
+#### Transformation Boon: Infernal Sub-Contractor
+Your mastery of the infernal laws allows you to utilize the benefits of two [[Gifts of Damnation]] simultaneously. In addition, you may change gifts on a short rest instead of a long rest.
+#### Transformation Flaw: True Name
+Your fiendish transformation is complete, and you are reborn. You must choose a new name for yourself, which becomes your true name. You receive a talisman of brimstone and brass with your true name inscribed in infernal on it. A creature within 10 feet of you that knows your true name, can use an action and speak your true name in an attempt to bind you to their will. If they do, you must make a DC 20 Wisdom saving throw. On a failed save, you become charmed by the creature, and must complete all commands they issue to you to the best of your ability. You remain charmed for 8 hours. If the creature that bound you dies, this effect ends.
+
+### Transformation Level 4
+Starting at 4th level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Commanding Obedience
+Whenever a hostile creature you can see within 30 feet of you fails a saving throw due to a spell of 1st level or higher that you control, you may command that creature to kneel. On that creature’s turn, it must face you, then kneel and end it’s turn. While kneeling, the creature is considered prone. If the creature is immune to the prone condition, then the creature just ends its turn.
+
+#### Transformation Boon: Brimstone Pyrolysis
+When you inflict fire damage against a hostile creature and reduce it to 0 hit points, you can immolate that creature and turn them into a Brimstone Statue.
+
+>##### Brimstone Statue
+A Brimstone Statue is the scorched remains of a corpse whose essence has burned out. A Brimstone Statue is the same size as the creature before it died, and uses the following statistics:
+>- Armour Class: 10
+>- Hit Points: 10
+>- Speed: 0
+>- Damage Immunities: poison, psychic
+>
+>A Brimstone Statue that is reduced to 0 hit points falls apart and is destroyed. It does not detonate.
+    
+>##### Detonate
+On your turn, as an action, you can detonate one or more Brimstone Statues that you have created. When a Brimstone Statue detonates, it is destroyed, and each creature other than you within 10 feet of the statue must make a Dexterity saving throw. A target takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+    
+#### Transformation Boon: Infernal Summoning
+On your turn as an action, you can tear open a portal to the Netherworld and summon up to 4 Imps. These Imps are each summoned into their own unoccupied space within 30 feet of you.
+The summoned Imps are friendly to you and your companions. They all act directly after you in the initiative order. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The Imps disappear in a shower of ash and embers after 1 hour, or if they are reduced to 0 hit points. The GM has the Imps’ statistics.
+
+Once you use this ability, you cannot use it again until you complete a long rest.
+
+#### Transformation Boon: Loophole
+As an expert in the magic of binding and the formation of magical contracts, you gain insight into the workings of summoning spells and how to interfere with them. Whenever you encounter a summoned creature, you are immediately aware it was summoned. As an action, you may wrest control of a summoning spell away from the caster. The spellcaster must make a Wisdom saving throw against your Transformation Save DC. On a failure, you gain control over the spell and any remain- ing creatures as if you had cast the spell, including concentration for any remaining duration. You may use this ability a number of times equal to your Charisma modifier (minimum 1), and you regain all uses of this ability when you finish a long rest.
+#### Transformation Flaw: Pull of the Netherworld
+Your new native plane attempts to pull you to it, laying claim to your form. Whenever you roll a natural 1 on a saving throw against a magical spell or ability, you take 1d6 force damage per two character levels in addition to any other damage or effects you would suffer, as your native plane attempts to unbind you from the Material Plane. For example, a 6th level Fighter would take 3d6 force damage. This damage ignores resistances and immunities.
+
+</div></div>
+
+
+### Lich
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+The screams of souls torn from their bodies echo over the electric crackling of forbidden magic. A skeletal form rapidly stitches flesh and muscle to its frame, creating a seemingly living man – a man from an age and kingdom long gone. A man who has conquered death and risen again to enact his insidious will from millennia ago. The screams stop and are replaced with murmurs, as the corpses of the fallen arise as undead.
+
+An ancient figure slowly turns the pages of a decrepit tome possessing forbidden cosmic knowledge. Tracing a bony finger over the inscription, the figure turns its head, revealing a gaunt, deathly face. “I do not receive company often,” it rasps, slowly locking eyes with a broad-shouldered warrior. The warrior makes no movement or gestures, save for his eyes, which dart rapidly around the room in search of an escape. “Oh, do not struggle. It will be over soon.” The deathly figure continues, raising itself up from a crouch. The very fabric of the room appears to warp and shudder with the figure’s power and authority.
+
+A Lich is to the arcane what a king is to their Kingdom: undisputed, absolute power. Resting upon a throne of raw, world-rending spellcasting potential, a Lich comes as close to a God as any mortal could imagine. However, this awe-inspiring power comes at a dear price. Immune to the effects of age but not time, a Lich is destined to exist without living for eternity. While this drives some Liches mad and others evil, it makes them all physically decrepit and feeble. Time itself takes their body from them until they are reduced to a skeletal head, passively watching the world pass them by.
+
+## Becoming a Lich
+Across the Multiverse there are many ways to become a Lich, each determining the type of Lich the mortal becomes. However, within Etharis there is only one type of Lich, as there is only one known method of ascending to Lichdom: The Ritual of Dread. The process of this ritual is a well-guarded secret, entrusted to only a handful of mortals at any one time. The process of the ritual involves several despicable acts including murder, the brewing of a vile concoction, and even one’s own death. However, it is the process of tearing one’s soul from the body that is most despised, for this process involves the sacrifice
+of something truly dear to a mortal, and no substitute will be accepted. For some, it is the death of a cherished loved one. For others it is a family legacy. Regardless of the sacrifice, unless the Dreadscape spirits deem it worthy, Lichdom will not be granted.
+
+## Transformation Features
+A Lich has the following transformation features:
+
+### Prerequisites
+**Ability Scores:** Intelligence 16  
+**Spellcasting Ability:** You must have the ability to cast 7th level spells.  
+**Roleplay:** You must complete the Ritual of Dread. The process of this ritual is partially described, but left intentionally vague so it can be tailored to your setting and campaign. Discuss with your GM how you can achieve this in-game.
+
+Some of your abilities require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:
+>Transformation save DC = 8 + your proficiency bonus + your Intelligence modifier
+
+### Level Milestones
+The following are examples of possible level milestones for the Lich:
+-   Discover ancient and dark arcane knowledge.
+-   Consume the soul of an exceptionally powerful spellcaster.
+-   Build a monument to your power to serve as a giant arcane focus.
+-   Create an army of undead.
+-   Kill a god.
+
+### Transformation Level 1
+Starting at 1st level, you gain the following Transformation Boons and this level’s Transformation Flaw.
+
+#### Transformation Boon: Harvester of Souls
+You have gained the ability to tear the soul  
+out of creatures you kill and consume it for its invigorating effects. Whenever you reduce a creature to 0 hit points, if you are on the same plane of existence as your phylactery, its soul is captured and your phylactery becomes charged. On your turn, as an action, you can consume any number of charge levels from your phylactery  
+to regain a single spell slot. When you regain  
+a spell slot in this way, the spell slot’s level is equal to one third of the charge you consumed, rounded down.
+
+#### Transformation Boon: Undead Form
+Your Intelligence score increases by 4 and your Wisdom score increases by 2. An ability score cannot be increased beyond 22 this way. You become an Undead in addition to any other creature types you are. Spells and abilities that state effects or [[conditions]] specifically regarding Undead of a specific CR have no effect on you.
+
+If a spell or ability other than your own would cause you to gain Hit Points, you gain that many temporary Hit Points instead. If you are reduced to 0 hit points and fall unconscious as a result, any healing you receive will stabilize you and leave you on 1 hit point and unconscious. You stop aging. You are immune to any effect that would age you, and you cannot die from old age. You do not require air, food, drink or sleep.
+
+#### Transformation Flaw: Phylactery
+You have successfully torn your soul from your body and trapped it in a suitable object. The object must be a trinket or item no larger than 1 square foot in size. This item becomes your phylactery.
+##### Phylactery
+A phylactery is an enchanted vessel containing a Lich’s soul. Additionally, a phylactery is a conduit for the Lich to feed on captured souls.
+>A phylactery has the following statistics:
+>- Armour Class: 18
+>- Hit Points: 90
+>- Speed: 0
+>- Damage Immunities: poison, psychic; bludgeoning, piercing, and slashing from non-magical sources.
+>- Damage Resistances: necrotic, cold, thunder, lightning, force, fire.
+    
+While a soul is stored in your phylactery, the phylactery is considered charged. Its charge  level is equal to the CR of all the creatures whose soul you have captured. To store a new soul in your Phylactery, add the CR of the creature you killed to your Phylacteries charge level. The souls of creatures with a CR of less than 1⁄4 are not great enough to charge your phylactery. Your Phylacteries charge level cannot exceed 27.
+
+If your phylactery is reduced to 0 hit points, your soul is lost; you crumble to dust and are killed outright.
+    
+If you are killed and you control a charged phylactery on the same plane of existence, your phylactery’s charge is consumed and your body is reconstructed within 5 feet of your phylactery 7 days later. If you are killed and your Phylactery does not have a level of charge, you are reanimated 7 days later as a Demilich under the GM’s control.
+
+### Transformation Level 2
+Starting at 2nd level, you can pick one of the following Transformation Boons. In addition, you gain this level’s Transformation Flaw.
+    
+#### Transformation Boon: Puppet Master
+Undead creatures of CR 1 or less that you animate with spells or abilities become permanently under your control. In addition, other creatures cannot gain control of undead creatures you raised.
+    
+#### Transformation Boon: Lichdom of the Arcane
+Whenever you kill any creature with a spell, you may apply an additional effect depending on the damage dealt. Any effects with range are centred on or measured from the killed target, and if required, use your Transformation save DC.
+    
+This ability cannot be used when you kill a construct, undead, or any creature without a soul. The following are the effects caused when you use this ability:
+
+##### Fire
+The target is vaporised into a cloud of ash and smoke The space that the creature died in, and each space within 5 feet of it, are considered heavily obscured for 1 minute. Winds of moderate or greater speeds (at least 10 miles per hour) also disperse the cloud.
+
+##### Necrotic
+As the soul of your enemy leaves their body, you are able to siphon off part of their life force. You regain hit points equal to your Intelligence modifier (minimum of 1), plus your character level.
+
+##### Poison
+Target a creature within 10 feet of the killed creature. That creature must succeed on a Constitution saving throw or gain the poisoned condition for 1 minute.
+
+#### Transformation Boon: Rift to the Dreadscapes
+You gain the ability to open a rift to the Dreadscapes. As an action on your turn, you can choose a point within 5 feet of you to open the rift. Once opened, the rift stretches out from that point to a 20-foot-radius sphere. When a creature other than you enters the rift’s area for the first time on its turn, or starts its turn there, it must make a Constitution saving throw against your Transformation DC. On a failed save, the creature suffers 10d10 necrotic damage, or half as much on a successful save. Undead creatures are immune to damage from this ability. The rift remains open for 1 minute, but closes if you become unconscious. Once you use this ability, you cannot use it again until you complete a long rest.
+
+#### Transformation Boon: Phylactery Bond
+You share an especially strong bond with your phylactery and gain benefits from keeping it on your person. You may choose to craft your phylactery into an amulet, a ring, a brooch, or some other form of jewelry. When you finish a short or long rest and you are wearing your phylactery, you may choose a damage type other than radiant damage. As long as you wear your phylactery, you have immunity to that damage type. In addition, your phylactery is more resilient than normal. Your phylactery’s AC becomes 20 and its hit points increase to 120.
+
+Your phylactery’s nature is hidden from casual observation, and an observer must make an Intelligence (Arcana) check against your Transformation Save DC in order to identify your phylactery.
+#### Transformation Flaw: Hideous Appearance
+Your appearance has grotesquely transformed. Your skin has become rotten and pale, while your figure has become gaunt and hunched, radiating a ghastly aura. You can suppress this form and present the appearance of the humanoid you once were, however this is taxing and requires concentration. Moments of stress are likely to reveal your true nature. In the following situations your true form is revealed:
+- Concentrating on a spell.  
+- Gaining the unconscious condition.
+- Entering hallowed ground
+- Choosing to reveal yourself.
+    
+In events of extreme emotional or physical stress, a GM may call for a Constitution saving throw with a DC of their choosing to see if you maintain your humanoid form.
+>Non-evil creatures that witness your true form become instantly hostile to you, unless the GM decides otherwise.
+
+### Transformation level 3
+Starting at 3rd level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+    
+#### Transformation Boon: Relentless undead
+Whenever an undead creature you control is reduced to 0 hit points, it may immediately move up to its full speed and make an attack action before dying. This feature has no effect if the creature has been reduced to 0 hit points by radiant damage.
+    
+#### Transformation Boon: Arcane Supremacy
+You become an exemplar of arcane power. When you cast a concentration spell, if you are already concentrating on one concentration spell, you do not lose concentration of that spell; instead you gain one level of exhaustion. If you are already concentrating on more than one spell, this feature has no effect. If you cast a third concentration spell during this time, you lose concentration on one of the two spells. Once you use this feature you cannot use it again until you complete a long rest.
+    
+#### Transformation Boon: Staff of the Dreadscapes
+Starting at 3rd level, you can use an action to summon a deathly staff made of blackened bone and twisted rotwood. The staff is the same as a quarterstaff, with the following features:
+- Necrotic damage dealt by you ignores resistance to necrotic damage.
+- Your Spell Save DC and Transformation DC are both increased by 2.
+- Food and non-creature plants the staff touches wither and decay.
+
+You can unsummon the staff at any time with the use of an action. If you un-wield the staff, it immediately unsummons.
+
+#### Transformation Boon: Enhanced Phylactery
+**Prerequisite: Phylactery Bond**
+Your bond with your phylactery strengthens, granting additional benefits:
+- If you aren’t wearing [[armor]], your base [[Armor]] Class is 15 + your Dexterity modifier. Your phylactery’s AC is increased by 2.
+- Your spell save DC and spell attack bonus each increase by 2.
+- You and your phylactery have advantage on saving throws against spells and other magical effects.
+
+#### Transformation Flaw: Necromantic Dystrophy
+Your body has become dependent on consuming souls, otherwise it becomes withered and frail. If you go more than 24 hours without converting 4 CR worth of souls from your Phylactery into spell slots you gain the following effects:
+- You cannot use the dash, dodge, or disengage actions. You cannot use these actions as bonus actions.
+- You cannot use your reaction to make opportunity attacks.
+- You cannot disguise your hideous form feature.
+
+Upon converting the required amount of souls into spell slots, you are no longer affected by the aforementioned effects.
+
+### Transformation Level 4
+Starting at 4th level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Lord of Undeath
+Whenever you reduce a humanoid to 0 hit points, you can choose to reanimate it. If you do, the creature rises at the beginning of its next turn  as a zombie permanently under your control, following verbal commands to the best of its ability.
+
+#### Transformation Boon: Arcane Omniscience
+You have mastered the arcane arts. You know every spell from the wizard’s spell list and  
+can prepare a number of these equal to your Intelligence modifier. Spells prepared this way do not count towards the maximum number of spells you can prepare. Upon completing a short rest, you can change one or more of these prepared spells for another spell from the wizards spell list.
+
+#### Transformation Boon: Deathly Being
+You become immune to poison damage, as well as bludgeoning, piercing, and slashing damage from non-magical attacks. In addition, you cannot become charmed, poisoned, paralysed, or frightened.
+
+#### Transformation Boon: Soul Reflection
+**Prerequisite: Enhanced Phylactery**
+You have learned to utilize your bond with your phylactery to its greatest effect. While wearing your phylactery, whenever you are targeted by a spell, if you are the only target, you can use your reaction and spend charges from your phylactery equal to the spell’s level. If you do so, the spell reflects and instead targets an appropriate target of your choice within range of the spell as if you cast it. For the purpose of using this feature, cantrips are considered 1st-level spells.
+
+#### Transformation Flaw: Weight of Ages
+The weight of time is degrading for your Lich form and only the consumption of many souls can stay its effects. If you go more than 24 hours without converting 8 CR worth of soul from your Phylactery into spell slots you gain the following effects:
+- You cannot use the attack action.
+- If you move on your turn, you cannot use a bonus action or reaction until your next turn.
+- If you use a bonus action on your turn, your speed becomes 0 until your next turn.
+
+Upon converting the required amount of souls into spell slots, you are no longer affected by the aforementioned effects.
+
+</div></div>
+
+
+### Lycanthrope
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+A howling call is heard across thatched rooftops, summoning the pack to assemble. Below, a man tears at his clothes as moonlight shines down on him. The hunched figure screams in pain, begging his family to run. With muscles bursting and razor-sharp claws forming, his transformation is underway.
+
+Rain pours through the forest canopy as a woman falls to her knees in exhaustion. Unable to run further, she accepts her fate and awaits the monsters of the dark. Instead, she hears a thunderous roar as a hulking figure tears through the undergrowth with impossible strength. The hulking, bear-like figure then turns to the woman and grunts, “Are you lost?” offering a paw in aid.
+
+Lycanthropes may appear to be ordinary humanoids, but behind the veneer of humanity there is a pivotal struggle between beast and man. For most, it is a matter of time before they lose this fight and transform into a monstrous hybrid, half-animal and half-humanoid. Most Lycanthropes recall very little of their time transformed, often waking in a strange location, covered in blood and tattered clothes. However, as some Lycanthropes grow, they learn to balance both natures, using their curse as a gift.
+
+## Becoming a Lycanthrope
+In Etharis, there are two documented methods  
+of contracting the Lycanthropic curse. The first  
+is being bitten by a Lycanthrope and not curing the curse before it takes hold. The second is to complete a druidic ritual known as the Lunar Sacrament. Once you have become a Lycanthrope, consider how your character feels about the curse. Do they wish to cure it before it progresses too far? Do they wish to understand it and make peace with the beast that resides within?
+
+## Helpless Creatures
+>The defenceless and downtrodden are met with a modicum, of sympathy by most. However, to the bestial side of a Lycanthrope, these creatures represent prey. This Transformation refers to helpless creatures in multiple instances. For game purposes a helpless creature is a humanoid that is unconscious, restrained, blinded, paralized or frightened. Additionally, creatures that are so vulnerable in their current situation, they are completely defenceless are also considered helpless. For example, a disarmed and defeated enemy, pleading for mercy. In these instances the GM decides if the creature is considered helpless or not.
+
+## Transformation Features
+A Lycanthrope has the following transformation features:
+
+### Prerequisites
+**Ability Scores:** Strength 13  
+**Roleplay:** You must have contracted the Curse of Lycanthropy. This usually comes from being bitten by a Lycanthrope and surviving the encounter. Alternatively, you may have completed the Lunar Sacrament and been imbued with Lycanthropy. Discuss with your GM how you can achieve this within your backstory or in-game.
+
+Some of your abilities require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:
+>Transformation Save DC = 8 + your proficiency bonus + your Strength modifier
+
+### Level Milestones
+The following are examples of possible level milestones for the Lycanthrope:
+-   Establishing a pack of other Lycanthropes.
+-   Killing an Alpha Lycanthrope.
+-   Gaining control of your animalistic urges.
+-   Unleashing the beast within and losing your humanity.
+
+### Transformation Level 1
+Starting at 1st level, you gain all the following Transformation Boons and this level’s Transformation Flaw.
+
+#### Transformation Boon: Hybrid Transformation
+As an action, you may transform into a monstrous hybrid: half-beast, half-sentient. While in your hybrid form, the following rules apply:
+- You can’t cast spells or concentrate on spells. Your ability to speak is reduced to short, basic, guttural responses.
+- Your stats remain the same as your humanoid stats.
+- Any armour you are wearing merges into your Hybrid Form or immediately drops to the ground. The GM may decide if they feel the armour is too large to merge.
+- While transformed and not wearing any armour or using a shield, your AC equals 10 + your Constitution modifier + your Dexterity modifier.
+- While transformed you can use weapons and equipment as normal, unless specified elsewhere.
+- You roll a d6 in place of the normal damage for your unarmed strikes. Attacks using your claws deal slashing damage instead of bludgeoning damage.
+- When making the attack action you may substitute one attack to make an unarmed bite attack. If the attack hits, you deal piercing damage equal to 1d8 + your Strength modifier. If you make a bite attack, you cannot make another until the beginning of your next turn.
+- If you made the attack action, as a bonus action you may make an unarmed claw attack or bite attack, provided you have not already used your bonus action.
+
+Your hybrid form lasts for a number of hours equal to your Constitution modifier (minimum of 1) and ends early if you are knocked unconscious or reduced to 0 hit points. You can end your Hybrid Form by using an action on your turn.
+
+#### Transformation Boon: Shapechanger’s Form
+Your Strength score increases by 2 and your Constitution score increases by 1. An ability score cannot be increased beyond 16 this way.
+
+You become a Shapechanger in addition to any other creature types you are. Spells and abilities that affect Shapechangers of a specific CR have no effect on you.
+
+#### Transformation Flaw: Lust For The Hunt
+The savage nature of your curse sometimes causes you to lose control. These ferocious tendencies are a constant struggle between you as a humanoid and the beast within. When you are in your hybrid form, you must succeed at a DC 10 Wisdom saving throw at the beginning of each turn or lose control. If you are in the light of a full moon, you automatically fail this saving throw. If you fail this saving throw, you are subjected to the following until you succeed:
+- You must move toward the closest non-player creature you can see, smell or hear, prioritising [[TR-Lycanthrope#Helpless Creatures]]. If you end your movement and no non-player creature is within 5 feet of you, then you must use your action to dash toward one.
+- If there is a non-player creature within 5 feet of you and you have not used your action, you must make a melee attack against it, prioritising [[TR-Lycanthrope#Helpless Creatures]].
+- If you made a melee attack against a creature, and that creature is still alive, then you must use your bonus action to make an unarmed claw or bite attack against the same creature.
+
+Additionally, if you are subjected to the light of a full moon you must succeed at a DC 20 Wisdom saving throw or automatically turn into your hybrid form and cannot transform back until dawn. If you succeed in this saving throw, you are immune to its effects for 24 hours.
+
+### Transformation Level 2
+Starting at 2nd level, you can pick one of the following Transformation Boons. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Iron Pelt
+While in hybrid form, you have resistance to bludgeoning, piercing, and slashing damage from non-silvered, non-magical sources.
+
+#### Transformation Boon: Hunter’s Howl
+While in your hybrid form, you can use a bonus action to let out a loud howl and mark a creature within 60 feet as your prey. A creature remains marked this way for 1 hour, or until it dies. While a creature is marked as your prey, you gain the following benefits:
+- Whenever you hit the marked creature with a melee attack, you deal an additional 1d6 damage. This damage is the same type as the attack.
+- You have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to track your prey.
+
+You may use this feature a number of times equal to your Strength modifier (minimum of 1). You regain all expended uses of this feature upon a short or long rest.
+
+#### Transformation Boon: Kindred Form
+You gain the ability to transform into the animal form representative of your Lycanthropy type, known as your Kindred Form. You follow the same rules as the Hybrid Transformation feature and any feature that specifies the hybrid transformation, unless specified otherwise.  
+You can only transform into the kindred form representative of your Lycanthropy. Each Kindred Form gains the following rules:
+- You cannot speak.
+- You cannot take any actions requiring hands, except your Transformation capabilities.
+- You can only use unarmed claw and bite attacks.
+- You automatically succeed at all saving throws relating to the Lust for the Hunt flaw.
+
+Other than being larger, you are indistinguishable from a regular animal of your Kindred Form.
+
+##### Kindred Form - Bear
+Your kindred form takes the shape of a large bear. While in your kindred form, you gain the additional features:
+- You can speak to and understand other bears.
+- When you make any saving throw, you can add your Constitution modifier to the result.
+- Your hit point maximum increases by 15 hit points.
+
+##### Kindred Form - Wolf
+Your kindred form takes the shape of a ferocious dire wolf. While in your kindred form, you gain the additional features:
+- You can speak to and understand other wolves.
+- When making an attack against a creature, if an ally is within 5 feet of that creature and not incapacitated, you have advantage on that attack roll.
+- Your speed increases by 20 feet, to a maximum of 60.
+
+#### Transformation Boon: Heart Of The Wild
+The spirits of nature speak to you through your bestial side, offering you guidance and knowledge. You may now cast and concentrate on spells in hybrid form. Additionally, you can speak, read, and write Sylvan, and you have advantage on Wisdom and Charisma checks to interact with fey and beasts.
+
+#### Transformation Flaw: Silver Sensitivity
+You have developed a debilitating sensitivity to silver. While in your Hybrid or Kindred form, you have vulnerability to silvered weapons. In addition, you cannot have resistance to attacks made with a silvered weapon.
+ 
+### Transformation Level 3
+Starting at 3rd level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Titanic Vigor
+Your hit point maximum increases by an amount equal to twice your character level, and it increases by 2 every time you gain a character level.
+Additionally, when in your hybrid form, you gain 5 temporary hit points at the start of your turn.
+
+#### Transformation Boon: Predatory Leap
+Your jump distance is doubled.
+In addition, in hybrid form, if you jumped more than 5 feet and land within 5 feet of a creature, you can immediately take the attack action to attack that creature. On a hit, the target must make a Strength saving throw or become prone on a failed save. You can decide to automatically grapple the target if they fail their save.
+
+#### Transformation Boon: Bestial Savagery
+You have embraced the animalistic side of your transformation. While in your Hybrid Form, you gain the following benefits:
+- Your unarmed attacks deal 1d8 slashing damage and are considered magic attacks.
+- Your AC increases by 1.
+- You are immune to the charmed and frightened [[conditions]].
+
+#### Transformation Boon: Call The Pack
+**Prerequisite: Hunter’s Howl**
+When you use your Hunter’s Howl ability, up to three allies you designate within 60 feet of the target also gain the benefits. Your Hunter’s Howl also grants those allies advantage on attack rolls against the target if another affected ally is within 5 feet of the creature and not incapacitated.
+
+Additionally, when a hostile creature afflicted by your Hunter’s Howl dies, you regain hit points equal to twice your Strength modifier.
+
+#### Transformation Flaw: Fraying Memories
+You have begun to suffer the effects of sharing a mind with two personalities. Memories of less practical significance have been lost to new ones of midnight hunts. You have disadvantage on Intelligence ability and skill checks recalling information or knowledge.
+
+### Transformation Level 4
+Starting at 4th level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+    
+#### Transformation Boon: Savage Instincts
+You have developed an unrelenting thirst for bloodshed and carnage. While in your hybrid form, if you hit a creature with an unarmed attack, and it is missing any of its hitpoints, the base damage die is increased to 1d12.
+    
+#### Transformation Boon: Kindred Affinity
+**Prerequisite: Kindred Form Transformation feature.**
+You have reached true harmony with your Kindred Form, achieving a state of peace most Lycanthropes never find. You gain the following benefits while in your Kindred Form:
+- You can speak.
+- You can cast spells without needing to provide their verbal or somatic components. Additionally, you can cast spells without needing to provide material components, provided they do not have a gold cost.
+- Friendly creatures within 20 feet of you have advantage on Wisdom ability checks and saving throws.
+    
+#### Transformation Boon: Unstoppable Rage
+You have become a visage of unkillable carnage and slaughter even other Lycanthropes fear. When you are reduced to 0 hit points and you are not killed outright, you are not knocked unconscious. You can take your future turns as though you were not at 0 hit points and are affected by all spells, abilities and features as normal. While you have 0 hit points, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you.
+
+#### Transformation Boon: Blood Frenzy
+**Prerequisite: Bestial Savagery**
+Your bite attack damage increases to 2d8. If you hit a creature with a bite attack, you can force the creature to make a Strength saving throw against your Transformation Save DC or be grappled. While the target is grappled in this way, you have advantage on attack rolls against them and deal additional damage with your natural weapons equal to your Strength modifier.
+
+#### Transformation Flaw: Predatory Nature
+You have begun to realise the true cost of your transformation. The beast within has gained more control of your body than you have. While you can control it at times you know it cannot be contained forever, and when it breaks free, it will delight in any slaughter it can find. You gain the following features:
+- If you can see, hear or smell a [[TR-Lycanthrope#Helpless Creatures]], you gain disadvantage on all Wisdom saving throws.
+- At the beginning of your turn, if you can see, hear or smell a hostile or non-player [[TR-Lycanthrope#Helpless Creatures]], you must succeed a DC 10 Wisdom saving throw or be transformed into your Hybrid Form. If you succeed this saving throw, you become immune to this effect until dawn.
+- Whenever you kill a creature and you are in your Hybrid Form, you cannot transform back into your humanoid form until dawn the next day. Although you can transform into your Kindred Form.
+
+
+</div></div>
+
+
+### Primordial
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+The city dwellers raise their eyes to a floating figure barely glimpsed through the smog-filled sky. Their cries ring out as the figure, wreathed in flame, clenches a fist, causing the earth to tremble violently. The crushing weight of water is the last sensation the people know, as their filthy streets are washed clean.
+
+The primordial throws her head back as she exhales a gout of flame. Her charred skin rapidly heals as she wades free of the molten lava, laughing all the way. Her companions look on in horror as she calls to them, “I have heard it. I heard the song of creation!”
+
+Primordials are born when a humanoid absorbs a spark of primordial chaos. The primordial forces are the purest building blocks of creation, and a fostered spark quickly grows to an all-consuming flame. Mastering the elements requires unlearning the limitations of mortality, a process that spurs rapid transformation.
+
+## Becoming a Primordial
+There are several ways for a mortal to consume a primordial spark, but continuing to become an elemental takes concentrated effort. A mortal might be born with an elemental spark, gifted one, or they could gain one by consuming the power of an elemental. Once acquired, one must spend a great deal of time contemplating and understanding the spark to unlock its full potential.
+
+The process of attaining elemental mastery is danger- ous. The slightest slip in control can cause devastation on a massive scale. Such facts are why isolated individuals like druids, monks, or rangers are most likely to see the transformation through to its end.
+
+## Transformation Features
+A Primordial has the following transformation features:
+
+### Prerequisites
+**Ability Scores:** Constitution 13 or higher 
+**Roleplay:** Either through ritual, defeating a greater Elemental being, or some other means, you must consume a Primordial Spark.
+
+Some of your abilities require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:
+>Transformation Save DC = 8 + your proficiency bonus + your Constitution modifier.
+
+### Level Milestones
+The following are examples of possible level milestones for the Primordial:
+- Defeat and absorb the power of a greater elemental
+- Claim an elemental node
+- Make an alliance with a being from one of the [[Elemental Planes]]
+- Use your powers to defeat an encroaching civilization
+- Free an imprisoned or indentured elemental creature
+
+### Transformation level 1
+
+Starting at 1st level, you gain the following Transforma- tion Boons and this level’s Transformation Flaw.
+
+#### Transformation Boon: Elemental Form
+Your Constitution increases by 2 and your Wisdom score increases by 1. An ability score cannot be increased beyond 16 this way.
+
+You become an Elemental in addition to any other creature types you are. Spells and abilities that affect Elementals of a specific CR do not affect you.
+
+#### Transformation Boon: Primordial Affinity
+While able to control all elements, your Primordial birth was sparked by one particular element: your Primordial Affinity. Your body is infused with malleable elemental energy. You must choose an element below and gain all the benefits of that element:
+
+##### Air
+You have resistance to lightning damage. In addition, you can channel the air currents around you to guide a ranged attack. Once on each of your turns, when you make a ranged weapon or ranged spell attack, you can make that attack with advanage. If you are in a location without an air current - such as underwater - this feature has no effect.
+
+##### Earth
+You have resistance to poison damage. In addition, whenever you gain temporary hit points, you gain that many plus your proficiency bonus instead.
+
+##### Fire
+You have resistance to fire damage. In addition, whenever you deal fire damage, you can add your Constitution modifier to the damage dealt.
+
+##### Water
+You have resistance to cold damage. In addition, whenever a creature regains hit points due to a spell or feature you control, you can imbue them with healing elemental energy. The creature regains additional 1d6 hit points. Only one creature who regains hit points from the spell or feature can benefit from this.
+
+#### Transformation Flaw: Planar Binding
+Your body and soul are bound to a primordial plane of existence. You have disadvantage on death saving throws as the plane attempts to pull you back to it. If you would be killed, your soul is taken back to a plane of existence of the GM’s choice. This plane is your new home, and you become an NPC under the GM’s control.
+
+If you are on the primordial plane responsible for your transformation, this flaw has no effect.
+
+### Transformation level 2
+At 2nd level, you can pick one of the following Transformation Boons. In addition, you also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Dual Nature
+You can choose to add a second elemental source from the Primordial Affinity Boon to add to your form. When you do so, you gain the associated benefits of your new element.
+
+#### Transformation Boon: Elemental Surge
+You can channel pure elemental energy into a concentrated bolt of an element of your choice. You can use these features a number of times equal to your Constitution modifier, regaining all expended uses upon completing a long rest. On your turn, as an action you can choose one of the choices below:
+
+##### Lightning Strike
+You can make a special ranged attack targeting a creature within 60 feet. You are proficient with this attack, which uses your Constitution modifier. On a hit, this attack deals 3d8 + your Constitution modifier lightning damage. You can then use a bonus action to target another creature with 30 feet of the first target with the same attack. Increase the damage by 1d8 for each transformation level above 2.
+
+##### Earth Shard
+You can force a creature within 30 feet to make a Constitution saving throw. On a failed save, the creature takes bludgeoning damage equal to 3d6 + your Constitution modifier, or half as much on a successful save. Increase the damage by 1d6 for each transformation level above 2.
+
+You also gain temporary hit points equal to half the damage dealt.
+
+##### Flame Wave
+Each creature in a 15-foot cone originating in your square must make a Dexterity saving throw. On a failed save, creatures in the area take fire damage equal to 2d8 + your Constitution modifier. Increase the damage by 1d8 for each transformation level above 2.
+
+##### Aquatic Rejuvenation
+Choose a creature you can see within 60 feet of you. The creature regains a number of hit points equal to 2d8 + your Constitution modifier. Increase the amount of hit points regained by 1d8 for each transformation level above 2.
+
+
+
+#### Transformation Boon: Call The Four
+You can use your action to summon or repel elemental forces around you, causing one of the following effects of your choice:
+- You create a 15-foot radius globe of breathable air around you. Creatures can pass freely in or out of the globe, but other elemental forces like water or fire cannot. Alternatively, you can choose to banish all air from inside the globe. This globe lasts for 10 minutes, and you must concentrate on it (as per concentrating to maintain a spell).
+- You can conjure up to 50 pounds of loose earth at a point within 30 feet of you. Alternatively, you can shape the earth and stone within 15 feet of you. If affecting dirt or stone on the ground, you can cause it to become difficult terrain.
+- All flammable objects not worn or wielded within 30 feet of you to burst into flame for 1 minute. Alternatively, all nonmagical flames within 30 feet of you are immediately extinguished.
+- You can conjure up to 10 gallons of water at a point within 30 feet of you or cause the water to fall like rain in a 30-foot area for 1 minute. Alternatively, you can choose to repel water within 15 feet of you. This ability has no effect on living creatures but repels mist, rain and creates pockets of air if submerged in water.
+    
+#### Transformation Flaw: Elemental Appearance
+Your appearance has grotesquely transformed. Your eyes might be smoldering embers, water could continuously pour from your mouth or nose, your extremities may crumble like sand, or patches of your skin might fade to transparency. Regardless of your true form, you are horrific to behold. You can suspend this form and manifest the appearance of the humanoid you once were, but this is taxing and requires concentration.
+
+This form is not permanent, and moments of stress are likely to reveal your true nature. Your true form is revealed in the following situations:
+- Concentrating on a spell.
+- Gaining the unconscious condition.
+- Choosing to reveal yourself.
+- In events of extreme emotional or physical stress, a GM may call for a Constitution saving throw with a DC of their choosing to see if you maintain your humanoid form.
+    
+Non-chaotic creatures that witness your true form become hostile to you, unless the GM decides otherwise.
+    
+### Transformation level 3
+At 3rd level, you can pick one of the following Transfor- mation Boons or pick a boon from a lower level that you meet the prerequisites for. In addition, you also gain this level’s Transformation Flaw.
+    
+#### Transformation Boon: Primeval Body
+Your transformation to an elemental form has changed your body entirely. You no longer need to sleep, breathe, or eat. You also gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+    
+#### Transformation Boon: Aura Of Awakening
+You emit an aura of power that awakens the elemental forces in your companions. When you first gain this feature, choose one of the options below. You may change the aura you emit upon completing a long rest.
+
+##### Light as Air
+Whenever you or a friendly creature within 10 feet of you makes a Dexterity saving throw, the creature gains a bonus equal to your Constitution modifier. You must be conscious to grant this bonus.
+
+##### Forged in Fire
+While you are conscious, whenever you or a friendly creature within 10 feet of you deals damage with a melee weapon attack, they deal additional fire damage equal to your Constitution modifier. You must be conscious to grant this bonus.
+
+##### Heart of Stone
+At the beginning of your turn, you and each creature of your choice within 10 feet of you gain temporary hit points equal to your Constitution modifier. While a creature has temporary hit points gained in this manner and are not incapacitated, they cannot be moved or knocked prone, unless they choose to be. You must be conscious to grant this bonus.
+
+##### Spring of Life
+Each unconscious , non-sleeping creature of your choice within 10 feet of you regains 1 hit point at the beginning of their turn. You must be conscious to grant this bonus.
+
+#### Transformation Boon: Master Of Many
+**Prerequisite: Dual Nature**
+You can choose to add a third elemental source to your form. When you do so, you gain the associated benefits of your new element from Primordial Affinity in addition to your current source benefits.
+
+#### Transformation Flaw: Force Of Nature
+You are losing your connection to societal norms. The needs of civilization, community, and morals pale in comparison to the [[Elemental Planes|elemental chaos]] roiling within you. Whenever you complete a long rest, if you are within civilization, you do not regain any hit dice or lose any levels of exhaustion. In these circumstances, the GM decides if a location is considered civilized or not. Alternatively, the GM can decide that a park or grove within a city is sufficient.
+
+### Transformation level 4
+You can pick one of the following Transformation Boons or pick a boon from a lower level that you meet the prerequisites for. In addition, you also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Potent Aura
+**Prerequisite: Aura of Awakening**
+Creatures of your choice within 10 feet of you gain resistance to lightning, fire, poison, and cold damage.
+
+#### Transformation Boon: Energy Flow
+As a bonus action, you can burst into a shower of elemental material then materialize somewhere else. You magically teleport up to 30 feet to an unoccupied space you can see, along with any equipment you are wearing or carrying. Moving in this way does not provoke opportunity attacks. You can use this ability a number of times equal to your Constitution modifier. You regain all expended uses at the end of a long rest. After teleporting, you can choose one of the following:
+
+##### Swift Assault
+You can immediately make a weapon attack. If you make a ranged attack, you do not have disadvantage if a hostile creature is within 5 feet.
+
+##### Spark Storm
+Each creature within 10 feet of you must succeed on a Dexterity saving throw. On a failed save creatures take 2d6 fire damage.
+
+##### Boulderous Hide
+Choose a damage type. Until the start of your next turn, you have resistance to that damage type.
+
+##### Sea Mother’s Tether
+A thin tether of water links you to a creature within 30 feet for 1 minute. While tethered, if the creature would take damage, you can choose to take that damage instead. Additionally, if you would be damaged, the tethered creature can choose to take that damage instead. This damage cannot be reduced or prevented in any way.
+
+#### Transformation Boon: Elemental Mastery
+**Prerequisite: Master of Many**
+You gain the fourth elemental source to your form. When you do so, you gain the associated benefits of your new element from Primordial Affinity.
+
+Additionally, you can summon the four elements to wreath you in power. Whenever a creature hits you with a melee attack, you can use your reaction to force it to make a Dexterity saving throw, taking 8d6 damage of a type of your choice from cold, fire, lightning or bludgeoning, or half as much on a successful save. You can use this feature a number of times equal to your Constitution modifier, regaining all uses upon completing a long rest. Until the end of your following turn, your Primordial Affinity feature has one of the following additions:
+
+##### Air
+You have advantage on all ranged weapon and ranged spell attacks instead of only one.
+
+##### Earth
+At the beginning of your turn you gain a num- ber of temporary hit points equal to your character level. 
+
+##### Fire
+At the beginning of your turn, each creature of your choice within 5 feet of you takes 2d6 fire damage.
+
+##### Water
+Whenever a creature regains hit points due to a spell or feature you control that creature regains an addi- tional number of hit points equal to your character level.
+
+#### Transformation Flaw: Pull Of Chaos
+Your new native plane attempts to pull you to it, laying claim to your form. Whenever you roll a natural 1 on a saving throw against a magical spell or ability, you take 1d6 force damage per two character levels in addition to any other damage or effects you would suffer, as your native plane attempts to unbind you from the Material Plane. For example, a 6th-level character would take 3d6 force damage. This damage ignores resistances and immunities.
+
+</div></div>
+
+
+### Seraph
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+Incense burns dimly, as muffled coughs echo through the musty room. Loved ones hold each other as a bedridden woman exhales for the last time, her scarred face bearing the mortifying lesions of the Weeping Pox. Her family sobs, too lost in their sorrow to notice how the smouldering embers radiate and shine. A woman with flowing robes and platinum hair approaches, Radiant energy emitting from her folded, angelic wings. “Hold on for but a moment my child,” she whispers. “Mercy has been granted.”
+
+With a thunderous boom, the Seraph’s hammer collides with a skeletal abomination. Shards of bone scatter across the dilapidated chapel floor as
+
+the monster roars in pain. Gritting her teeth, the angelic figure proclaims, “By all that is holy, you will be vanquished!” Golden fire erupts from her hammer as she prepares for another strike.
+
+Seraphs are mortals who have transformed into Celestial representations of a virtue or ideal. Exalted by a higher power, Seraphs are selected by divine beings after long and patient observation, confirming that the mortal displays pure character. Seraphs are selected from noble martyrs, tireless crusaders, or other exemplary individuals who are prepared to become the physical manifestation of righteousness.
+
+## Becoming a Seraph
+To be chosen by an Arch Seraph is to become a vessel for the principles they uphold. This is a charge not to be taken lightly, and those who display righteousness with the intention of becoming a Seraph are usually overlooked for this reason. When becoming a Seraph, consider why your character was chosen. Do you display hidden merit? Are you devoted to a cause they will value?
+
+## Transformation Features
+A Seraph has the following transformation features:
+
+### Prerequisites
+**Ability Scores:** Wisdom 13  
+**Roleplay:** You must have been exalted by an Arch Seraph, divine cosmic energies, or have some other plausible reason to have become a Seraph. Discuss with your GM how you can achieve this in-game.
+
+Some of your abilities require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:
+>Transformation Save DC = 8 + your proficiency bonus + your Wisdom modifier
+
+### level milestones
+The following are examples of possible level milestones for the Seraph:
+- Defeating a powerful force of darkness.
+- Create a hallowed landmark for pilgrims.
+- Establish a parish of worshipers who uphold your virtue.
+- Establish a portal between the Material Plane and the Empyrium.
+- Redeem a soul that was considered beyond redemption.
+
+### Transformation Level 1
+Starting at 1st level, you gain the following Transformation Boons and this level’s Transformation Flaw.
+    
+#### Transformation Boon: Celestial Form
+Your Wisdom score increases by 2 and your Constitution score increases by 1. An ability score cannot be increased beyond 16 this way.
+
+You become a Celestial in addition to any other creature types you are. Spells and abilities that affect Celestials of a specific CR have no effect on you.
+
+#### Transformation Boon: Angelic Wings
+You have manifested feathered wings. You have a flying speed equal to your normal speed. You cannot wear armour or clothing that has not been modified to accommodate your wings.
+
+#### Transformation Flaw: Planar Binding
+Your body and soul are bound to a Divine plane of existence. You have disadvantage on death saving throws as the plane attempts to pull you back  
+to it. If you would be killed, your soul has been taken back to a plane of existence of the GM’s choice. This plane is your new home, and you become an NPC under the GM’s control.
+
+If you are on the Divine plane responsible for your transformation, this flaw has no effect.
+
+### Transformation Level 2
+
+Starting at 2nd level, you can pick one of the following Transformation Boons. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Divine Retribution
+When you or an allied creature you can see within 30 feet takes the attack action, you can use your reaction to imbue them with holy zeal. Immediately after the target completes the attack action, they can make an additional attack as a bonus action. On a hit, the hit target takes an additional 1d8 Radiant damage. You may use this feature a number of times equal to your Wisdom modifier (minimum of 1). You regain all uses of this feature when you finish a long rest.
+
+#### Transformation Boon: Divine Clemency
+When you or a creature you can see within 60 feet takes damage, you can use your reaction to cast a spell of 1st level or higher. This spell must target the damaged creature and restore hit points to it. You may use this feature a number of times equal to your Wisdom modifier (minimum of 1). You regain all uses of this feature when you finish a long rest.
+
+#### Transformation Boon: Divine expedition
+At the beginning of another creature’s turn, you can use your reaction to move yourself up to your speed or allow an ally that you can see, within 60 feet, to move up to their speed. Movement made this way does not cause attacks of opportunity. You may use this feature a number of times equal to your Wisdom modifier (minimum of 1). You regain all uses of this feature when you finish a long rest.
+
+#### Transformation Boon: Divine Protection
+When you or an allied creature you can see within 30 feet is targeted by an attack, you can use your reaction to shield them with holy light. The target gains a +4 bonus to AC against the attack. You may use this feature a number of times equal to your Wisdom modifier (minimum of 1). You regain all uses of this feature when you finish a long rest.
+
+#### Transformation Flaw: Divine Appearance
+Your appearance has radically transformed. Your body radiates a divine glow, while your wings are prominent and powerful appendages. You can contain this form and present the appearance of the humanoid you once were, but this is taxing and requires concentration. Moments of stress are likely to reveal your true nature. In the following situations, your true form is revealed:
+- Concentrating on a spell.
+- Gaining the unconscious condition. • Entering desecrated ground.
+- Choosing to reveal yourself.
+
+In events of extreme emotional or physical stress, a GM may call for a Constitution saving throw with a DC of their choosing to see if you maintain your humanoid form.
+
+Evil humanoid creatures that witness or hear about your true form become instantly hostile to you and are compelled by malice to destroy you, unless the GM decides otherwise.
+
+If the creature is scared of you or decides that you are too powerful to fight, it will attempt to harm you in another way, but will not give up on destroying you.
+
+### Transformation Level 3
+
+Starting at 3rd level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Radiant strike
+Whenever you hit a target with a melee attack, you deal an additional 1d6 Radiant damage to the target. This damage increases to 2d6 if the target is a Fiend, Fey, or Undead.
+
+#### Transformation Boon: Cleanse Affliction
+When you cast a spell that restores hit points to an ally, you can also remove one condition being inflicted on them by a spell or ability.
+
+#### Transformation Boon: Bow Of Celestial Judgement
+You can use a bonus action to summon a powerful bow made of divine light. The bow is the same as a longbow, except attacks made with it deal Radiant damage and have the following features:
+- The bow does not use ammunition. Instead, when the wielder draws the bowstring, an ethereal arrow of Radiant light forms.
+- Attacks with the bow deal an additional 1d8 Radiant damage. Against fiends, fey and undead, the bow deals an additional 2d8 Radiant damage instead.
+- The bow’s Radiant form emits bright light in a 5-foot radius and dim light for an additional 5 feet.
+
+You can unsummon the bow at any time with the use of an action. If you unwield the bow, it immediately unsummons.
+
+#### Transformation Boon: Holy Bulwark
+You may use your action to steel yourself against the tactics of your most hated adversaries. This effect lasts until you use this feature again. You gain one of the following benefits:
+
+##### Stand Against the Infernal
+You gain resistance to fire damage.
+
+##### Cleanse the Undead
+You gain resistance to necrotic damage.
+
+##### Ignore Fey Trickery
+You are immune to the [[Conditions#CHARMED]] and [[Conditions#FRIGHTENED]].
+
+#### Transformation Flaw: Beacon To Darkness
+You have become a Seraph of noted virtue and divinity. This has made you a target for all that is dark in the world. Whenever you or an ally within 30 feet commits an act of greater evil, such as murdering a helpless innocent, a small amount of darkness attaches itself to you, and you gain 1 corruption point (to a maximum of 5). 
+Whether the act constitutes greater evil is determined by the GM. Whenever you make an attack roll against an evil creature, or make a saving throw against a spell or ability from an evil creature, subtract the number of corruption points you have from the roll. Whenever you complete a short or long rest, and have prayed for at least 1 hour, you can reduce the number of corruption points you have by 1.
+    
+### Transformation Level 4
+Starting at 4th level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Aura Of Holy Purge
+You emit an aura of righteous fervour. This aura radiates up to 20 feet from you while you are conscious. When you or an ally within range of your aura hits a hostile creature, they can choose for that hit to be a critical hit instead. Once a creature has benefited from this feature, they cannot benefit from it again until they have completed a long rest.
+
+#### Transformation Boon: AurA oF merciFul Blessing
+You emit an aura of invigoration and fortitude. This aura radiates up to 20 feet from you while you are conscious. When you or an ally within range of your aura is reduced to 0 hit points, they are reduced to 1 hit point instead. Once a creature has benefited from this feature, they cannot benefit again until they have completed a long rest.
+
+#### Transformation Boon: Aura Of Empyreal Valor
+You emit an aura of swiftness and bravery. This aura radiates up to 20 feet from you while you are conscious. When you or an ally within range of your aura makes a Dexterity ability check to determine initiative, they can add +5 to the result. In addition, on that creature’s turn they gain advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. Once a creature has benefited from this feature, they cannot benefit again until they have completed a long rest.
+
+#### Transformation Boon: Aura Of Celestial Resilience
+You emit an aura of stalwart conviction. This aura radiates up to 20 feet from you while you are conscious. When you or an ally within range of your aura fails a saving throw, they can choose to succeed it instead. Once a creature has benefited from this feature, they cannot benefit from it again until they have completed a long rest.
+
+#### Transformation Flaw: Pull Of The Empyrean
+Your new native plane attempts to draw you to it, laying claim to your form. Whenever you roll a natural 1 for a saving throw against a magical spell or ability, you take 1d6 force damage per 2 class levels in addition to any other damage or effects you would suffer, as your native plane attempts to unbind you from the material plane. For example, a 6th level Fighter would take 3d6 force damage. This damage ignores resistances and immunities.
+
+</div></div>
+
+
+### Specter
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+A lithe figure dashes between buildings, their body becomes luminous and ghastly, held together in tatters as the being disappears into a wall. The ghostly shape reappears on the rooftops, emerging from the solid slate. They turn, eyes luminous and haunted, and unleash a cry of the dead, beckoning all who hear to the afterlife.
+
+A living person becomes a Specter either by touching the realm of the dead or by means of magic that breaks the body’s ties to material reality and time. The trans- formation tears at the substance of body and mind, until what is left is a spiritual shadow. Specters have a tenuous grasp on reality, and some fade into oblivion while others become monsters that sow the same. Few cursed with this transformation have the fortitude to remain whole.
+
+## Becoming a Specter
+Methods of Becoming a Specter vary, and few find their way willingly. Contact with the forces of death is the most common—a would-be hero is corrupted by the force they wanted to fight. Sinister rituals can also infuse a body with the powers of unmaking. Alongside beings and magic of death stand entities that exist in a reality untethered from the material world as mortals understand it. These others and their minions, manifestations of otherworldly chaos, can infuse a person with that chaos, making the victim’s ultimate home a dream of cosmic horror.
+
+## Specter Features
+A Specter, no matter their origin, has the following Features.
+
+### Prerequisites
+**Ability Scores:** Dexterity 13 or higher  
+**Roleplay:** You must have contact with the world of the dead, either through an encounter with a monstrous and incorporeal undead creature or through contact with the afterlife. Some magical rituals can infuse mortals with this energy. Alternatively, you have had contact with an entity or force that has caused your material form to start to slip out of existence.
+
+Transformation Save DC: Some of your transformation abilities require a target to attempt a saving throw. For those abilities, The saving throw DC is calculated as follows: 
+>Transformation Save DC = 8 + your pro- ficiency bonus + your Dexterity modifier.
+
+### Level Milestones
+The following are possible level milestones for Becoming a Specter.
+- Defeat a powerful, ghostly undead and absorb its power. Or defeat an aberration of similar might that has powers over space, time, or death.
+- Use a ritual that infuses your body with the forces of death or primordial chaos.
+- Survive a near-death experience caused by a ghostly undead creature or an aberration, especially one in which your hit point maximum is reduced, such as by a wraith’s life drain, or in which you drop to 0 hit points.
+- Kill a significant foe with necrotic or psychic damage, or by using necromancy magic.
+- Infuse other willing people with the power that corrupts you.
+- Deal with ghosts and similar spirits, or beings of other realities, perhaps as a conduit between them and other mortals.
+- Open a gate or path to places of the dead or the dreams of the Aether Kindred.
+
+### Transformation level 1
+Starting at transformation level 1, you gain the following Transformation Boons and the level’s Transformation Flaw.
+
+#### Transformation Boon: Spectral Presence
+Your Dexterity increases by 2 and your Charisma increases by 1. No ability score can increase above 16 in this way. If your transformation is due to contact with the afterlife, you become Undead in addition to any other creature types you are. If your transformation is due to an abnormality with reality, you become an Aberration in addition to any other creature types you are. Spells that affect humanoids still affect you. However, you’re immune to effects that only affect a creature of your new type of a specific CR.
+
+Also, you cease aging and cannot be aged magically.
+
+#### Transformation Boon: Spectral Movement
+Your walking speed increases by 10 feet. In addition, you can move through other creatures and solid objects as if they were difficult terrain and you can move through difficult terrain as if it were normal. If you end your turn inside a creature or object, you’re shunted back to where you entered and take 1d6 force damage per 10 feet (rounded up) you travel in this way. Objects that have been in your possession less than 1 minute cannot move through creatures and objects with you.
+
+As a final benefit of this boon, due to your incorporeal nature, during your turn you have resistance to all nonmagical bludgeoning, slashing, and piercing damage from sources you can see.
+
+#### Transformation Flaw: Close To Death
+Your body and soul have a tenuous grasp on existence. You have disadvantage on death saving throws as the pull of a peaceful death calls out to you. If you would be killed, the GM chooses whether you die permanently (unable to be restored by magic) or you transform into an incorporeal undead or aberration under the GM’s control. If you are on the [[Ethereal Plane]], this flaw has no effect.
+
+### Transformation level 2
+When your transformation reaches this level, you can choose one of the following transformation boons. You also gain this level’s transformation flaw.
+
+#### Transformation Boon: Ethereal Phasing
+You can cast the blink spell without expending a spell slot. Once you cast the spell using this boon a number of times equal to your Transformation level, you can’t do so again until you finish a long rest.
+
+#### Transformation Boon: Spectral Flight
+You gain a fly speed equal to your walking speed.
+
+#### Transformation Boon: Horrifying Visage
+As an action, you can force each creature of your choice within 30 feet of and able to see you to make a Wisdom saving throw. Targets that fail the saving throw are frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if you are within line of sight, ending the effect on itself on a success. You can use this boon a number of times equal to your transformation level. You regain all uses when you finish a long rest.
+
+#### Transformation Flaw: Haunting Appearance
+Your true form is ghostly and haunting, whether due to your connection to death or your tenuous ties to material reality. Although your appearance isn’t necessarily scary, your spectral form seems unnatural to normal creatures who might believe you to be a ghost or other sort of spirit. You can manifest as the humanoid you once were, but doing so requires concentration on your part. Moments of stress, such as the following, reveal your hideous appearance.
+- Using concentration, as if on or on a spell
+- Becoming unconscious
+- Entering hallowed ground
+- Choosing to reveal your hideous appearance
+- In events of extreme emotional or physical stress, the GM can call for a Constitution saving throw with a DC of their choosing to see if you reveal your hideous appearance.
+
+When you reveal your hideous appearance, how viewers react is up to the GM. They might treat you as a ghost or another monster in disguise. Hostility and fear are likely reactions in these cases.
+    
+### Transformation level 3
+When your transformation reaches this level, you can choose one of the following transformation boons. If you wish, you can select a boon from level 2 instead. You also gain this level’s transformation flaw.
+    
+#### Transformation Boon: Spectral Body
+Your body fades further into the immaterial, giving you certain benefits and abilities:
+- You are immune to disease, exhaustion, and poison.
+- When you take damage other than force, you can use a reaction to gain resistance to the triggering damage and reveal your Hideous Appearance.
+- You no longer require air, food, water, or sleep.
+
+#### Transformation Boon: Life Drain
+Your touch disrupts the life force of other beings. As an action, you can choose a creature within 5 feet to make a Constitution saving throw. On a failure, the creature takes 8d8 necrotic damage, and you gain half as many temporary hit points. If this damage causes the creature to drop to 0 hit points, the creature automatically dies and you regain an expended use of this boon.
+
+You can use this boon a number of times equal to your Transformation level. You regain all expended uses when you finish a long rest.
+
+#### Transformation Boon: Haunting Jaunt
+**Prerequisite: Spectral Flight**
+You can use a bonus action to choose an unoccupied space within 120 feet then you fly in a direct line from your current space to that chosen space. This movement does not provoke opportunity attacks. Each creature you pass through as part of this movement must succeed on a Constitution saving throw or take 3d6 + your Dexterity modifier psychic damage and be frightened of you until the end of your next turn.
+
+Once you use this boon, you must finish a short or long rest before you can use it again.
+
+#### Transformation Flaw: Untethered Mind
+Your mind starts to follow your body in its dissolution. Less significant memories of your existence before your Specter transformation start to fade like they’re dreams you’ve awakened from. The GM can claim you can’t recall something from your living past when it’s dramatic or might disadvantage you. Also, you have disadvantage whenever you attempt an Intelligence check to recall information.
+
+This lack of connection to your previous self can cause personality changes. You might forget old grudges or traumas, which can change your personality traits or alignment for the better. It’s more likely that you cling to any vestige of your old self, amplifying their importance, nursing resentments and gloomy thoughts. You might come to hate those who have a normal existence, taking a turn toward evil.
+
+### Transformation level 4
+When your transformation reaches level 4, you can choose one of the following Transformation Boons or a boon from levels 2 or 3 instead. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Call Of Unmaking
+As a bonus action, you reveal your Hideous Appearance and give a mournful wail or otherwise set up a wracking vibration. This sound has no effect on constructs and undead.
+
+All other creatures of your choice within 30 feet of you must make a Constitution saving throw. Creatures that can’t hear you have advantage on the saving throw. On  
+a failed save, the creature bears the mark of unmaking for the next minute. While bearing this mark, a creature takes an additional 1d6 necrotic damage each time it takes damage. Once you use this boon, you can’t use it again until you finish a long rest.
+
+#### Transformation Boon: Possession
+As an action, you reveal your Hideous Appearance and enter the space of a humanoid or beast and force that creature to make a Charisma saving throw. If the target fails, you disappear, and the target is incapacitated and loses control of its body. You control the body without depriving the target of awareness.
+
+While possessing a target, you can’t be targeted by any attack, spell, or other effect. You retain your alignment, Intelligence, Wisdom, Charisma, and any immunity to being charmed and frightened. Otherwise, you use the possessed target’s statistics but don’t gain access to the target’s knowledge, class Features, and proficiencies.
+
+The possession lasts until the possessed target drops to 0 hit points, you end it as a bonus action, or until you are forced out by an effect that ends possession. When the possession ends, you reappear in an unoccupied space within 5 feet of the body. You can use this boon again only after you finish a short or long rest.
+
+#### Transformation Boon: Ethereal Denizen
+You can sense invisible creatures and objects, and those in the nearby [[Ethereal Plane]], as if you are always under the effect of the see invisibility spell.
+
+Additionally, you can use an action to cast the etherealness spell without expending a spell slot. Once you cast the spell using this boon, you can’t do so again until you finish a short or long rest.
+
+#### Transformation Flaw: Pull Of Oblivion
+Dissolution pulls on your body and soul. Whenever you roll a natural 1 on a saving throw against an effect that deals you damage, you lose 1d6 hit points per two levels you have as the afterlife or your lack of reality pulls you toward nothingness. If you die, your body disappears, and you can be raised from the dead only with a wish spell or true resurrection spell. If you and the GM agree, you might instead become an NPC monster under the GM’s control, such as a wraith or a bizarre space-time aberration.
+
+</div></div>
+
+
+### Vampire
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+A lone figure clad in burnished steel greets the roaring infantry as they charge through the breach in the castle’s walls. In a flash of black mist, the figure appears in front of the soldiers, striking them down with inhuman speed.
+
+Candlelight flickers as a hooded adviser leans over an ornate throne, whispering machinations into her lord’s ensnared mind. The chamber erupts in commotion as the lord announces further powers be granted to the resident merchant’s guild.
+
+Vampires are creatures of cursed blood and tragic existence. Exquisite food, a warm summer’s breeze, and growing old with loved ones are all luxuries a Vampire will never experience. Unable to enjoy many of the fineries of life as they once knew it, Vampires often become bitter creatures, filled with hate for everything they once loved.
+
+## Becoming a Vampire
+Vampires are spawned into the world when a mortal contracts the Sanguine Curse, dies, and is reborn undead. There are a variety of ways to contract the curse. A Vampire may have offered their blood to a loyal servant, powerful ally, or loved one they wished to elevate. More commonly, a Vampire may have bitten you, and you survived the Vampire’s attack long enough to contract  
+the Sanguine Curse before perishing and being reborn. Other methods include ancient and dark magic, as well as powerful but cursed magical artifacts. Regardless of how you have become a Vampire, you should discuss with your GM what type of Vampire you would like to become, and how it can be implemented in the campaign.
+
+## Transformation Features
+A Vampire has the following transformation features:
+
+### Prerequisites
+**Ability Scores:** Dexterity 13  
+**Roleplay Milestones:** You must have contracted the Sanguine Curse, whether by being bitten by a Vampire, offered their blood, completing the Sanguine Ritual, or by another plausible method. Discuss with your GM how you can achieve  
+this in-game.
+
+Some of your abilities require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:
+>Transformation Save DC = 8 + your proficiency bonus + your Dexterity or Charisma modifier
+
+### Level Milestones
+The following are examples of possible level milestones for the Vampire:
+- Establish a coven of vampire spawn.
+- Drink the blood of a legendary monster.
+- Learn the great secrets of vampirism from a Vampire Lord.
+- Learn to embrace your Hideous Form and lose the ability to conceal it.
+- Discover the lost crypts of an ancient vampire and consume its essence.
+    
+
+### Transformation Level 1
+Starting at 1st level, you gain the following Transformation Boons and this level’s Transformation Flaw.
+
+#### Transformation Boon: Blood Fury
+You have become possessed by the thirst that grips all Vampires. In combat, this thirst drives you into an insatiable frenzy of bloodshed. Whenever you deal combat damage with an unarmed strike or a melee/ranged weapon to a target that can bleed, and is not undead or a construct, you gain one Fury Point. You may only have a maximum of 4 Fury Points at any time. Upon completing a short or long rest, the number of Fury Points you have is reset to 0. These points are used by certain abilities that you can learn through your transformation levels.
+
+##### Blood Fury Abilities
+You can spend Fury Points (FP) to use the following abilities. The entries below detail their names, Fury Points cost in parentheses, and features:
+
+###### Fanged Bite (1FP)
+On your turn, immediately after you take the attack action, you can use your bonus action to make a special unarmed bite attack. You can use your Dexterity modifier instead of strength to hit with this attack. This attack deals piercing damage equal to 1d4 + your Strength or Dexterity modifier. The target must then succeed at a Constitution saving throw or take 2d6 necrotic damage. You regain hit point equal to the necrotic damage dealt this way. This attack generates 1 Fury Point as normal. If this attack reduces a humanoid creature of size Medium or smaller to 0 hit points, you gain 3 Fury Points instead.
+
+###### Calculated Strike (1FP)
+When you hit with a melee weapon attack, you may use this ability before damage is dealt. If you do so, you may add 1d6 of the same damage as your weapon to the damage result. If this ability is used, no Fury Points are generated for this attack.
+
+###### Vampiric Mist (2FP)
+As a bonus action, you can disappear in a puff of shadowy mist and teleport up to 30 feet to an unoccupied space you can see.
+
+###### Unearthly Reflexes (1FP)
+After you have rolled a Dexterity saving throw, but before the GM has determined the result, you can use your reaction and take half damage on a failed save, and no damage on a successful one.
+
+###### Deathly Horror (3FP)
+As a bonus action, you can emit a ghastly distortion of your true form. A creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or become Frightened of you for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to this ability for 24 hours.
+
+#### Transformation Boon: Undead Form
+Your Dexterity score increases by 2 and your Charisma score increases by 1. An ability score cannot be increased beyond 16 this way. In addition, your creature type changes to undead. Spells and abilities that state effects or [[conditions]] specifically regarding Undead of a specific CR have no effect on you. If a spell or ability other than your own would cause you to gain Hit Points, you gain that many temporary Hit Points instead. If you are reduced to 0 hit points and fall unconscious as a result, any healing you receive will stabilize you and leave you on 1 hit point and unconscious. Furthermore, you cannot die from old age and you do not require air, food or drink.
+
+##### Feeding
+Transcended beyond mortal needs, vampires do not need to eat. However, the gripping nature of their curse requires them to feed on the fresh blood of humanoids. A task they undertake with delight.
+
+On your turn, as an action, you can make an unarmed bite attack against an unconcious, restrained or charmed humanoid. If you do so, the target is drained for 1 pint of blood and bears a bite mark on the location you bit them. This attack does not wake sleeping creatures or end the effect of spells and abilities. A creature bitten this way gains a level of exhaustion, which can only be removed with the use of a greater restoration spell.
+
+A vampire that does not feed within the required time goes into an unconscious feeding frenzy, under the GM’s control. The next time they sleep or enter a trance they attack all nearby living creatures and attempt to feed on them. A vampire remains in this state until they have drained a creature completely (killing them), at which point the vampire falls unconscious for 4 hours.
+
+#### Transformation Flaw: The Sanguine Curse
+The sanguine curse has taken a hold on you. As a result you gain the following features:
+- You cannot enter a residence you do not own without an invitation from one of the occupants. If you enter a residence involuntarily such as by being dragged into one, you take 1d10 psychic damage at the start of your turn while you are inside it.
+- You gain Darkvision (60 ft.) if you do not already have it.
+- While in sunlight, you have disadvantage on attack rolls and ability checks.
+- You must feed every 7 days.
+
+### Transformation Level 2
+Starting at 2nd level, you can pick one of the following Transformation Boons. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Dread Knight Combat Training
+You become trained in the martial ways of the Dread Knights. As a bonus action, you may enter, exit, or change combat stances. While in a combat stance, you gain the features of that stance. Additionally you may use Dexterity instead of Strength for the attack and damage rolls of any melee weapon with the slashing damage type.
+
+##### Offensive
+While in this stance, you deal an additional amount of damage with your melee weapon equal to the number of Fury Points you currently possess (minimum of 1).
+
+##### Defensive
+While in this stance, you gain a bonus to your AC equal to half the number of Fury Points you currently possess (minimum of 1).
+
+##### Accuracy
+While in this stance, you gain a bonus to hit with your weapon attacks equal to half the number of Fury Points you currently possess (minimum of 1).
+
+#### Transformation Boon: Sanguine Magic
+**Prerequisite: The ability to cast spells.**
+Your curse corrupts the magic you cast. Whenever you deal non-necrotic damage with a spell or cantrip, you can choose to deal necrotic damage instead of that spell’s normal damage type. Furthermore, whenever you deal damage with a spell or cantrip, you gain one Fury Point (maximum of 1 per turn).
+
+Additionally, you gain the following Blood Fury abilities:
+
+##### Cast in Blood (1 FP)
+The next time you cast a damage-dealing cantrip, you can add your charisma modifier to the damage you deal.
+
+##### Sanguine Spellbinding (3 FP)
+The next time a creature makes a Charisma, Intelligence, or Wisdom saving throw against a spell you have cast, it has disadvantage. If a spell affects multiple creatures at the same time, you choose which creature is affected.
+
+#### Transformation Boon: Shapechanger
+You can use an action to polymorph into a Tiny bat or back into your normal form. While in bat form, you gain the following features:
+- Your walking speed is 5 feet, and you have a flying speed of 30 feet.
+- If you have sunlight hypersensitivity, it is reduced to sunlight sensitivity: while in sunlight, you have disadvantage on attack rolls and ability checks, but take no damage from direct contact with sunlight.
+- While in bat form, you can’t speak. Any object you are holding or armour you are wearing merges into your bat form or immediately drops to the ground. The GM may decide if they feel the object cannot merge.
+- If you become unconscious in bat form, you revert back to your vampiric form.
+
+Additionally, you can use an action to turn into mist. Whilst in mist form, you gain the following features:
+- You cannot take any actions, speak, or manipulate objects.
+- You are weightless, have a flying speed of 20 feet, can hover, and can enter a hostile creature’s space and stop there.
+- In addition, if air can fit through a space, then you can as well. You cannot pass through liquid, and this does not give you the ability to cross running water.
+- You have advantage on Strength, Dexterity, and Constitution saving throws, and are immune to all non magical damage, except any damage you take from sunlight.
+- Any object you are holding or armour you are wearing merges into your mist form or immediately drops to the ground. The GM may decide if they feel the object cannot merge.
+- If you become unconscious in mist form, you revert back to your vampiric form.
+
+#### TransformaTion Boon: Night Stalker
+You gain proficiency in Stealth. If you already have proficiency in Stealth, then your proficiency bonus is doubled when making Stealth ability checks.
+
+Additionally, you can attempt to hide even when you are only lightly obscured, including dim light.
+
+You also gain a climb speed equal to your walking speed. You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+#### Transformation Flaw: Hideous Appearance
+Your appearance has greatly altered from its original features. The first signs were the fangs that started to protrude from your upper row of teeth. You have no reflection in mirrors or other reflective surfaces. With dry, pale skin and occasional burns from the sun, you can hide your true appearance by concentrating on your pre-vampirism appearance. However, the following situations can reveal your true appearance:
+- Concentrating on a spell.
+- Gaining the unconscious condition.
+- Entering hallowed ground.
+- Taking damage from being exposed to sunlight or free-flowing water.
+- Choosing to reveal your true self.
+
+In events of extreme emotional or physical stress, a GM may call for a Constitution saving throw with a DC of their choosing to see if you maintain your humanoid form.
+
+### Transformation Level 3
+Starting at 3rd level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+
+#### Transformation Boon: Cruel Riposte
+Whenever a creature within 5 feet of you makes an attack against you, you may use your reaction to make a melee weapon attack against the attacking creature. You may use this feature a number of times equal to your Dexterity modifier (minimum of 1). You regain all expended uses of this feature when you complete a long rest.
+
+#### Transformation Boon: Creatures Of The Night
+Once per long rest, you can magically call to your aid 2d4 swarms of bats or 2d4 swarms of rats. When outdoors, you can summon 2d4 wolves instead of swarms of rats. These creatures arrive at the end of your next turn at a destination of the GM’s choice within 30 feet of you, and they are under your control. They act directly after you in the initiative order and remain for 1 hour, until you die, or until you dismiss them with a bonus action. You cannot use this ability if you are exposed to direct sunlight.
+
+#### Transformation Boon: Captivating Glance
+You gain proficiency in Deception and Persuasion. If you are already proficient in one of these skills, then your proficiency bonus is doubled for ability checks using that skill. If you have or ever gain double proficiency in one or both of these skills, you gain +2 for that skill instead.
+
+Additionally, your thoughts cannot be read by any means.
+
+#### TransformaTion Boon: Improved Shapechanger
+**Prerequisite: Shapechanger**
+When you use your Shapechanger ability, you may also take on the form of a dire wolf. While in dire wolf form you gain the following features:
+- Your movement speed changes to 50 feet. If you have sunlight hypersensitivity, it is reduced to sunlight sensitivity: while in sunlight, you have disadvantage on attack rolls and ability checks, but take no damage from direct contact with sunlight.
+- While in dire wolf form, you can’t speak. Any object you are holding or [[armor]] you are wearing merges into your wolf form or immediately drops to the ground. The GM may decide if they feel the object cannot merge.
+- If you become unconscious in dire wolf form, you revert back to your vampiric form.
+
+Additionally, you gain the ability to use Fanged Bite while in animal form. The piercing damage for your Fanged Bite changes based on your form. While in bat form you deal 1 piercing damage, and while in dire wolf form you deal 2d6 piercing damage.
+
+While in mist form you may cast the spell fog cloud once without expending a spell slot and without using verbal, somatic, or material components. You regain the ability to cast this spell when you finish a long rest.
+
+#### Transformation Flaw: Greater Sanguine Curse
+Your curse has taken a stronger hold on you. As a result you gain the following features:
+- You take 1d10 acid damage if you end your turn in running water.
+- You gain superior Darkvision (120 ft.) if you do not already have it.
+- You take 1d10 radiant damage when you start your turn in sunlight.
+- You must feed every 3 days.
+    
+### Transformation Level 4
+Starting at 4th level, you can pick one of the following Transformation Boons, or pick a boon from a lower level that you meet the prerequisites for. You also gain this level’s Transformation Flaw.
+    
+#### Transformation Boon: Grim Executioner
+**Prerequisite: Dread Knight Combat Training.**
+You have mastered the martial techniques of the Dread Knight. Whenever you roll a critical hit with a melee or ranged weapon, and the target has 50 or fewer hit points, you kill the target outright. If your target has more than 50 hit points, you deal an extra 6d6 damage. This damage is of the same type as your weapon.
+
+#### Transformation Boon: Beguiler’s Entrancement
+**Prerequisite: Captivating Glance.**
+Once per long rest, you gain the ability to manipulate the mind of a humanoid with your sanguine magic. You can use an action to make an incapacitated humanoid charmed by you for 24 hours or until you target a different humanoid with this ability. If you use this ability on the same target for 30 unbroken days, the target becomes permanently charmed by you.
+
+You may use this ability on another humanoid once you have permanently charmed the previous humanoid. You can have a maximum number of enthralled humanoids equal to your Charisma Modifier (minimum of 1). If the number of enthralled humanoids exceeds your Charisma modifier for any reason, you lose connection to all of them.
+
+This charm effect can be removed with the remove curse spell, or any other spell or ability with similar effects.
+
+#### Transformation Boon: Regenerate
+You regain 10 hit points at the start of your turn if you have at least 1 hit point remaining, and are not in sunlight or over running water.
+
+If you take radiant damage or damage from holy water, this ability does not function at the start of your next turn.
+
+#### Transformation Boon: Innate Sangromancy
+**Prerequisite: Sanguine Magic**
+You know all Sangromancy Spells. When casting a spell using Sangromancy, you may use FP instead of spending hit dice. Treat these FP as 1d12 hit dice. When you cast a spell in this way you do not generate FP from Sanguine Magic and you may choose a single effect to apply to the spell by spending additional FP:
+
+##### Beguiling Spell (2 FP)
+When a creature fails their saving throw against this spell, they are also charmed by you until the end of your next turn.
+
+##### Shadow Spell (2 FP)
+When a creature fails their saving throw against this spell, they are unable to perceive you until the end of your next turn, except by magical means.
+
+##### Withering Spell (3 FP)
+When you cast a spell that deals necrotic damage, it deals an additional 1d8 necrotic damage per spell level. A creature damaged by this spell cannot take reactions until the end of your next turn.
+
+##### Vampiric Spell (3 FP)
+When you cast a spell that deals necrotic damage, you heal for up to half the amount of damage dealt.
+
+#### Transformation Flaw: Stake To Heart
+Whenever you’re attacked by a creature with a wooden or silvered weapon, if they score a natural 20 to hit, and you have 50 hit points or less, they manage to lodge their weapon into your heart and you become paralyzed for 1 hour or until the weapon is removed, whichever is greater.
+
+</div></div>
+
