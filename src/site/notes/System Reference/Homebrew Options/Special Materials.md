@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/special-materials/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/special-materials/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
