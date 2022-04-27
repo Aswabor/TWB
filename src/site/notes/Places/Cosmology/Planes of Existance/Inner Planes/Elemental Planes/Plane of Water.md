@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Water","EnergyRelation":null,"aliases":"plane of water,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-water/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Water","EnergyRelation":null,"aliases":"plane of water,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-water/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Plane of Water?
