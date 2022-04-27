@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Earth","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-dust/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Earth","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-dust/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Dust
