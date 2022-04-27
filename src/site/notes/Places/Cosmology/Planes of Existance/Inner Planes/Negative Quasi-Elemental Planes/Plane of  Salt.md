@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Water","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-salt/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Water","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-salt/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Salt
