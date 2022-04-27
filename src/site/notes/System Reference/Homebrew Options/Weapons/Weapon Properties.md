@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/weapons/weapon-properties/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/weapons/weapon-properties/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
