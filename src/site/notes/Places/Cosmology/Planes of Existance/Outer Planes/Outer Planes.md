@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outer-planes/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outer-planes/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Outer Planes
