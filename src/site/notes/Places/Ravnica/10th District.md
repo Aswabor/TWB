@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/ravnica/10th-district/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/ravnica/10th-district/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # 10th District
