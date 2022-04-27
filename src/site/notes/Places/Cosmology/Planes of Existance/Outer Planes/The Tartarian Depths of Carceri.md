@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"lower","alignment":"CE/NE","aliases":"Carceri","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-tartarian-depths-of-carceri/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"lower","alignment":"CE/NE","aliases":"Carceri","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-tartarian-depths-of-carceri/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Carceri?
