@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"neutral","alignment":"CN","aliases":"Limbo","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-ever-changing-chaos-of-limbo/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"neutral","alignment":"CN","aliases":"Limbo","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-ever-changing-chaos-of-limbo/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Limbo?
