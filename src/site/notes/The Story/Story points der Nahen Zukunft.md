@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-story/story-points-der-nahen-zukunft/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-story/story-points-der-nahen-zukunft/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Story points der Nahen Zukunft
