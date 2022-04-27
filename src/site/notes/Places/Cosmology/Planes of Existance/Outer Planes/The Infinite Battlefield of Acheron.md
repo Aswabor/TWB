@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"lower","alignment":"LE/LN","aliases":"Acheron","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-infinite-battlefield-of-acheron/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"lower","alignment":"LE/LN","aliases":"Acheron","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-infinite-battlefield-of-acheron/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Acheron?
