@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Water","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-steam/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Water","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-steam/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Steam
