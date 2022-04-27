@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"lower","alignment":"CE","aliases":"Abyss","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-infinite-layers-of-the-abyss/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"lower","alignment":"CE","aliases":"Abyss","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-infinite-layers-of-the-abyss/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Abyss?
