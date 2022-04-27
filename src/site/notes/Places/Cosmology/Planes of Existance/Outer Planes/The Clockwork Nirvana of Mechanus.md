@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"neutral","alignment":"LN","aliases":"Mechanus","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-clockwork-nirvana-of-mechanus/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"neutral","alignment":"LN","aliases":"Mechanus","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-clockwork-nirvana-of-mechanus/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Mechanus?
