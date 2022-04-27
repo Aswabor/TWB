@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zzz/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/zzz/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 - [[ZZZ#Heading 1|Heading 1]]
