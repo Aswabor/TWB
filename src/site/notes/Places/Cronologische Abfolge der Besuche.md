@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/cronologische-abfolge-der-besuche/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/cronologische-abfolge-der-besuche/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Cronologie
