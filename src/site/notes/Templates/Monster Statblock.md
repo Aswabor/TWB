@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/monster-statblock/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/templates/monster-statblock/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```statblock
