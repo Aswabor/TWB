@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-u5/characters/kal-schazac/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-u5/characters/kal-schazac/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # **Kal’ Schazac**
