@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-fiend/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-fiend/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 A smirking, well-dressed man of unknown origin appears in a time of great need. He extends his hand and a contract manifests in a golden flash. With a quill floating by his side, he remarks, “Of course I can fix your dilemma. After all, who do you think caused it in the first place?” For a solution to a world of problems, the man asks for only two things in return: a signature and an eternity of servitude.
