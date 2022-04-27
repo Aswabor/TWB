@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Water Earth","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-ooze/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Water Earth","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-ooze/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Ooze
