@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/quartiermeister/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/quartiermeister/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Quartermaster (AKA the Chief Steward)
