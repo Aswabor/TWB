@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/additional-tables/unstable-form-table/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/additional-tables/unstable-form-table/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 |Level 1        |Level 2|Level 3|Level 4|Effect                                                                                                                                                                                                  |
