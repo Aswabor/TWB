@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","aliases":"Sigel, Siegel","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/sigil/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","aliases":"Sigel, Siegel","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/sigil/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Sigil?
