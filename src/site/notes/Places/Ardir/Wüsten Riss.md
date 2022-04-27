@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/ardir/wuesten-riss/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/ardir/wuesten-riss/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Wüsten Riss
