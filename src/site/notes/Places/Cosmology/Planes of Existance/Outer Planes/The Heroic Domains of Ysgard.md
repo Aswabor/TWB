@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"upper","alignment":"CG/CN","aliases":"Ysgard","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-heroic-domains-of-ysgard/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"upper","alignment":"CG/CN","aliases":"Ysgard","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-heroic-domains-of-ysgard/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Ysgard?
