@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/herkunft-der-nadel/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/herkunft-der-nadel/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 Falsche Information:
