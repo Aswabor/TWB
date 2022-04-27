@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-aberrant-horror/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-aberrant-horror/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Aberrant Horror
