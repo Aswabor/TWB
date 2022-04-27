@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"NPC/Ardir","Plane":"Ardir","Residence":"Dwarf-Mines","permalink":"/npc/trodmu-steifluesterer/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"NPC/Ardir","Plane":"Ardir","Residence":"Dwarf-Mines","permalink":"/npc/trodmu-steifluesterer/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Trodmu Steiflüsterer
