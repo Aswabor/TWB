@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/npc/crafters/crafters/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/npc/crafters/crafters/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 Alchemist
