@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"upper","alignment":"NG/CG","aliases":"Beastlands","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-wilderness-of-the-beastlands/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"upper","alignment":"NG/CG","aliases":"Beastlands","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-wilderness-of-the-beastlands/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is the Beastlands?
