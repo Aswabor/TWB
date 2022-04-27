@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"lower","alignment":"NE/LE","aliases":"Gehenna","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-fiery-slopes-of-gehenna/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"lower","alignment":"NE/LE","aliases":"Gehenna","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-fiery-slopes-of-gehenna/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Gehenna?
