@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Air Water","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-ice/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Air Water","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-ice/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Ice
