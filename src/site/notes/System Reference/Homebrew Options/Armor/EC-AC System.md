@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/armor/ec-ac-system/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/armor/ec-ac-system/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
