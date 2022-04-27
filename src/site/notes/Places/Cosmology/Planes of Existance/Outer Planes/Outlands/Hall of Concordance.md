@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/hall-of-concordance/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/hall-of-concordance/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Hall of Concordance
