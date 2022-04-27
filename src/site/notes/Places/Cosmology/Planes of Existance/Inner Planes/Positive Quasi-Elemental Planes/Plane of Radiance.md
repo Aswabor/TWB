@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-radiance/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-radiance/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Radiance
