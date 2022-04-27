@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-u5/sidekicks/a-pha-uk/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-u5/sidekicks/a-pha-uk/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 > ## Imp  
