@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/todo/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/todo/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 #todo
