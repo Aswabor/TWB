@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-ash/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-ash/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Ash
