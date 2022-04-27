@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zz-anhang/usefull-links/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/zz-anhang/usefull-links/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ## Usefull Links
