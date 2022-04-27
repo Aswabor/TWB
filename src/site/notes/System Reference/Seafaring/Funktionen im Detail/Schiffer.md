@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/schiffer/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/schiffer/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Navigator (AKA the Second Mate, or Skipper)
