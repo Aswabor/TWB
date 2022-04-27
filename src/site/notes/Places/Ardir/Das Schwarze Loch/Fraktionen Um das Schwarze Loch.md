@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/ardir/das-schwarze-loch/fraktionen-um-das-schwarze-loch/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/places/ardir/das-schwarze-loch/fraktionen-um-das-schwarze-loch/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Fraktionen
