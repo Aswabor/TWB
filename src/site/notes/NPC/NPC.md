@@ -41,7 +41,7 @@ SORT file.name ASC
 - [[NPC/Sahil|Sahil]]
 - [[NPC/Council of Concordance/Sarandiel|Sarandiel]]
 - [[NPC/Trodmu Steiflüsterer|Trodmu Steiflüsterer]]
-- [[NPC/Council of Concordance/Ulrak Chamion of Ice|Ulrak Chamion of Ice]]
+- [[NPC/Council of Concordance/Ulrak Champion of Ice|Ulrak Champion of Ice]]
 - [[NPC/Council of Concordance/Ursula Mortem|Ursula Mortem]]
 - [[NPC/Ysri von Varaxis|Ysri von Varaxis]]
 
