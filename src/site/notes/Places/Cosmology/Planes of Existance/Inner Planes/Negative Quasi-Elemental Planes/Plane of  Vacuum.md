@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"BaseRelation":"Air","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-vacuum/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"BaseRelation":"Air","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-vacuum/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Vacuum
