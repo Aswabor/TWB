@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-specter/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/homebrew-options/transformations/all/tr-specter/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 A lithe figure dashes between buildings, their body becomes luminous and ghastly, held together in tatters as the being disappears into a wall. The ghostly shape reappears on the rooftops, emerging from the solid slate. They turn, eyes luminous and haunted, and unleash a cry of the dead, beckoning all who hear to the afterlife.
