@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/hauptbootsmann/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-im-detail/hauptbootsmann/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Ship’s Carpenter (AKA the Ship’s Engineer or Shipwright)
