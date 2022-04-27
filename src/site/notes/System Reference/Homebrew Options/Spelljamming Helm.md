@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Artifurnace","Helm","PlaneDrive"],"permalink":"/system-reference/homebrew-options/spelljamming-helm/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":["Artifurnace","Helm","PlaneDrive"],"permalink":"/system-reference/homebrew-options/spelljamming-helm/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Artifurnace
