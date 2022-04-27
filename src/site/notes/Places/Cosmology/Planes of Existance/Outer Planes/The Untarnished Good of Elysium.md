@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":"upper","alignment":"NG","aliases":"Elysium","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-untarnished-good-of-elysium/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"location":"upper","alignment":"NG","aliases":"Elysium","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-untarnished-good-of-elysium/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # What is Elysium?
