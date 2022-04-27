@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-an-bord/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/system-reference/seafaring/funktionen-an-bord/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ```toc
