@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Fire Air","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-smoke/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Smoke
 ### Smoke: An Outsider’s Perspective
 Between the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Air|Plane of Air]] and the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Fire|Plane of Fire]], the Plane of Smoke is a large fog bank of smog and smoke, of caustic fumes and burning embers that choke the lungs of those who try to breathe it. Visitors of this plane are often the djinn and efreet who wage a war across this plane, treating it as a vast and bloody battlefield as they attempt to gain elemental ground against the other side. Others who visit this plane do so either as mercenaries for one of the genie armies or as explorers searching through the smoke-laden [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Air|Plane of Air]] for rare gases that can provide healing, offer new experiences, as well as horrible poisons for assassins.
