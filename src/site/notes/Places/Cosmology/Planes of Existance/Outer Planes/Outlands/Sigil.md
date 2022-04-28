@@ -2,6 +2,7 @@
 {"dg-publish":true,"tags":"noList","aliases":"Sigel, Siegel","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/sigil/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Sigil?
 Sigil, also known as the City of Doors or the Cage, is a nexus and planar metropolis. Every plane can be reached through portals from the inside of this torus-shaped plane, and the only way to come or go from Sigil is to use these portals. Sigil, the city, is on the inside of this hollow donut and is separate from everything in the multiverse, but connects everything. Trying to go to the outside of Sigil will bring you to nothing, literal nothing. If you wish to travel to a specific plane, Sigil can get you there… you just have to find the right portal and key.
 
