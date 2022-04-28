@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Water","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-salt/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Salt
 [[Places/Cosmology/Planes of Existance/Inner Planes/Negative Quasi-Elemental Planes/Negative Quasi-Elemental Planes|Negative Quasi-Elemental Planes]]
 ### Salt: An Outsider’s Perspective
