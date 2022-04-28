@@ -2,6 +2,7 @@
 {"dg-publish":true,"tags":"NPC/Party","Plane":"Party","Residence":"Aurelia","permalink":"/npc/crew/kobolds/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[NPC/NPC|NPC]]
 # Kobold Crew
 >Quality Score: 4 (min -10, max +10)
 
