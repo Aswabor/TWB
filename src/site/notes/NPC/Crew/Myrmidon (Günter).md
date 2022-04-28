@@ -2,6 +2,7 @@
 {"dg-publish":true,"tags":"NPC/Party","Plane":"Party","Residence":"Aurelia","permalink":"/npc/crew/myrmidon-guenter/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[NPC/NPC|NPC]]
 # Aquira (Günter)
 >### Water Elemental Myrmidon
 >*Medium elemental, neutral*
