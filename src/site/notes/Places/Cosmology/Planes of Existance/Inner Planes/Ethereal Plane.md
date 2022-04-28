@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":null,"EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/ethereal-plane/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # What is the Ethereal Plane
 The Ethereal Plane, also described as the Waveless Sea, is a mist-filled, colorful dimension that exists alongside the Prime Material Plane and the Inner Planes, the elemental planes that make up the Material Plane like the Plane of Fire or Plane of Water. It acts as an adjacent world where it touches every part of the Material and Inner Planes, and contains a dense fog of what many referred to as “Planar Soup”. 
 
