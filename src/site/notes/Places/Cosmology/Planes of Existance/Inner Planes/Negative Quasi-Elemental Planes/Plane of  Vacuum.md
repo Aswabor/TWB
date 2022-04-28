@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Air","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-vacuum/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Vacuum
 [[Places/Cosmology/Planes of Existance/Inner Planes/Negative Quasi-Elemental Planes/Negative Quasi-Elemental Planes|Negative Quasi-Elemental Planes]]
 ### Vacuum: An Outsider’s Perspective
