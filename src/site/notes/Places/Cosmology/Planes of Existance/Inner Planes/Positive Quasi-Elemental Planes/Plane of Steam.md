@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Water","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-steam/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Steam
 [[Places/Cosmology/Planes of Existance/Inner Planes/Positive Quasi-Elemental Planes/Positive Quasi-Elemental Planes|Positive Quasi-Elemental Planes]]
 ### Steam: An Outsider’s Perspective
