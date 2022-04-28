@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-ash/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Ash
 [[Places/Cosmology/Planes of Existance/Inner Planes/Negative Quasi-Elemental Planes/Negative Quasi-Elemental Planes|Negative Quasi-Elemental Planes]]
 ### Ash: An Outsider’s Perspective
