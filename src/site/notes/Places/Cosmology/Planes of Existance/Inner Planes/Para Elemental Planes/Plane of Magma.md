@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Earth Fire","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-magma/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Magma
 ### Magma: An Outsider’s Perspective
 Between the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Earth|Plane of Earth]] and the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Fire|Plane of Fire]], the Plane of Magma is a flowing realm of super-heated rock. Large islands of obsidian float across the magma floes, with subterranean lava tubes that run throughout the plane like a spider web that is heavily used by traders and travelers as it is protected from the burning magma. Visitors are often searching across the plane for gems that form from the intense pressure and heat of this plane, as well as powerful wizards who have formed towers to study the elemental power of magma.
