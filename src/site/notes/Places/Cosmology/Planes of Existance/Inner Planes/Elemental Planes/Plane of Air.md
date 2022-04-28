@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Air","EnergyRelation":null,"aliases":"Plane of air,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-air/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # What is the Plane of Air?
 ![Dungeon Master’s Guide, 2014 WotC](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1587388594596-QP52FIU9L13MDD1JMSJU/PlaneofAir_DMG_5e.png)
 
