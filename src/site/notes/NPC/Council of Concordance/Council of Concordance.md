@@ -7,7 +7,7 @@
  
  | Seated | Home Plane      | PL  | AL    | Typ               | Name                                                                        | Gift                  |
  |:------:| --------------- |:---:| ----- | ----------------- | --------------------------------------------------------------------------- | --------------------- |
- |   X    | [[The Clockwork Nirvana of Mechanus\|Mechanus]]        | Out | LN    | Emissary of Order | [[NPC/Council of Concordance/ODF2|ODF2]]                                                                    | -                     |
+ |   X    | [[The Clockwork Nirvana of Mechanus\|Mechanus]]        | Out | LN    | Emissary of Order | [[NPC/Council of Concordance/Omega Delta F Zwei|Omega Delta F Zwei]]                                                                    | -                     |
  |   X    | [[The Seven Heavens of Mount Celestia\|Mount Celestia]]  | Out | LG    | Planetar          | [[NPC/Council of Concordance/Sarandiel|Sarandiel]]                                                               | [[System Reference/Homebrew Options/Transformations/All/TR-Seraph|TR-Seraph]]         |
  |   X    | [[The Ever-Changing Chaos of Limbo\|Limbo]]           | Out | CN    | Githzarai         | [[NPC/Council of Concordance/Didaran|Didaran]]                                                                 | [[System Reference/Homebrew Options/Spelljamming Helm|Spelljamming Helm]] |
  |   X    | [[The Windswept Depths of Pandemonium\|Pandemonium]]     | Out | CN/CE | Bheur Hag         | [[NPC/Council of Concordance/Ursula Mortem|Ursula Mortem]]                                                           | [[System Reference/Homebrew Options/Transformations/All/TR-Lycanthrope|TR-Lycanthrope]]    |
