@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Air Water","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-ice/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Ice
 ### Ice: An Outsider’s Perspective
 Between the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Air|Plane of Air]] and the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Water|Plane of Water]], the Plane of Ice is a realm of freezing temperatures where everything freezes eventually. [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Water|Plane of Water]], flesh, blood, stone, metal, ice, and even words and thoughts freeze in this plane the closer one travels to the center of it. The entire plane is covered in freezing ice, creating twisting caverns and tunnels, with large chasms that shrink and grow as the ice moves and grows throughout the plane. Those who visit this plane do so to find frozen thoughts in the center of the plane, or to hunt the monsters who roam this plane, like yetis, animentals, ice mephits, and more.
