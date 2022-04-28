@@ -35,7 +35,7 @@ SORT file.name ASC
 - [[NPC/Crew/Myrmidon (Günter)|Myrmidon (Günter)]]
 - [[NPC/Council of Concordance/Nasir Glynmoira|Nasir Glynmoira]]
 - [[NPC/Nausius Ven|Nausius Ven]]
-- [[NPC/Council of Concordance/ODF2|ODF2]]
+- [[NPC/Council of Concordance/Omega Delta F Zwei|Omega Delta F Zwei]]
 - [[NPC/Oreg|Oreg]]
 - [[NPC/Pharaoh Atok-Kaman|Pharaoh Atok-Kaman]]
 - [[NPC/Sahil|Sahil]]
