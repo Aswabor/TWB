@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"lower","alignment":"CN/CE","aliases":"Pandemonium, Howling Land,","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-windswept-depths-of-pandemonium/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Pandemonium?
 Pandemonium, also known as the Windswept Depths of Pandemonium or the Howling Land, is a plane of chaos with just a tinge of evil. It is one of the [[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]] and is between [[Places/Cosmology/Planes of Existance/Outer Planes/The Ever-Changing Chaos of Limbo|Limbo]], a plane of pure chaos, and the [[Places/Cosmology/Planes of Existance/Outer Planes/The Infinite Layers of the Abyss|Abyss]], the home of demons. It is best known for its howling winds that can drive any mortal creature to insanity, it’s lack of any deities that watch over it and those who have been banished from everywhere else. The windswept tunnels are never-ending, the howling winds never ceasing, and is a largely barren plane; but despite all of its flaws, Pandemonium is home to hoards of treasure and powerful magical artifacts hidden throughout its domain.
 
