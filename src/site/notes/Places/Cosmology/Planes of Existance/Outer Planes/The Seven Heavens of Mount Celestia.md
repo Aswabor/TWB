@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"upper","alignment":"LG","aliases":"Mount Celestia, the Seven Mounting Heavens of Celestia, Seven Heavens,","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-seven-heavens-of-mount-celestia/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Mount Celestia?  
 ![Manual of the Planes, 2008 WotC](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1579530142160-FJM13Y36XK6BJZE2UH5J/image-asset.png)
 
