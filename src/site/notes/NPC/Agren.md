@@ -2,6 +2,7 @@
 {"dg-publish":true,"tags":"NPC/Ardir Write","Plane":"Ardir","Residence":"Nalt-Shatap","permalink":"/npc/agren/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[NPC/NPC|NPC]]
 # Agren
 First survivor of the Crystal Walk.
 
