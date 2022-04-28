@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/places/ardir/das-schwarze-loch/fraktionen-um-das-schwarze-loch/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Ardir/Ardir|Ardir]]
 # Fraktionen
 ## Spire
 ### Ysri von Varaxis
