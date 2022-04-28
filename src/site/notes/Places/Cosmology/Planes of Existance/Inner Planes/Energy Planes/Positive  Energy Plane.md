@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":null,"EnergyRelation":"Positive","aliases":"Positive","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/energy-planes/positive-energy-plane/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Positive  Energy Plane
 ### Positive  Energy Plane: An Outsider’s Perspective
 Many travelers don’t expect a plane of life and positive energy to be inherently hostile, but it is because this plane is so full of energy and limitless life that it is so. When a traveler visits this plane, they quickly begin filling up with such brilliant energy that they are blinded by the [[Places/Cosmology/Planes of Existance/Inner Planes/Positive Quasi-Elemental Planes/Plane of Radiance|Plane of Radiance]] of the plane. Their body begins filling up on life, healing any cuts, wounds, scars, or other anathemas to life until their body is so full of positive energy that they simply explode out, their body and possessions becoming part of the plane and its radiant energy.
