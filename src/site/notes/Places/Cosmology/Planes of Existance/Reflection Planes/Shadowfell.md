@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/places/cosmology/planes-of-existance/reflection-planes/shadowfell/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Planes of Existance|Planes of Existance]]
 # What is the Shadowfell?
 The Shadowfell, also known as the Demiplane of Shadows or the Shadowlands, is the home to shadows, dread, and the dark feelings of life. To wander through the plane is to risk losing yourself in misery and apathy - why put a stop to the lich when everything you do is meaningless and fleeting? The Shadowfell is not a place for mortals to visit on a whim, and many who do visit are forever changed by its dismal appearance.
 
