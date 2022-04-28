@@ -51,7 +51,6 @@
 	- [x] im spire
 	- [-] in unterwasser ruine
 	- [-] in wüste bei ankunftsort
-	- [ ] what?
 
 
 #todo/future
