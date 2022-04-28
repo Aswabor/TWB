@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"neutral","alignment":"NN","aliases":"Scherbenwelt","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/outlands/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is the Outlands
 The Outlands, which are sometimes referred to as the Concordant Opposition or the Concordant Domain, is located at the very center of the Great Wheel [[Places/Cosmology/Cosmology|Cosmology]]. While most charts of the planes don’t typically show the Outlands, instead choosing to place the Material Plane in the center of the graph, the Outlands is the center of the [[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]], touching every Outer Plane. This plane is considered to be true neutral, as it exists perfectly in the center of the more rigidly aligned multiverse of the planes. 
 
