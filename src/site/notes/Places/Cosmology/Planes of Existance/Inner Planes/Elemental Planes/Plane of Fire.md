@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":null,"aliases":"Plane of fire,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-fire/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # What is the Plane of Fire?
 ![Dungeon Master’s Guide, 2014 WotC](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1594646390849-6UZYT9GH9DF1O74BJNOD/image-asset.png)
 
