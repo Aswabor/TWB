@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":null,"alignment":null,"aliases":null,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/gate-towns/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What are the Gate-Towns?
 Located around the [[Places/Cosmology/Planes of Existance/Outer Planes/Outlands/Outlands|Outlands]] are 16 towns that link to the [[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]] by portals, also referred to as gates. These towns often take on many aspects of the planes they connect to, with the surrounding lands stretching out dozens of miles from them also having many similarities to those planes. A lawful plane will have a gate-town that is orderly and well structured, with laws and creeds in equal force to the lawfulness of its plane. The surrounding land will be well maintained with clean crop rows in vast farmlands arrayed out in an orderly and well thought out fashion. A chaotic plane may have a jumble of buildings sloppily falling over each other, untaken care of with streets twisting in on themselves. 
 
