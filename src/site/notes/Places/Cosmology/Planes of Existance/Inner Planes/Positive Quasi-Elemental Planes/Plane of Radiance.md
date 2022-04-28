@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Fire","EnergyRelation":"Positive","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/positive-quasi-elemental-planes/plane-of-radiance/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Radiance
 [[Places/Cosmology/Planes of Existance/Inner Planes/Positive Quasi-Elemental Planes/Positive Quasi-Elemental Planes|Positive Quasi-Elemental Planes]]
 ### Radiance: An Outsider’s Perspective
