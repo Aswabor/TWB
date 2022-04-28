@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"lower","alignment":"LE","aliases":"Nine Hells, Baator","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-nine-hells-of-baator/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Baator (Nine Hells)?
 ![Manual of the Planes, 1987 TSR Inc](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1591040892958-9JT6OAUNZUSV3J46VBBZ/Maps9Hells_MoP_1e.jpg)
 
