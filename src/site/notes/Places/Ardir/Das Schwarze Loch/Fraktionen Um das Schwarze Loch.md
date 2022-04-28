@@ -16,6 +16,8 @@
 </div>
 
 
+[[NPC]]
+
 Ysri von Varaxis, will vor allem Sicherheit für ihr Folk und irgendwann wenn sich die Chance nietet Rache an der Grossstadt
 
 </div></div>
@@ -32,6 +34,8 @@ Ysri von Varaxis, will vor allem Sicherheit für ihr Folk und irgendwann wenn si
 </div>
 
 
+[[NPC]]
+# Lord Admiral Varl
 Lord Admiral Varl will Expandieren und
 
 </div></div>
