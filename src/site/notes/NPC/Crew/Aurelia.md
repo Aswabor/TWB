@@ -96,4 +96,3 @@ Erschaffer Schiff?
 Sie sälber: Moloch, ahüffig vo material.
 Erschaffer Aurelia?
 ==she dose not remember. don't make it important.==
-g
