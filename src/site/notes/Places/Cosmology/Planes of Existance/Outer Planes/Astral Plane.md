@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":null,"alignment":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/astral-plane/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is the Astral Plane
 The Astral Plane, also known as the Astral Sea, is a space between everything. If you are ever nowhere in the multiverse, you are in the Astral Plane. This plane isn’t specifically a plane, but rather a nonspatial nonplane as it has no space and planes are specifically spaces. The Astral Plane has been described as a silvery horizon that extends all around you like you are inside a silver orb, to a dark plane with twinkling lights in the distance like stars and stretching out before you is a sea of silvery cloud-like mists.
 
