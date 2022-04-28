@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"upper","alignment":"CG/CN","aliases":"Ysgard","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-heroic-domains-of-ysgard/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Ysgard?
 ![Manual of the Planes, 2001 WotC](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1583764932089-24GIVD9B7TRR5BWXXIOX/image-asset.png)
 
