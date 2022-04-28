@@ -2,6 +2,7 @@
 {"dg-publish":true,"tags":"NPC/Ardir Write","Plane":"Ardir","Residence":"Nalt-Shatap","permalink":"/npc/hasaba-krelveri/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[NPC/NPC|NPC]]
 # Hasaba Krelveri
 ## Lady Krelveri
 ## Erzmagierin des Hauses Varaxis
