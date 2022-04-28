@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Earth","EnergyRelation":null,"aliases":"Plane of earth,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-earth/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # What is the Plane of Earth?
 The Plane of Earth is located in the Inner Planes and is the home for earth elementals, Dao, crushing stones and the rarest gems, minerals, and materials throughout the planes. This plane is the least hospitable of the Inner Planes, which many travelers might gawk at and point at the Plane of Fire as being the most dangerous, but the Plane of Earth is unmoving and does little to nothing to help travelers who appear here. Many inexperienced travelers can appear inside of this plane, finding themselves encased in rock, unable to move and suffocating as they are imprisoned; even if they are able to arrive in an open space, there is no natural air to breathe. 
 
