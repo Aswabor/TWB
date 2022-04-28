@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Water","EnergyRelation":null,"aliases":"plane of water,","tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/plane-of-water/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # What is the Plane of Water?
 The Plane of Water is located in the Inner Planes and is the home for water elementals, cruel and intelligent creatures, an endless ocean, and ancient civilizations far below its surface. While typically thought of as an ocean, there are huge currents and expanses that are made up of freshwater, swamps and more. Finding yourself in the Plane of Water, while it is far more hospitable in the immediate term than other Inner Planes, is a dangerous proposition unless you have some way to breathe water.
 
