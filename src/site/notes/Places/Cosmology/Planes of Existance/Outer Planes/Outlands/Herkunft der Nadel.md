@@ -2,6 +2,9 @@
 {"dg-publish":true,"tags":"noList","permalink":"/places/cosmology/planes-of-existance/outer-planes/outlands/herkunft-der-nadel/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outlands/Outlands|Outlands]]
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outlands/Sigil|Sigil]]
+#
 Falsche Information:
 Si heisst scherbewält will sie us verschidene Bruchstücck vo allne ebene vo de realität bestaht und jedes bruchstück hät sis eigne Portal zu sinere Heimat.
 
