@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"upper","alignment":"NG","aliases":"Elysium","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-untarnished-good-of-elysium/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Elysium?
 ![Manual of the Planes, 2001 WotC](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1597076023467-3ZKMAQOH0SJHALROEWE5/image-asset.jpeg)
 
