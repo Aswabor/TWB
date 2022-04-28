@@ -84,4 +84,4 @@ You can unattune to the new item as normal, even if the item is cursed. Unattuni
 [[Mastery-Gem_No_Label.png|300]]
 
 D Aurelia isch es sentient magic item wo en teil vom offe isch aber ihre isch nie bibracht worde ihres volle potential z nutze.
-htnbgrvf
+
