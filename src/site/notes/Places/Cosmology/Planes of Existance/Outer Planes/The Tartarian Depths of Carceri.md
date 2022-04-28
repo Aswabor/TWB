@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"lower","alignment":"CE/NE","aliases":"Carceri","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-tartarian-depths-of-carceri/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Carceri?
 The Tartarian Depths of Carceri is also known as the Red Prison or as the prison of the multiverse. This plane is nestled between the [[Places/Cosmology/Planes of Existance/Outer Planes/The Infinite Layers of the Abyss|Abyss]] and [[Places/Cosmology/Planes of Existance/Outer Planes/The Gray Wastes of Hades|The Gray Wastes of Hades]], those that arrive on this plane are often sentenced to this plane to an afterlife of misery and pain. Six layers make up this plane, though anyone who travels to this plane can be forgiven for thinking that there are hundreds of layers. Upon arrival on this plane, the dull red glow of this plane reveals hundreds of orbs like pearls on a necklace stretching off into the distance only a hundred miles above. 
 
