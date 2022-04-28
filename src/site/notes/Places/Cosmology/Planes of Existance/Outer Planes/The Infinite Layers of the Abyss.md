@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"lower","alignment":"CE","aliases":"Abyss","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-infinite-layers-of-the-abyss/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is the Abyss?
 ![Manual of the Planes, 1987 TSR Inc.](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1595863662799-3B9CSXB7QTCNNKW501G8/AbyssMap_MoP1e.jpg)
 
