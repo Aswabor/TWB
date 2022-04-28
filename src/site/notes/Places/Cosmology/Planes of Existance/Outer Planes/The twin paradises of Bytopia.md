@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"upper","alignment":"LG/NG","aliases":"Bytopia","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-twin-paradises-of-bytopia/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Bytopia?
 ![Manual of the Planes, 1987 TSR Inc.](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1586184156671-3AAVGKEVNE4H20L1FAVY/Bytopia_MoP1e.png)
 
