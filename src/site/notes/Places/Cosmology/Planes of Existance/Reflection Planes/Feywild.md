@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/places/cosmology/planes-of-existance/reflection-planes/feywild/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Planes of Existance|Planes of Existance]]
 # What is the Feywild?
 The Feywild, also known as the Plane of Faerie, is a verdant home of cruel fey and endless desires. To walk through the land of the Feywild, one risks death from all matter of creatures, and even if you survive the perils of the Feywild, you may end up never being able to leave. The call of the Feywild is difficult to resist to all mortals, and many fey - like elves, eladrin, and satyrs - have such a desire to journey to it that they are willing to risk their lives. 
 
