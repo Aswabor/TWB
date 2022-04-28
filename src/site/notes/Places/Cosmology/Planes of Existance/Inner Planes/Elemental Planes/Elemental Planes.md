@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":null,"EnergyRelation":null,"aliases":"Elemental Chaos,","tags":"noList","permalink":"/places/cosmology/planes-of-existance/inner-planes/elemental-planes/elemental-planes/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # What is the Elemental Chaos
 The Elemental Chaos is a sea of the raw materials of creation and is untouched by any stabilizing force like the domains of the divine in the Astral Sea. Here the forces of chaos sweep across it, mixing and blending the elements into a maelstrom. Here, the imprisoned primordials strike out at their prisons and chains, vowing one day to destroy the Material Plane as well as the gods.
 
