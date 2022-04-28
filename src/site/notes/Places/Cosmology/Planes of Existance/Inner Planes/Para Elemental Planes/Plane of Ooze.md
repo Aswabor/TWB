@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Water Earth","EnergyRelation":null,"aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/para-elemental-planes/plane-of-ooze/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Ooze
 ### Ooze: An Outsider’s Perspective
 Adjoining the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Earth|Plane of Earth]] and the Plane of [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Plane of Water|Plane of Water]], the Plane of Ooze is a horrible realm of stinking gases and caustic muck that floods across the plane. Few visitors willingly travel to this plane, and it seems as if even the inhabitants of this plane want out in an exodus from the slime, sludge, and muck of this world. Visitors of the plane have difficulty the sludge-like caustic mud, searching through the wastes of [[Places/Cosmology/Planes of Existance/Outer Planes/Outlands/Sigil|Sigil]] for valuables, for ooze-gems, strange and rare gems that fetch a high price so long as they are thoroughly cleaned before being taken to market, as well as searching for hidden prisons of ancient creatures bound to Ooze.
