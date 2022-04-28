@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"upper","alignment":"NG/CG","aliases":"Beastlands","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-wilderness-of-the-beastlands/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is the Beastlands?
 ![Manual of the Planes, 1987 TSR Inc.](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1578321063391-VVWSYQIQC5COHFHF7HL0/Beastlands_MoP1e.jpg)
 
