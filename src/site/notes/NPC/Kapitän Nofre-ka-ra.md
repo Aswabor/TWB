@@ -48,3 +48,6 @@
 Ist ein älterer lebensfroher herr, der jedoch nichts lieber mag wie eine gut funktionierende Befelskette.  ist ein söldner wie die meisten von seiner herkunft. wurde vom grossen rat beauftragt, [[The U5/The U5|The U5]] nach sigil zu bringen.
 
 Schiffname: Elvira
+
+this is cool
+{.Hymmnos}
