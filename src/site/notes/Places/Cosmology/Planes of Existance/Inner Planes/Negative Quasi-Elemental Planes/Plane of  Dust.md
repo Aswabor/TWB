@@ -2,6 +2,7 @@
 {"dg-publish":true,"BaseRelation":"Earth","EnergyRelation":"Negative","aliases":null,"tags":null,"permalink":"/places/cosmology/planes-of-existance/inner-planes/negative-quasi-elemental-planes/plane-of-dust/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Inner Planes/Inner Planes|Inner Planes]]
 # Dust
 [[Places/Cosmology/Planes of Existance/Inner Planes/Negative Quasi-Elemental Planes/Negative Quasi-Elemental Planes|Negative Quasi-Elemental Planes]]
 ### Dust: An Outsider’s Perspective
