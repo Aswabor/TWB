@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"upper","alignment":"LN/LG","aliases":"Arcadia","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-peaceable-kingdoms-of-arcadia/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Arcadia?
 ![Manual of the Planes, 2000 WotC](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1599494097942-K4B1G666O60NEOJJBZ22/image-asset.jpeg)
 
