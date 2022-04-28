@@ -64,3 +64,10 @@
 | Shame     | Failing to act on an important opportunity | 
 
 _Glory Seeker:_ The item seeks Renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure.
+
+### Campers Rispite
+In einen Eisernen Schlüssel verwandelt gleiche casting time öffnet nun jedoch eine Tür ins Strategizimmer von Aurelia.
+
+### Void Arrow
+Einmal pro Tag kann von der Grossen Hauptbalista ein Geschoss gefeuert werden welches psychischen schaden erzielt, keine wunden hinterlässt und gereuschlos ist.
+
