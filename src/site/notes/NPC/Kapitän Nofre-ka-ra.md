@@ -2,6 +2,7 @@
 {"dg-publish":true,"tags":"NPC/Sigil","Plane":"Outlands","Residence":"Sigil","aliases":"Nofre-ka-ra,","permalink":"/npc/kapitaen-nofre-ka-ra/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[NPC/NPC|NPC]]
 # Kapitän Nofre-ka-ra
 ## Statblock
 >### Giff Captain
