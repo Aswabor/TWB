@@ -50,3 +50,17 @@
 > ***Fire Ballista.*** The Clockwork Boat can fire its ballistas.  
 >  
 > ***Move.*** The Clockwork Boat can use its helm to move with its Clockwork Engine.
+
+## Story
+| Atribute  | Value                                      |
+| --------- | ------------------------------------------ |
+| Archetype | A brave and daring explorer                |
+| Aesthetic | Geometric and angular                      |
+| Class     | Mage/Scientist/Alchemist                   |
+| Home      | Home outside of town or city               |
+| Skills    | Navigating and pathfinding                 |
+| Desire    | Knowledge and information                  |
+| Palette   | Late evening                               |
+| Shame     | Failing to act on an important opportunity | 
+
+_Glory Seeker:_ The item seeks Renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure.
