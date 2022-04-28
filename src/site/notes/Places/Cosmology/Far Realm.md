@@ -2,6 +2,7 @@
 {"dg-publish":true,"aliases":["usserhalb","usse"],"permalink":"/places/cosmology/far-realm/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+- [[Places/Cosmology/Cosmology|Cosmology]]
 # What is the Far Realm?
 ![Manual of the Planes, 2001 WotC](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1600696714028-BWDYS3YKXBENB5IISFD9/FarRealm_MoP_3e.jpg)
 
