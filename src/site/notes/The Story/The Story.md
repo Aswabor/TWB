@@ -420,7 +420,7 @@ dä [[Kapitän Nofre-ka-ra|Nofre-Ka-Ra]] zeigt uf dä torus und verkündet:
 - Näb dä Goldige Kanzle sitzt än ängel stehend schezed ihr in uf filicht 3 meter, Smaragdgrueni huut und hinder im zwei gfalteti Flügel.
   [[Sarandiel]]
 - Uf de Goldige Kanzle sitzt oder besser liht en eu vertraute Würfel miteme Ball ide mitti und eme einzelne Aug amme kabel wo us demm ball ufstiegt.
-  [[ODF2]]
+  [[Omega Delta F Zwei]]
 - Rächts vo dä kanzle sitzt es iis blaus, übergrosses zweibeinigs Insekt. mit scharfe dünne chlaue und chräftige chiffer zange hinder im gsend ihr en lange mit scharfe stachle übersähte schwanz
   [[Ulrak Champion of Ice]]
 - Näbed em unghüür sitzt i sicherem Abstand ä wunderschöni mänschefrau ganz in rot mit goldige akzent kleidet si lächled eu a aber s lache erreicht nie ihri auge wo eu chalt und ufmerksam musstered.
