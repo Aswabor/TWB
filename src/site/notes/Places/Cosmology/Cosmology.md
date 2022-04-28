@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/places/cosmology/cosmology/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Places|Places]]
 # Cosmology
+## Map
 ```leaflet
 id: Cosmology
 image: [[Great_Wheel_Cosmology_wBG.png]]
@@ -19,3 +21,9 @@ scale: 1
 darkMode: false
 ```
 
+## Contents
+- [[Places/Cosmology/Planes of Existance/Planes of Existance|Planes of Existance]]
+- [[Places/Cosmology/Far Realm|Far Realm]]
+
+
+[[Places/Cosmology/Links to great recouces|Links to great recouces]]
