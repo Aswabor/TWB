@@ -3,3 +3,5 @@
 ---
 
 [[NPC/NPC|NPC]]
+
+$\green{\text{Penis}}$
