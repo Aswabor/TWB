@@ -2,6 +2,7 @@
 {"dg-publish":true,"location":"neutral","alignment":"CN","aliases":"Limbo","tags":null,"permalink":"/places/cosmology/planes-of-existance/outer-planes/the-ever-changing-chaos-of-limbo/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+[[Places/Cosmology/Planes of Existance/Outer Planes/Outer Planes|Outer Planes]]
 # What is Limbo?
 The Ever-Changing Chaos of Limbo is a plane of chaos and is known as a bubbling soup of elements and energy. Those who reside on this plane do so either to prove their strength against the chaos, to revel in the chaos and let it drive them forward, or they got lost and can’t find a way to leave Limbo. There is a lot of disagreements among planar travelers about the exact number of layers to Limbo, with some claiming there are five layers while others say there is only one, with another group saying there are five layers but they are so jumbled together that it seems like there is only one layer. Most traders and travelers want little to do with Limbo, treating it the same as the Lower Planes like the [[Places/Cosmology/Planes of Existance/Outer Planes/The Infinite Layers of the Abyss|Abyss]] or [[Places/Cosmology/Planes of Existance/Outer Planes/The Fiery Slopes of Gehenna|Gehenna]]. It’s not a pleasant place to visit, even if many of its chaotic elements might create breath-taking sights.
 
