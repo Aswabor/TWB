@@ -303,6 +303,15 @@ wo sich s Portal schlüssed merked ihr wie Starch das zie gsi isch wo ihr gspüh
 - [x] Beschreibung der [[Hall of Concordance]]!
 	[[2022-??-??#Eintritt in die Halle]]
 - [ ] [[Aurelia]]: tranformation zu wagen?
+- [ ] Maps:
+	- [x] Hall of Concordance
+	- [x] Harbor of Mechanus border town
+	- [ ] Large ship teleporter Bifröst
+	- [x] Sigel Stadt
+	- [ ] Gefängnis
+	- [x] Training grounds
+	- [ ] River
+	- [ ] 
 
 # Wissen Das Gefunden werden kann
 In der Bibliotek des Hauses Varaxis gibt es folgendes z finden:
@@ -352,26 +361,7 @@ D halle vo de Konkoranz isch bsetzt vom Rat vo de Konkordanz wo beuftreit isch a
 ## [[Kapitän Nofre-ka-ra]]
 ![[Kapitän Nofre-ka-ra#Beschreibung]]
 Kommt 1 tag vor ablauf der Frist in zudra zark ann und fragt umher um [[The U5]] zu finden. Er erklärt das er angeheuert wurde um sie Nach [[Sigil]] zu bringen.
-Kommt ohne sein Schiff, ihm wurde ausgerichtet das [[The U5]] bereits eine Transportmöglichkeit besitzen jedoch nicht wissen sie zu bedienen. 
-
-Wie siht die aktivierung von Aurelias [[Spelljamming Helm|PlaneDrive]] aus?
-
->[!info] Planar Travel
->Das erste das ihr bemerkt ist das eure haut beginnt violet zu leuchten, aber es ist nicht schwerzhaft oder unangenem wie bei den letzten ereignissen wo dies der fall war. ihr spürt wie ihr wahrlich teil eines erweiterten Organismuses seit und das schiff beginnt zu vibrieren und sendet kleine wellen durch ==current location==. Violete feuer Stränen schiessen aus der ladeluke empor und formen einen kokon um [[Aurelia]]. der kokon wird immer dichter bis ihr nichts mehr seht ausser feuer. Dann ein plötzlicher ruck und ein gefühl als würde sich das ganze schiff um mehrere achsen gleichzeitg drehen.
->
->Wärend de reis gsend ihr wi de [[Kapitän Nofre-ka-ra|Nofre-ka-ra]] konsentriert füre luegt als würd er meh gseh als nur füür.
-
-gruppe chek for planar travel.
-
-==DC: 15==
-
-Nat 20: 2 Successes
-Nat  1: 2 Failures
-
-Was immer sie wänd bruche für en stat und für buffs
-Erlchläred mier wie ihr versueched z hälfe!
-
-
+hat ein [[Leuchtfeuer stock]] dabei, Den er betätigt sobald die crew aufbruchbereit ist und auf ihrem schiff.
 
 # Ankunft in der [[Outlands|Scherbenwelt]]
 
