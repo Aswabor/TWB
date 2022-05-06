@@ -1,6 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/system-reference/system-reference/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"System-Reference","permalink":"/System-Reference/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # System Reference
-[[System Reference/Homebrew Options/HP-Quiz|HP-Quiz]]
+## Seafaring
+
+
+
+## 5E Quickref
+[5e Reference Vault](https://5e-srd.netlify.app)
+[[System Reference/5e-quickref|5e-quickref]]
+
+
+
+
