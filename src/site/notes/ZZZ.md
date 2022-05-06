@@ -33,6 +33,10 @@
 
 # Lookup
 ## Fonts
+### Elain
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789
+{.Elain}
+
 ### Runes
 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789
 {.ElderFuthark}
