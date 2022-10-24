@@ -57,11 +57,7 @@ one year, can only be cured by a wish spell. If a character is killed and resurr
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Aberrant Horror
@@ -108,7 +104,7 @@ At 1st level, you gain the following adaptations:
 >You can transform one or both of your arms into a weapon of thick muscle, sharp claws, or hardened bone. When you make an attack, you can use this Adaptation. If you do, you gain the following features:
 >• You can choose what type of damage your unarmed attacks will cause, from Piercing, Bludgeoning, or Slashing. Your arm becomes a claw, tusk, or bone club, depending on the damage type chosen.
 >• You may roll a d6 in place of normal damage for unarmed strikes.
->• You cannot hold any object in the affected arm. This includes, but is not limited to, weapons, [[shields]], and spellcasting focuses. Any object you are holding merges into your adaptation or immediately drops to the ground. The GM may decide if they feel the object is too large to merge.
+>• You cannot hold any object in the affected arm. This includes, but is not limited to, weapons, [[System Reference/Homebrew Options/Armor/Shields|shields]], and spellcasting focuses. Any object you are holding merges into your adaptation or immediately drops to the ground. The GM may decide if they feel the object is too large to merge.
 
 This adaptation lasts until you become knocked unconscious. On your turn, you may use a bonus action to end this adaptation.
 
@@ -117,7 +113,7 @@ Your Constitution score increases by 2 and your Strength score increases by 1. A
 You become an Aberration in addition to any other creature types you are. Spells and abilities that affect Aberrations of a specific CR have no effect on you.
 
 #### Transformation Flaw: Unstable Mutations
-Your body becomes malleable and struggles to maintain any one physical shape. Upon completing a long rest, you must roll 1d100 on the [[Unstable Form table]] and apply the effects of the result, determined by your transformation level. These effects last until you complete another long rest. If you roll the same result on the table more than once in a row, roll again until a new result
+Your body becomes malleable and struggles to maintain any one physical shape. Upon completing a long rest, you must roll 1d100 on the [[System Reference/Homebrew Options/Transformations/All/Additional tables/Unstable Form table|Unstable Form table]] and apply the effects of the result, determined by your transformation level. These effects last until you complete another long rest. If you roll the same result on the table more than once in a row, roll again until a new result
 is rolled
 
 
@@ -224,7 +220,7 @@ On your turn as an action, you can rapidly grow and launch hundreds of tiny tend
 Once you use this feature, you cannot use it again until you complete a short or long rest.
 
 #### Transformation Boon: Extremophilic Conditioning
-Starting at 4th level, your body has learned to adapt to extreme [[conditions]], allowing you to survive where most would perish. On your turn, as an action, you can use the following Adaptation.
+Starting at 4th level, your body has learned to adapt to extreme [[System Reference/Conditions|conditions]], allowing you to survive where most would perish. On your turn, as an action, you can use the following Adaptation.
 Metamorphosis. You rapidly change your body’s biophysical and chemical composition in reaction to your environment. Choose one of the following options:
 - You are resistant to Bludgeoning, Piercing, and Slashing damage. When determining falling damage, you take 1 bludgeoning damage for each 10 feet fallen in place of normal damage (maximum of 20 bludgeoning damage).
 - You are resistant to Fire, Lightning, and Acid damage. You are immune to the effects of extreme hot climates.
@@ -237,8 +233,8 @@ Whenever you fail a saving throw to a spell or magical ability, roll on the Unst
 
 #### Transformation Boon: Amorphous Flesh
 **Prerequisite: Shifting Form**
-Your body has continued to dissolve into a corrosive slurry of flesh and bone similar to an ooze. You are able to move through gaps as narrow as 1 inch wide, and you are immune to the grappled, prone, and restrained [[conditions]].
-In addition, whenever you take 10 or more points of bludgeoning, piercing, or slashing damage, you may choose to continue splitting along the wound, separating into two distinct parts that reform into versions of yourself that are one size smaller than the original, each with one half of your current hit points. If you have an odd number of hit points, you choose which segment gets the additional 1 hp. As you split you may choose how your [[armor]] and other equipment is split between the two.
+Your body has continued to dissolve into a corrosive slurry of flesh and bone similar to an ooze. You are able to move through gaps as narrow as 1 inch wide, and you are immune to the grappled, prone, and restrained [[System Reference/Conditions|conditions]].
+In addition, whenever you take 10 or more points of bludgeoning, piercing, or slashing damage, you may choose to continue splitting along the wound, separating into two distinct parts that reform into versions of yourself that are one size smaller than the original, each with one half of your current hit points. If you have an odd number of hit points, you choose which segment gets the additional 1 hp. As you split you may choose how your [[System Reference/Homebrew Options/Armor/Armor|armor]] and other equipment is split between the two.
 On your turn you may move with each form and you may also take one action with each form. You may only take one bonus action and one reaction per turn, although you may choose which segment you want to act when you do so.
 You may reform into a single body as an action, which may be taken by either segment when they are both within 5 feet of one another. If you do so, you regain hit points equal to the number of hit points your other form has, and you become your normal size. Your second body lasts for one hour before dissolving into nothingness.
 
@@ -249,11 +245,7 @@ You may reform into a single body as an action, which may be taken by either seg
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 The soft strumming of a harp draws the children ever deeper into the dark wood. As they reach a moonlit clearing, they see a beautiful maid dressed in a gown of starlight. She turns her soft gaze upon them at the sounds of their gasps and calls to them, “Welcome, little ones, be not afraid. Step into the ring so we may dance and play.”
@@ -405,11 +397,7 @@ If you were normally resistant to this damage type, it instead affects you norma
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 A smirking, well-dressed man of unknown origin appears in a time of great need. He extends his hand and a contract manifests in a golden flash. With a quill floating by his side, he remarks, “Of course I can fix your dilemma. After all, who do you think caused it in the first place?” For a solution to a world of problems, the man asks for only two things in return: a signature and an eternity of servitude.
@@ -443,14 +431,14 @@ The following are examples of possible level milestones for the Fiend:
 - Ensnaring a particularly powerful or influential soul with a contract.
 - Establishing a cult of worshipers who offer their strength to you.
 - Establishing a portal between the material plane and the Netherworld.
-- Killing or corrupting a [[TR-Seraph]].
+- Killing or corrupting a [[System Reference/Homebrew Options/Transformations/All/TR-Seraph|TR-Seraph]].
 
 ### Transformation Level 1
 Starting at 1st level, you gain the following Transformation Boons and this level’s Transformation Flaw.
     
 #### Transformation Boon: Gifts of Damnation
 You have acquired the ability to bind your first mortal to your will. You can create a contract to bind their soul to you, feeding on its power. However, you will not gain the benefits of this gift until you have bound a mortal with a contract.
-To bind a mortal’s soul to you and grant them a [[Gifts of Damnation|Gift of Damnation]], you must first create a contract for that gift. A contract requires magical ink and paper worth 50gp for each Transformation level you have acquired, and you must meet the prerequisites listed. In addition, you and the mortal must both sign the contract willingly, fully aware of the costs involved. Once signed, Netherworld entities give the benefits of the gift to you, and the mortal receives the named benefit within 7 days. You do not have to provide this benefit yourself. For example, upon signing a contract for a Gift of Unfettered Glory, you will receive the benefits listed under the gift. The mortal who signs will receive glory and no in-game mechanical bonuses, provided by the dubious powers of the Netherworld.
+To bind a mortal’s soul to you and grant them a [[System Reference/Homebrew Options/Transformations/All/Additional tables/Gifts of Damnation|Gift of Damnation]], you must first create a contract for that gift. A contract requires magical ink and paper worth 50gp for each Transformation level you have acquired, and you must meet the prerequisites listed. In addition, you and the mortal must both sign the contract willingly, fully aware of the costs involved. Once signed, Netherworld entities give the benefits of the gift to you, and the mortal receives the named benefit within 7 days. You do not have to provide this benefit yourself. For example, upon signing a contract for a Gift of Unfettered Glory, you will receive the benefits listed under the gift. The mortal who signs will receive glory and no in-game mechanical bonuses, provided by the dubious powers of the Netherworld.
     
 While you may have any number of contracts in your possession, you can only benefit from one at a time. Upon the completion of a long rest, you may swap the contract you are currently benefiting from for an alternate contract that you have bound a mortal to and signed.
 
@@ -522,7 +510,7 @@ You can use a bonus action to summon a dreaded Nether Blade. The blade takes the
 You can unsummon the blade at any time by using an action. If you unwield the blade, it immediately unsummons.
 
 #### Transformation Boon: Infernal Sub-Contractor
-Your mastery of the infernal laws allows you to utilize the benefits of two [[Gifts of Damnation]] simultaneously. In addition, you may change gifts on a short rest instead of a long rest.
+Your mastery of the infernal laws allows you to utilize the benefits of two [[System Reference/Homebrew Options/Transformations/All/Additional tables/Gifts of Damnation|Gifts of Damnation]] simultaneously. In addition, you may change gifts on a short rest instead of a long rest.
 #### Transformation Flaw: True Name
 Your fiendish transformation is complete, and you are reborn. You must choose a new name for yourself, which becomes your true name. You receive a talisman of brimstone and brass with your true name inscribed in infernal on it. A creature within 10 feet of you that knows your true name, can use an action and speak your true name in an attempt to bind you to their will. If they do, you must make a DC 20 Wisdom saving throw. On a failed save, you become charmed by the creature, and must complete all commands they issue to you to the best of your ability. You remain charmed for 8 hours. If the creature that bound you dies, this effect ends.
 
@@ -565,11 +553,7 @@ Your new native plane attempts to pull you to it, laying claim to your form. Whe
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 The screams of souls torn from their bodies echo over the electric crackling of forbidden magic. A skeletal form rapidly stitches flesh and muscle to its frame, creating a seemingly living man – a man from an age and kingdom long gone. A man who has conquered death and risen again to enact his insidious will from millennia ago. The screams stop and are replaced with murmurs, as the corpses of the fallen arise as undead.
@@ -611,7 +595,7 @@ to regain a single spell slot. When you regain
 a spell slot in this way, the spell slot’s level is equal to one third of the charge you consumed, rounded down.
 
 #### Transformation Boon: Undead Form
-Your Intelligence score increases by 4 and your Wisdom score increases by 2. An ability score cannot be increased beyond 22 this way. You become an Undead in addition to any other creature types you are. Spells and abilities that state effects or [[conditions]] specifically regarding Undead of a specific CR have no effect on you.
+Your Intelligence score increases by 4 and your Wisdom score increases by 2. An ability score cannot be increased beyond 22 this way. You become an Undead in addition to any other creature types you are. Spells and abilities that state effects or [[System Reference/Conditions|conditions]] specifically regarding Undead of a specific CR have no effect on you.
 
 If a spell or ability other than your own would cause you to gain Hit Points, you gain that many temporary Hit Points instead. If you are reduced to 0 hit points and fall unconscious as a result, any healing you receive will stabilize you and leave you on 1 hit point and unconscious. You stop aging. You are immune to any effect that would age you, and you cannot die from old age. You do not require air, food, drink or sleep.
 
@@ -689,7 +673,7 @@ You can unsummon the staff at any time with the use of an action. If you un-wiel
 #### Transformation Boon: Enhanced Phylactery
 **Prerequisite: Phylactery Bond**
 Your bond with your phylactery strengthens, granting additional benefits:
-- If you aren’t wearing [[armor]], your base [[Armor]] Class is 15 + your Dexterity modifier. Your phylactery’s AC is increased by 2.
+- If you aren’t wearing [[System Reference/Homebrew Options/Armor/Armor|armor]], your base [[System Reference/Homebrew Options/Armor/Armor|Armor]] Class is 15 + your Dexterity modifier. Your phylactery’s AC is increased by 2.
 - Your spell save DC and spell attack bonus each increase by 2.
 - You and your phylactery have advantage on saving throws against spells and other magical effects.
 
@@ -733,11 +717,7 @@ Upon converting the required amount of souls into spell slots, you are no longer
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 A howling call is heard across thatched rooftops, summoning the pack to assemble. Below, a man tears at his clothes as moonlight shines down on him. The hunched figure screams in pain, begging his family to run. With muscles bursting and razor-sharp claws forming, his transformation is underway.
@@ -794,8 +774,8 @@ You become a Shapechanger in addition to any other creature types you are. Spell
 
 #### Transformation Flaw: Lust For The Hunt
 The savage nature of your curse sometimes causes you to lose control. These ferocious tendencies are a constant struggle between you as a humanoid and the beast within. When you are in your hybrid form, you must succeed at a DC 10 Wisdom saving throw at the beginning of each turn or lose control. If you are in the light of a full moon, you automatically fail this saving throw. If you fail this saving throw, you are subjected to the following until you succeed:
-- You must move toward the closest non-player creature you can see, smell or hear, prioritising [[TR-Lycanthrope#Helpless Creatures]]. If you end your movement and no non-player creature is within 5 feet of you, then you must use your action to dash toward one.
-- If there is a non-player creature within 5 feet of you and you have not used your action, you must make a melee attack against it, prioritising [[TR-Lycanthrope#Helpless Creatures]].
+- You must move toward the closest non-player creature you can see, smell or hear, prioritising [[System Reference/Homebrew Options/Transformations/All/TR-Lycanthrope#Helpless Creatures|TR-Lycanthrope#Helpless Creatures]]. If you end your movement and no non-player creature is within 5 feet of you, then you must use your action to dash toward one.
+- If there is a non-player creature within 5 feet of you and you have not used your action, you must make a melee attack against it, prioritising [[System Reference/Homebrew Options/Transformations/All/TR-Lycanthrope#Helpless Creatures|TR-Lycanthrope#Helpless Creatures]].
 - If you made a melee attack against a creature, and that creature is still alive, then you must use your bonus action to make an unarmed claw or bite attack against the same creature.
 
 Additionally, if you are subjected to the light of a full moon you must succeed at a DC 20 Wisdom saving throw or automatically turn into your hybrid form and cannot transform back until dawn. If you succeed in this saving throw, you are immune to its effects for 24 hours.
@@ -856,7 +836,7 @@ In addition, in hybrid form, if you jumped more than 5 feet and land within 5 fe
 You have embraced the animalistic side of your transformation. While in your Hybrid Form, you gain the following benefits:
 - Your unarmed attacks deal 1d8 slashing damage and are considered magic attacks.
 - Your AC increases by 1.
-- You are immune to the charmed and frightened [[conditions]].
+- You are immune to the charmed and frightened [[System Reference/Conditions|conditions]].
 
 #### Transformation Boon: Call The Pack
 **Prerequisite: Hunter’s Howl**
@@ -889,8 +869,8 @@ Your bite attack damage increases to 2d8. If you hit a creature with a bite atta
 
 #### Transformation Flaw: Predatory Nature
 You have begun to realise the true cost of your transformation. The beast within has gained more control of your body than you have. While you can control it at times you know it cannot be contained forever, and when it breaks free, it will delight in any slaughter it can find. You gain the following features:
-- If you can see, hear or smell a [[TR-Lycanthrope#Helpless Creatures]], you gain disadvantage on all Wisdom saving throws.
-- At the beginning of your turn, if you can see, hear or smell a hostile or non-player [[TR-Lycanthrope#Helpless Creatures]], you must succeed a DC 10 Wisdom saving throw or be transformed into your Hybrid Form. If you succeed this saving throw, you become immune to this effect until dawn.
+- If you can see, hear or smell a [[System Reference/Homebrew Options/Transformations/All/TR-Lycanthrope#Helpless Creatures|TR-Lycanthrope#Helpless Creatures]], you gain disadvantage on all Wisdom saving throws.
+- At the beginning of your turn, if you can see, hear or smell a hostile or non-player [[System Reference/Homebrew Options/Transformations/All/TR-Lycanthrope#Helpless Creatures|TR-Lycanthrope#Helpless Creatures]], you must succeed a DC 10 Wisdom saving throw or be transformed into your Hybrid Form. If you succeed this saving throw, you become immune to this effect until dawn.
 - Whenever you kill a creature and you are in your Hybrid Form, you cannot transform back into your humanoid form until dawn the next day. Although you can transform into your Kindred Form.
 
 
@@ -901,11 +881,7 @@ You have begun to realise the true cost of your transformation. The beast within
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 The city dwellers raise their eyes to a floating figure barely glimpsed through the smog-filled sky. Their cries ring out as the figure, wreathed in flame, clenches a fist, causing the earth to tremble violently. The crushing weight of water is the last sensation the people know, as their filthy streets are washed clean.
@@ -933,7 +909,7 @@ Some of your abilities require your target to make a saving throw to resist thei
 The following are examples of possible level milestones for the Primordial:
 - Defeat and absorb the power of a greater elemental
 - Claim an elemental node
-- Make an alliance with a being from one of the [[Elemental Planes]]
+- Make an alliance with a being from one of the [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Elemental Planes|Elemental Planes]]
 - Use your powers to defeat an encroaching civilization
 - Free an imprisoned or indentured elemental creature
 
@@ -960,6 +936,21 @@ You have resistance to fire damage. In addition, whenever you deal fire damage, 
 
 ##### Water
 You have resistance to cold damage. In addition, whenever a creature regains hit points due to a spell or feature you control, you can imbue them with healing elemental energy. The creature regains additional 1d6 hit points. Only one creature who regains hit points from the spell or feature can benefit from this.
+
+#### Transformation Boon: Primordial Affinity (Variant Option)
+While able to control all elements, your Primordial birth was sparked by one particular element: your Primordial Affinity. Your body is infused with malleable elemental energy. You must choose an element below and gain all the benefits of that element:
+
+##### Air
+You have resistance to lightning damage. In addition, you can channel the air currents around you to guide a ranged attack. Once on each of your turns, when you make a ranged weapon or ranged spell attack, you can make that attack with advanage. If you are in a location without an air current - such as underwater - this feature has no effect.
+
+##### Earth
+You have resistance to poison damage. In addition, you learn and can use the Druidcraft, Mold Earth and Thornwhip cantrips.
+
+##### Fire
+You have resistance to fire damage. In addition, you can summon the primordial fire to infuse your weapon. Once on each of your turns, you can add fire damage to a meele attack equal to your Proficiancy bonus. A flammable object hit by this attack ignites if it isn't being worn or carried.
+
+##### Water
+You have resistance to cold damage. In addition, whenever a creature regains hit points within 10ft. of you, you can imbue them with healing elemental energy. The creature regains additional 1d6 hit points. Only one creature who regains hit points from the same spell or feature can benefit from this. 
 
 #### Transformation Flaw: Planar Binding
 Your body and soul are bound to a primordial plane of existence. You have disadvantage on death saving throws as the plane attempts to pull you back to it. If you would be killed, your soul is taken back to a plane of existence of the GM’s choice. This plane is your new home, and you become an NPC under the GM’s control.
@@ -1035,7 +1026,7 @@ Each unconscious , non-sleeping creature of your choice within 10 feet of you re
 You can choose to add a third elemental source to your form. When you do so, you gain the associated benefits of your new element from Primordial Affinity in addition to your current source benefits.
 
 #### Transformation Flaw: Force Of Nature
-You are losing your connection to societal norms. The needs of civilization, community, and morals pale in comparison to the [[Elemental Planes|elemental chaos]] roiling within you. Whenever you complete a long rest, if you are within civilization, you do not regain any hit dice or lose any levels of exhaustion. In these circumstances, the GM decides if a location is considered civilized or not. Alternatively, the GM can decide that a park or grove within a city is sufficient.
+You are losing your connection to societal norms. The needs of civilization, community, and morals pale in comparison to the [[Places/Cosmology/Planes of Existance/Inner Planes/Elemental Planes/Elemental Planes|elemental chaos]] roiling within you. Whenever you complete a long rest, if you are within civilization, you do not regain any hit dice or lose any levels of exhaustion. In these circumstances, the GM decides if a location is considered civilized or not. Alternatively, the GM can decide that a park or grove within a city is sufficient.
 
 ### Transformation level 4
 You can pick one of the following Transformation Boons or pick a boon from a lower level that you meet the prerequisites for. In addition, you also gain this level’s Transformation Flaw.
@@ -1087,11 +1078,7 @@ Your new native plane attempts to pull you to it, laying claim to your form. Whe
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 Incense burns dimly, as muffled coughs echo through the musty room. Loved ones hold each other as a bedridden woman exhales for the last time, her scarred face bearing the mortifying lesions of the Weeping Pox. Her family sobs, too lost in their sorrow to notice how the smouldering embers radiate and shine. A woman with flowing robes and platinum hair approaches, Radiant energy emitting from her folded, angelic wings. “Hold on for but a moment my child,” she whispers. “Mercy has been granted.”
@@ -1196,7 +1183,7 @@ You gain resistance to fire damage.
 You gain resistance to necrotic damage.
 
 ##### Ignore Fey Trickery
-You are immune to the [[Conditions#CHARMED]] and [[Conditions#FRIGHTENED]].
+You are immune to the [[System Reference/Conditions#CHARMED|Conditions#CHARMED]] and [[System Reference/Conditions#FRIGHTENED|Conditions#FRIGHTENED]].
 
 #### Transformation Flaw: Beacon To Darkness
 You have become a Seraph of noted virtue and divinity. This has made you a target for all that is dark in the world. Whenever you or an ally within 30 feet commits an act of greater evil, such as murdering a helpless innocent, a small amount of darkness attaches itself to you, and you gain 1 corruption point (to a maximum of 5). 
@@ -1227,11 +1214,7 @@ Your new native plane attempts to draw you to it, laying claim to your form. Whe
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 A lithe figure dashes between buildings, their body becomes luminous and ghastly, held together in tatters as the being disappears into a wall. The ghostly shape reappears on the rooftops, emerging from the solid slate. They turn, eyes luminous and haunted, and unleash a cry of the dead, beckoning all who hear to the afterlife.
@@ -1275,7 +1258,7 @@ Your walking speed increases by 10 feet. In addition, you can move through other
 As a final benefit of this boon, due to your incorporeal nature, during your turn you have resistance to all nonmagical bludgeoning, slashing, and piercing damage from sources you can see.
 
 #### Transformation Flaw: Close To Death
-Your body and soul have a tenuous grasp on existence. You have disadvantage on death saving throws as the pull of a peaceful death calls out to you. If you would be killed, the GM chooses whether you die permanently (unable to be restored by magic) or you transform into an incorporeal undead or aberration under the GM’s control. If you are on the [[Ethereal Plane]], this flaw has no effect.
+Your body and soul have a tenuous grasp on existence. You have disadvantage on death saving throws as the pull of a peaceful death calls out to you. If you would be killed, the GM chooses whether you die permanently (unable to be restored by magic) or you transform into an incorporeal undead or aberration under the GM’s control. If you are on the [[Places/Cosmology/Planes of Existance/Inner Planes/Ethereal Plane|Ethereal Plane]], this flaw has no effect.
 
 ### Transformation level 2
 When your transformation reaches this level, you can choose one of the following transformation boons. You also gain this level’s transformation flaw.
@@ -1341,7 +1324,7 @@ While possessing a target, you can’t be targeted by any attack, spell, or othe
 The possession lasts until the possessed target drops to 0 hit points, you end it as a bonus action, or until you are forced out by an effect that ends possession. When the possession ends, you reappear in an unoccupied space within 5 feet of the body. You can use this boon again only after you finish a short or long rest.
 
 #### Transformation Boon: Ethereal Denizen
-You can sense invisible creatures and objects, and those in the nearby [[Ethereal Plane]], as if you are always under the effect of the see invisibility spell.
+You can sense invisible creatures and objects, and those in the nearby [[Places/Cosmology/Planes of Existance/Inner Planes/Ethereal Plane|Ethereal Plane]], as if you are always under the effect of the see invisibility spell.
 
 Additionally, you can use an action to cast the etherealness spell without expending a spell slot. Once you cast the spell using this boon, you can’t do so again until you finish a short or long rest.
 
@@ -1355,11 +1338,7 @@ Dissolution pulls on your body and soul. Whenever you roll a natural 1 on a savi
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 A lone figure clad in burnished steel greets the roaring infantry as they charge through the breach in the castle’s walls. In a flash of black mist, the figure appears in front of the soldiers, striking them down with inhuman speed.
@@ -1417,7 +1396,7 @@ After you have rolled a Dexterity saving throw, but before the GM has determined
 As a bonus action, you can emit a ghastly distortion of your true form. A creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or become Frightened of you for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to this ability for 24 hours.
 
 #### Transformation Boon: Undead Form
-Your Dexterity score increases by 2 and your Charisma score increases by 1. An ability score cannot be increased beyond 16 this way. In addition, your creature type changes to undead. Spells and abilities that state effects or [[conditions]] specifically regarding Undead of a specific CR have no effect on you. If a spell or ability other than your own would cause you to gain Hit Points, you gain that many temporary Hit Points instead. If you are reduced to 0 hit points and fall unconscious as a result, any healing you receive will stabilize you and leave you on 1 hit point and unconscious. Furthermore, you cannot die from old age and you do not require air, food or drink.
+Your Dexterity score increases by 2 and your Charisma score increases by 1. An ability score cannot be increased beyond 16 this way. In addition, your creature type changes to undead. Spells and abilities that state effects or [[System Reference/Conditions|conditions]] specifically regarding Undead of a specific CR have no effect on you. If a spell or ability other than your own would cause you to gain Hit Points, you gain that many temporary Hit Points instead. If you are reduced to 0 hit points and fall unconscious as a result, any healing you receive will stabilize you and leave you on 1 hit point and unconscious. Furthermore, you cannot die from old age and you do not require air, food or drink.
 
 ##### Feeding
 Transcended beyond mortal needs, vampires do not need to eat. However, the gripping nature of their curse requires them to feed on the fresh blood of humanoids. A task they undertake with delight.
@@ -1510,7 +1489,7 @@ Additionally, your thoughts cannot be read by any means.
 **Prerequisite: Shapechanger**
 When you use your Shapechanger ability, you may also take on the form of a dire wolf. While in dire wolf form you gain the following features:
 - Your movement speed changes to 50 feet. If you have sunlight hypersensitivity, it is reduced to sunlight sensitivity: while in sunlight, you have disadvantage on attack rolls and ability checks, but take no damage from direct contact with sunlight.
-- While in dire wolf form, you can’t speak. Any object you are holding or [[armor]] you are wearing merges into your wolf form or immediately drops to the ground. The GM may decide if they feel the object cannot merge.
+- While in dire wolf form, you can’t speak. Any object you are holding or [[System Reference/Homebrew Options/Armor/Armor|armor]] you are wearing merges into your wolf form or immediately drops to the ground. The GM may decide if they feel the object cannot merge.
 - If you become unconscious in dire wolf form, you revert back to your vampiric form.
 
 Additionally, you gain the ability to use Fanged Bite while in animal form. The piercing damage for your Fanged Bite changes based on your form. While in bat form you deal 1 piercing damage, and while in dire wolf form you deal 2d6 piercing damage.
