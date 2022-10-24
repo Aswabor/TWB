@@ -12,4 +12,4 @@ This curse did three things;
 
 However, no being can truly destroy ingrained powers and parts of a soul. Grazz't simply concentrated these powers, and coalesced them as motes of energy and spirit, scattering them across the world. It is said that a Kenku can find one of these motes, and unlock some of the abilities that were torn away from them so many ages ago. This story is passed down upon Kenku tribes, and almost every Kenku knows it.
 
-<!--[[Gifts of the Motes]]-->
+<!--[[System Reference/Homebrew Options/Gifts of the Motes|Gifts of the Motes]]-->
