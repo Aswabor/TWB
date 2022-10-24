@@ -32,7 +32,7 @@ Energy and life flood through this plane, creating and churning in the brilliant
 Feadal Didam-Hurus is responsible for this location in the Positive Energy Plane, somehow she pushed back the life of this plane and created a place of study for her and several ravid who have decided to help her. She is studying the limitless energies of the plane and is safeguarding a valuable orb of life known as Lifepearls. These concentrated orbs of the plane are thought to be the seeds of creation and they form in sporadic locations across the plane. 
 
 Feadal has made it her life mission to travel the plane in search of these strange pearls, bring them back to her fortress, and safeguard them from those who would try to abuse the power of these pearls as they are incredibly potent at healing magic. Along with her are the ravid who seem to hold the lifepearls with equal measure, helping to keep outsiders from accessing the vault and assisting in her studies.
-![[image-asset-2 1.jpeg]]
+![[image-asset-2 1.jpeg|image-asset-2 1.jpeg]]
 
 ### Hospice
 Hospice is a floating citadel protected from the hostile energies of the plane by thick rocks that act as a shield for all those inside the citadel. Paladins, holy knights, clerics, and healers who have dedicated themselves to the healing arts make their home in this citadel, studying the healing energies of life as well as taking care of the badly wounded. They see a wide variety of individuals, not just those who have been in fights, but those with incurable ailments, horrible curses, and more - they work diligently to restore them to health and to unlock the secrets of healing and life. 
