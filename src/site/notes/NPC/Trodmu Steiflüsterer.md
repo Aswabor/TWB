@@ -15,14 +15,10 @@ Seinen Gezämten Xzorn nutzt er als Reittier. Solange Trodmu nicht bedroht wird,
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
 
-</div>
-
-
-[[NPC]]
+[[NPC/NPC|NPC]]
 
 
 </div></div>
