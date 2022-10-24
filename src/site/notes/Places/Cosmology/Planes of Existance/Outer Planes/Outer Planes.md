@@ -5,12 +5,27 @@
 [[Places/Cosmology/Planes of Existance/Planes of Existance|Planes of Existance]]
 # Outer Planes
 ## Dataview
-```dataview
-TABLE location AS "ORT",
-alignment AS "Alignment"
-FROM "Places/Cosmology/Planes of Existance/Outer Planes" AND !#noList
-SORT location, alignment DESC
-```
+| File                                                                                                                              | ORT     | Alignment |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/Astral Plane.md\|Astral Plane]]                                               | \-      | \-        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Fiery Slopes of Gehenna.md\|The Fiery Slopes of Gehenna]]                 | lower   | NE/LE     |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Gray Wastes of Hades.md\|The Gray Wastes of Hades]]                       | lower   | NE        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Infinite Battlefield of Acheron.md\|The Infinite Battlefield of Acheron]] | lower   | LE/LN     |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Nine Hells of Baator.md\|The Nine Hells of Baator]]                       | lower   | LE        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Windswept Depths of Pandemonium.md\|The Windswept Depths of Pandemonium]] | lower   | CN/CE     |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Tartarian Depths of Carceri.md\|The Tartarian Depths of Carceri]]         | lower   | CE/NE     |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Infinite Layers of the Abyss.md\|The Infinite Layers of the Abyss]]       | lower   | CE        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/Outlands/Outlands.md\|Outlands]]                                              | neutral | NN        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Clockwork Nirvana of Mechanus.md\|The Clockwork Nirvana of Mechanus]]     | neutral | LN        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Ever-Changing Chaos of Limbo.md\|The Ever-Changing Chaos of Limbo]]       | neutral | CN        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Wilderness of the Beastlands.md\|The Wilderness of the Beastlands]]       | upper   | NG/CG     |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Untarnished Good of Elysium.md\|The Untarnished Good of Elysium]]         | upper   | NG        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Peaceable Kingdoms of Arcadia.md\|The Peaceable Kingdoms of Arcadia]]     | upper   | LN/LG     |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The twin paradises of Bytopia.md\|The twin paradises of Bytopia]]             | upper   | LG/NG     |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Seven Heavens of Mount Celestia.md\|The Seven Heavens of Mount Celestia]] | upper   | LG        |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Heroic Domains of Ysgard.md\|The Heroic Domains of Ysgard]]               | upper   | CG/CN     |
+| [[Places/Cosmology/Planes of Existance/Outer Planes/The Olympian Glades of Arborea.md\|The Olympian Glades of Arborea]]           | upper   | CG        |
+
 
 ## Contents
 - [[Places/Cosmology/Planes of Existance/Outer Planes/Outlands/Outlands|Outlands]]
