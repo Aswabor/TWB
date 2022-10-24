@@ -31,11 +31,7 @@ The captain issues orders. The best captains have high Intelligence and Charisma
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Captain (AKA Commander)
@@ -77,11 +73,7 @@ This specialist keeps the crew’s morale up by providing close supervision, enc
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # First Mate (AKA the First Officer)
@@ -113,11 +105,7 @@ The Quartermaster is in charge of logistics on board, ensuring that there is eno
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Quartermaster (AKA the Chief Steward)
@@ -143,11 +131,7 @@ The skipper plots the ship’s course, relying on knowledge of nautical charts a
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Navigator (AKA the Second Mate, or Skipper)
@@ -177,11 +161,7 @@ The Shipwright provides technical advice to the captain and crew and leads repai
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Ship’s Carpenter (AKA the Ship’s Engineer or Shipwright)
@@ -227,11 +207,7 @@ Seamen do all the gruntwork and lift anchors and keep the ship running in genera
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Crew
@@ -241,8 +217,28 @@ A ship requires a number of able-bodied sailors to crew it, as specified in its 
 
 ---
 ## LOYALTY AND QUALITY
-When dealing with an individual member of the crew, you might find it useful to use the optional [[loyalty]] rule from chapter 4 of the Dungeon Master's Guide. To convert a quality score into an individual's [[loyalty]] score. add 10 to the crew's quality score.
->![[Loyalty]]
+When dealing with an individual member of the crew, you might find it useful to use the optional [[System Reference/Loyalty|loyalty]] rule from chapter 4 of the Dungeon Master's Guide. To convert a quality score into an individual's [[System Reference/Loyalty|loyalty]] score. add 10 to the crew's quality score.
+>
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# LOYALTY
+Loyalty is an optional rule you can use to determine how far an NPC party member will go to protect or assist the other members of the party (even those he or she doesn't particularly like). An NPC party member who is abused or ignored is likely to abandon or betray the party, whereas an NPC who owes a life debt to the characters or shares their goals might fight to the death for them. Loyalty can be roleplayed or represented by this rule.
+
+## LOYALTY SCORE
+An NPC's loyalty is measured on a numerical scale from 0 to 20. The NPC's maximum loyalty score is equal to the highest Charisma score among all adventurers in the party, and its starting loyalty score is half that number. If the highest Charisma score changes (perhaps a character dies or leaves the group) adjust the NPC's loyalty score accordingly.
+
+## TRACKING LOYALTY
+Keep track of an NPC's loyalty score in secret so that the players won't know for sure whether an NPC party member is loyal or disloyal (even if the NPC is currently under a player's control).
+An NPC's loyalty score increases by 1d4 if other party members help the NPC achieve a goal tied to its bond. Likewise, an NPC's loyalty score increases by 1d4 if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's loyalty score can never be raised above its maximum.
+When other party members act in a manner that runs counter to the NPC's alignment or bond, reduce the NPC's loyalty score by 1d4. Reduce the NPC's loyalty score by 2d4 if the character is abused, misled, or endangered by other party members for purely selfish reasons.
+An NPC whose loyalty score drops to 0 is no longer loyal to the party and might part ways with them. A loyalty score can never drop below 0.
+An NPC with a loyalty score of **10 or higher risks life and limb** to help fellow party members. If the NPC's loyalty score is **between 1 and 10, its loyalty is tenuous**. An NPC whose **loyalty drops to 0 no longer acts in the party's best interests**. The disloyal NPC either leaves the party (attacking characters who attempt to intervene) or works in secret to bring about the party's downfall.
+
+</div></div>
+
 
 ---
 ## MUTINY
