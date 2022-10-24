@@ -55,6 +55,21 @@ You have resistance to fire damage. In addition, whenever you deal fire damage, 
 ##### Water
 You have resistance to cold damage. In addition, whenever a creature regains hit points due to a spell or feature you control, you can imbue them with healing elemental energy. The creature regains additional 1d6 hit points. Only one creature who regains hit points from the spell or feature can benefit from this.
 
+#### Transformation Boon: Primordial Affinity (Variant Option)
+While able to control all elements, your Primordial birth was sparked by one particular element: your Primordial Affinity. Your body is infused with malleable elemental energy. You must choose an element below and gain all the benefits of that element:
+
+##### Air
+You have resistance to lightning damage. In addition, you can channel the air currents around you to guide a ranged attack. Once on each of your turns, when you make a ranged weapon or ranged spell attack, you can make that attack with advanage. If you are in a location without an air current - such as underwater - this feature has no effect.
+
+##### Earth
+You have resistance to poison damage. In addition, you learn and can use the Druidcraft, Mold Earth and Thornwhip cantrips.
+
+##### Fire
+You have resistance to fire damage. In addition, you can summon the primordial fire to infuse your weapon. Once on each of your turns, you can add fire damage to a meele attack equal to your Proficiancy bonus. A flammable object hit by this attack ignites if it isn't being worn or carried.
+
+##### Water
+You have resistance to cold damage. In addition, whenever a creature regains hit points within 10ft. of you, you can imbue them with healing elemental energy. The creature regains additional 1d6 hit points. Only one creature who regains hit points from the same spell or feature can benefit from this. 
+
 #### Transformation Flaw: Planar Binding
 Your body and soul are bound to a primordial plane of existence. You have disadvantage on death saving throws as the plane attempts to pull you back to it. If you would be killed, your soul is taken back to a plane of existence of the GM’s choice. This plane is your new home, and you become an NPC under the GM’s control.
 
