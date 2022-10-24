@@ -13,11 +13,7 @@ When dealing with an individual member of the crew, you might find it useful to 
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # LOYALTY
