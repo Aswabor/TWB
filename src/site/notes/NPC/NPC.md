@@ -5,15 +5,71 @@
 [[HOME|HOME]]
 # NPC
 <!--
-```dataview
-TABLE Residence AS "ORT", Plane AS "Welt" FROM "NPC" AND !#noList
-SORT Plane, Residence DESC
-```
+| File                                                                                                                                                       | ORT                | Welt     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
+| [[NPC/Masa.md\|Masa]]                                                                                                                                      | \-                 | \-       |
+| [[NPC/Ysri von Varaxis.md\|Ysri von Varaxis]]                                                                                                              | Nalt-Shatap        | Ardir    |
+| [[NPC/Oreg.md\|Oreg]]                                                                                                                                      | Nalt-Shatap        | Ardir    |
+| [[NPC/Lord Admiral Varl.md\|Lord Admiral Varl]]                                                                                                            | Nalt-Shatap        | Ardir    |
+| [[NPC/Hasaba Krelveri.md\|Hasaba Krelveri]]                                                                                                                | Nalt-Shatap        | Ardir    |
+| [[NPC/Agren.md\|Agren]]                                                                                                                                    | Nalt-Shatap        | Ardir    |
+| [[NPC/Trodmu Steiflüsterer.md\|Trodmu Steiflüsterer]]                                                                                                      | Dwarf-Mines        | Ardir    |
+| [[NPC/Sahil.md\|Sahil]]                                                                                                                                    | Dwarf-Mines        | Ardir    |
+| [[NPC/Pharaoh Atok-Kaman.md\|Pharaoh Atok-Kaman]]                                                                                                          | Anaurochsche Wüste | Ardir    |
+| [[NPC/Hsing.md\|Hsing]]                                                                                                                                    | Anaurochsche Wüste | Ardir    |
+| [[NPC/Azam.md\|Azam]]                                                                                                                                      | Anaurochsche Wüste | Ardir    |
+| [[NPC/Kapitän Nofre-ka-ra.md\|Kapitän Nofre-ka-ra]]                                                                                                        | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Ursula Mortem.md\|Ursula Mortem]]                                                                                             | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Ulrak Champion of Ice.md\|Ulrak Champion of Ice]]                                                                             | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Sarandiel.md\|Sarandiel]]                                                                                                     | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Omega Delta F Zwei.md\|Omega Delta F Zwei]]                                                                                   | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Nasir Glynmoira.md\|Nasir Glynmoira]]                                                                                         | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Karm.md\|Karm]]                                                                                                               | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Flurris.md\|Flurris]]                                                                                                         | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Floris.md\|Floris]]                                                                                                           | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Firmis.md\|Firmis]]                                                                                                           | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Fervis.md\|Fervis]]                                                                                                           | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Didaran.md\|Didaran]]                                                                                                         | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Comtesse Bérénice Valluy de la Maison des ombres de la nuit.md\|Comtesse Bérénice Valluy de la Maison des ombres de la nuit]] | Sigil              | Outlands |
+| [[NPC/Crew/Myrmidon (Günter).md\|Myrmidon (Günter)]]                                                                                                       | Aurelia            | Party    |
+| [[NPC/Crew/Kobolds.md\|Kobolds]]                                                                                                                           | Aurelia            | Party    |
+| [[NPC/Crew/Aurelia.md\|Aurelia]]                                                                                                                           | Aurelia            | Party    |
+| [[NPC/Nausius Ven.md\|Nausius Ven]]                                                                                                                        | 10thDistrict       | Ravnica  |
+| [[NPC/Krenko.md\|Krenko]]                                                                                                                                  | 10thDistrict       | Ravnica  |
+
 ->
-```dataview
-TABLE Plane AS "Welt" FROM "NPC" AND !#noList
-SORT file.name ASC
-```
+| File                                                                                                                                                       | Welt     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[NPC/Agren.md\|Agren]]                                                                                                                                    | Ardir    |
+| [[NPC/Crew/Aurelia.md\|Aurelia]]                                                                                                                           | Party    |
+| [[NPC/Azam.md\|Azam]]                                                                                                                                      | Ardir    |
+| [[NPC/Council of Concordance/Comtesse Bérénice Valluy de la Maison des ombres de la nuit.md\|Comtesse Bérénice Valluy de la Maison des ombres de la nuit]] | Outlands |
+| [[NPC/Council of Concordance/Didaran.md\|Didaran]]                                                                                                         | Outlands |
+| [[NPC/Council of Concordance/Fervis.md\|Fervis]]                                                                                                           | Outlands |
+| [[NPC/Council of Concordance/Firmis.md\|Firmis]]                                                                                                           | Outlands |
+| [[NPC/Council of Concordance/Floris.md\|Floris]]                                                                                                           | Outlands |
+| [[NPC/Council of Concordance/Flurris.md\|Flurris]]                                                                                                         | Outlands |
+| [[NPC/Hasaba Krelveri.md\|Hasaba Krelveri]]                                                                                                                | Ardir    |
+| [[NPC/Hsing.md\|Hsing]]                                                                                                                                    | Ardir    |
+| [[NPC/Kapitän Nofre-ka-ra.md\|Kapitän Nofre-ka-ra]]                                                                                                        | Outlands |
+| [[NPC/Council of Concordance/Karm.md\|Karm]]                                                                                                               | Outlands |
+| [[NPC/Crew/Kobolds.md\|Kobolds]]                                                                                                                           | Party    |
+| [[NPC/Krenko.md\|Krenko]]                                                                                                                                  | Ravnica  |
+| [[NPC/Lord Admiral Varl.md\|Lord Admiral Varl]]                                                                                                            | Ardir    |
+| [[NPC/Masa.md\|Masa]]                                                                                                                                      | \-       |
+| [[NPC/Crew/Myrmidon (Günter).md\|Myrmidon (Günter)]]                                                                                                       | Party    |
+| [[NPC/Council of Concordance/Nasir Glynmoira.md\|Nasir Glynmoira]]                                                                                         | Outlands |
+| [[NPC/Nausius Ven.md\|Nausius Ven]]                                                                                                                        | Ravnica  |
+| [[NPC/Council of Concordance/Omega Delta F Zwei.md\|Omega Delta F Zwei]]                                                                                   | Outlands |
+| [[NPC/Oreg.md\|Oreg]]                                                                                                                                      | Ardir    |
+| [[NPC/Pharaoh Atok-Kaman.md\|Pharaoh Atok-Kaman]]                                                                                                          | Ardir    |
+| [[NPC/Sahil.md\|Sahil]]                                                                                                                                    | Ardir    |
+| [[NPC/Council of Concordance/Sarandiel.md\|Sarandiel]]                                                                                                     | Outlands |
+| [[NPC/Trodmu Steiflüsterer.md\|Trodmu Steiflüsterer]]                                                                                                      | Ardir    |
+| [[NPC/Council of Concordance/Ulrak Champion of Ice.md\|Ulrak Champion of Ice]]                                                                             | Outlands |
+| [[NPC/Council of Concordance/Ursula Mortem.md\|Ursula Mortem]]                                                                                             | Outlands |
+| [[NPC/Ysri von Varaxis.md\|Ysri von Varaxis]]                                                                                                              | Ardir    |
+
 -->
 
 - [[NPC/Agren|Agren]]
@@ -23,7 +79,7 @@ SORT file.name ASC
 - [[NPC/Council of Concordance/Didaran|Didaran]]
 - [[NPC/Council of Concordance/Fervis|Fervis]]
 - [[NPC/Council of Concordance/Firmis|Firmis]]
-- [[NPC/Council of Concordance/Florius|Florius]]
+- [[NPC/Council of Concordance/Floris|Floris]]
 - [[NPC/Council of Concordance/Flurris|Flurris]]
 - [[NPC/Hasaba Krelveri|Hasaba Krelveri]]
 - [[NPC/Hsing|Hsing]]
@@ -32,6 +88,7 @@ SORT file.name ASC
 - [[NPC/Crew/Kobolds|Kobolds]]
 - [[NPC/Krenko|Krenko]]
 - [[NPC/Lord Admiral Varl|Lord Admiral Varl]]
+- [[NPC/Masa|Masa]]
 - [[NPC/Crew/Myrmidon (Günter)|Myrmidon (Günter)]]
 - [[NPC/Council of Concordance/Nasir Glynmoira|Nasir Glynmoira]]
 - [[NPC/Nausius Ven|Nausius Ven]]
