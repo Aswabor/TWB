@@ -74,6 +74,7 @@ Einmal pro Tag kann von der Grossen Hauptbalista ein Geschoss gefeuert werden we
 ### Elemental Gem (Water)
 Ein water [[NPC/Crew/Myrmidon (Günter)|elemental myrmidon]] wacht stehts über das schiff, muss jedoch immer in armslänge bleiben.
 
+## Story
 D Arelia isch en:
 Mastery Gem
 Wondrous item, Artifact
