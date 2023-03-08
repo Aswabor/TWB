@@ -9,16 +9,17 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
 | [[NPC/Masa.md\|Masa]]                                                                                                                                      | \-                 | \-       |
 | [[NPC/Ysri von Varaxis.md\|Ysri von Varaxis]]                                                                                                              | Nalt-Shatap        | Ardir    |
+| [[NPC/Agren.md\|Agren]]                                                                                                                                    | Nalt-Shatap        | Ardir    |
 | [[NPC/Oreg.md\|Oreg]]                                                                                                                                      | Nalt-Shatap        | Ardir    |
 | [[NPC/Lord Admiral Varl.md\|Lord Admiral Varl]]                                                                                                            | Nalt-Shatap        | Ardir    |
 | [[NPC/Hasaba Krelveri.md\|Hasaba Krelveri]]                                                                                                                | Nalt-Shatap        | Ardir    |
-| [[NPC/Agren.md\|Agren]]                                                                                                                                    | Nalt-Shatap        | Ardir    |
 | [[NPC/Trodmu Steiflüsterer.md\|Trodmu Steiflüsterer]]                                                                                                      | Dwarf-Mines        | Ardir    |
 | [[NPC/Sahil.md\|Sahil]]                                                                                                                                    | Dwarf-Mines        | Ardir    |
 | [[NPC/Pharaoh Atok-Kaman.md\|Pharaoh Atok-Kaman]]                                                                                                          | Anaurochsche Wüste | Ardir    |
 | [[NPC/Hsing.md\|Hsing]]                                                                                                                                    | Anaurochsche Wüste | Ardir    |
 | [[NPC/Azam.md\|Azam]]                                                                                                                                      | Anaurochsche Wüste | Ardir    |
 | [[NPC/Kapitän Nofre-ka-ra.md\|Kapitän Nofre-ka-ra]]                                                                                                        | Sigil              | Outlands |
+| [[NPC/Council of Concordance/Comtesse Bérénice Valluy de la Maison des ombres de la nuit.md\|Comtesse Bérénice Valluy de la Maison des ombres de la nuit]] | Sigil              | Outlands |
 | [[NPC/Council of Concordance/Ursula Mortem.md\|Ursula Mortem]]                                                                                             | Sigil              | Outlands |
 | [[NPC/Council of Concordance/Ulrak Champion of Ice.md\|Ulrak Champion of Ice]]                                                                             | Sigil              | Outlands |
 | [[NPC/Council of Concordance/Sarandiel.md\|Sarandiel]]                                                                                                     | Sigil              | Outlands |
@@ -30,10 +31,9 @@
 | [[NPC/Council of Concordance/Firmis.md\|Firmis]]                                                                                                           | Sigil              | Outlands |
 | [[NPC/Council of Concordance/Fervis.md\|Fervis]]                                                                                                           | Sigil              | Outlands |
 | [[NPC/Council of Concordance/Didaran.md\|Didaran]]                                                                                                         | Sigil              | Outlands |
-| [[NPC/Council of Concordance/Comtesse Bérénice Valluy de la Maison des ombres de la nuit.md\|Comtesse Bérénice Valluy de la Maison des ombres de la nuit]] | Sigil              | Outlands |
 | [[NPC/Crew/Myrmidon (Günter).md\|Myrmidon (Günter)]]                                                                                                       | Aurelia            | Party    |
-| [[NPC/Crew/Kobolds.md\|Kobolds]]                                                                                                                           | Aurelia            | Party    |
 | [[NPC/Crew/Aurelia.md\|Aurelia]]                                                                                                                           | Aurelia            | Party    |
+| [[NPC/Crew/Kobolds.md\|Kobolds]]                                                                                                                           | Aurelia            | Party    |
 | [[NPC/Nausius Ven.md\|Nausius Ven]]                                                                                                                        | 10thDistrict       | Ravnica  |
 | [[NPC/Krenko.md\|Krenko]]                                                                                                                                  | 10thDistrict       | Ravnica  |
 
