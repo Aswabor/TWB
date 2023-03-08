@@ -23,7 +23,7 @@
 >  
 > ***Ink Cloud.*** (Recharges after a Short or Long Rest). While underwater, the krasis can use a bonus action to expel a cloud of ink and then move up to its speed. The ink cloud is stationary and fills a 20-foot-radius sphere centered on a point in the krasis's space before it moves. The sphere is heavily obscured until the ink dis- perses after l minute. A strong current also disperses the ink cloud.  
 >  
-> ***Crabber.*** When the Krasis hits a creature with its arms, the target is grappled (escape DC 19) by a specialized grasping appendage on the Krasis. It can have only one creature grappled in this way at a time.  
+> ***Grabber.*** When the Krasis hits a creature with its arms, the target is grappled (escape DC 19) by a specialized grasping appendage on the Krasis. It can have only one creature grappled in this way at a time.  
 > ### Actions  
 > ***Multiattack.*** The Krasis makes three attacks: one with its bite and two with its arms.  
 >  
