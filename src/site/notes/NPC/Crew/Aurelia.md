@@ -74,6 +74,9 @@ Einmal pro Tag kann von der Grossen Hauptbalista ein Geschoss gefeuert werden we
 ### Elemental Gem (Water)
 Ein water [[NPC/Crew/Myrmidon (Günter)|elemental myrmidon]] wacht stehts über das schiff, muss jedoch immer in armslänge bleiben.
 
+### Candle Of Anti-Light
+Once per day you can choose one deck of the aurelia to be covered in magical darknes this lasts for 10 minutes. you regain this feature dayli at dusk.
+
 ## Story
 D Arelia isch en:
 Mastery Gem
