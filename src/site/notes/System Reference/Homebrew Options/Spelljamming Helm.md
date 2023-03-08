@@ -12,3 +12,5 @@ This Helm is a modernized version of the [Furnace Helm](https://5e.tools/items.h
 This Helm counts as an 11th level spellcaster for [Spell Surge](https://5e.tools/optionalfeatures.html#spell%20surge_wjmais) and _Hover Sailing_, though a Helmsman is still required to control the helm.
 
 If a sentient magic item is used as the artifact in the _Artifurnace_, that sentient magic item becomes the Helmsman of the wildjammer.
+
+You gain 5 levels of exaoustion upun unatuning from a spelljamming helm
