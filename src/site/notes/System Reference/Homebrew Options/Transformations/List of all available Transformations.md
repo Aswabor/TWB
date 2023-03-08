@@ -60,7 +60,6 @@ one year, can only be cured by a wish spell. If a character is killed and resurr
 
 
 
-# Aberrant Horror
 A cloaked figure flees through the dimly lit city streets. The guards appear to have the upper hand, until she turns to greet them—a hulking mess of spines, claws, and gnashing maws.
 
 Lightning cracks. A mad doctor bellows in triumph as a once-deceased woman rises. With three fleshy tentacles sprouting from her back, his newest creation is complete. Thunder booms as the woman approaches the doctor menacingly, tendrils extended. Not all successful experiments end well.
@@ -103,10 +102,10 @@ At 1st level, you gain the following adaptations:
 >###### Eldritch Limbs
 >You can transform one or both of your arms into a weapon of thick muscle, sharp claws, or hardened bone. When you make an attack, you can use this Adaptation. If you do, you gain the following features:
 >• You can choose what type of damage your unarmed attacks will cause, from Piercing, Bludgeoning, or Slashing. Your arm becomes a claw, tusk, or bone club, depending on the damage type chosen.
->• You may roll a d6 in place of normal damage for unarmed strikes.
+>• You may add a d4 to the normal damage for unarmed strikes.
 >• You cannot hold any object in the affected arm. This includes, but is not limited to, weapons, [[System Reference/Homebrew Options/Armor/Shields|shields]], and spellcasting focuses. Any object you are holding merges into your adaptation or immediately drops to the ground. The GM may decide if they feel the object is too large to merge.
-
-This adaptation lasts until you become knocked unconscious. On your turn, you may use a bonus action to end this adaptation.
+>
+>This adaptation lasts until you become knocked unconscious. On your turn, you may use a bonus action to end this adaptation.
 
 #### Transformation Boon: Aberrant Form
 Your Constitution score increases by 2 and your Strength score increases by 1. An ability score cannot be increased beyond 16 this way.
