@@ -382,7 +382,7 @@ wo sich s Portal schlüssed merked ihr wie Starch das zie gsi isch wo ihr gspüh
 	- [x] [[The Story/2022-07-06#Reise und Transport|2022-07-06#Reise und Transport]]
 - [x] Wer spricht sie im rat an und was sagen sie wer empfängt sie in [[Places/Cosmology/Planes of Existance/Outer Planes/Outlands/Sigil|Sigil]] und unter welchen umständen? 
       --> 2 Marut guards
-- [-] Sie werden vorerst nicht als verbrecher behandelt haben jedoch nicht die Freiheit ihr zimmer zu verlassen. 
+- [x] Sie werd en vorerst nicht als verbrecher behandelt haben jedoch nicht die Freiheit ihr zimmer zu verlassen. 
 
 - [x] Beschreibung der [[Places/Cosmology/Planes of Existance/Outer Planes/Outlands/Hall of Concordance|Hall of Concordance]]!
 	[[The Story/2022-07-06#Eintritt in die Halle|2022-07-06#Eintritt in die Halle]]
